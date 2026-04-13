@@ -1,0 +1,3031 @@
+id,skill_raw
+1,gestão de pessoas
+2,People Management
+3,SQL
+4,sql avançado
+5,machine learning
+6,comunicação assertiva
+7,python
+8,PYTHON
+9,análise de dados
+10,resolução de conflitos
+11,power bi
+12,PowerBI
+13,espiritualidade
+14,excel avançado
+15,scrum
+16,Metodologias Ágeis
+17,storytelling com dados
+18,pensamento crítico
+19,Critical Thinking
+20,versionamento de código
+21,Git
+22,cloud computing
+23,AWS
+24,engenharia de dados
+25,ETL
+26,visão de produto
+27,Product Sense
+28,Alinhamento com o universo
+29,inteligência emocional
+30,negociação
+31,data governance
+32,feature extraction
+33,auto-organização
+34,excel básico
+35,SQL
+36,trabalho colaborativo
+37,emotional regulation
+38,risk management
+39,cash flow analysis
+40,imagens docker
+41,micro services
+42,orientação a dados
+43,modelos de embedding
+44,statistical experimentation
+45,gestão de capital humano
+46,empathy mapping
+47,infrastructure automation
+48,versatilidade
+49,supporting growth
+50,BDD
+51,redação profissional
+52,DCF
+53,git
+54,negotiation tactics
+55,organização pessoal
+56,python avançado
+57,data schema
+58,gerenciamento de projetos
+59,multivariate testing
+60,independent execution
+61,vector databases
+62,people manager
+63,personal organization
+64,desenvolvimento de APIs
+65,power bi
+66,dealing with change
+67,hive
+68,continuous integration
+69,mentalidade de dono
+70,version control
+71,spark SQL
+72,balance sheet analysis
+73,object detection
+74,employee development
+75,managing group dynamics
+76,OLAP
+77,js
+78,tech lead
+79,orquestração de workflows
+80,negociação comercial
+81,visualização de dados
+82,promover cultura
+83,gerenciamento de times
+84,LGPD compliance
+85,aprendizado não supervisionado
+86,fluxo de caixa descontado
+87,langchain
+88,priorização
+89,validação de modelos
+90,team conflict resolution
+91,APM
+92,mudança organizacional
+93,integridade de dados
+94,pipeline de ML
+95,busca vetorial
+96,image processing
+97,pensar como empreendedor
+98,people leadership
+99,automação de workflows
+100,model monitoring
+101,real-time processing
+102,transformers architecture
+103,deep learning
+104,transformar dados em histórias
+105,apache spark
+106,estratégia de branches
+107,SOLID principles
+108,gestão emocional
+109,named entity recognition
+110,análise de dados avançada
+111,test-driven development
+112,seleção de candidatos
+113,sourcing de talentos
+114,hdfs
+115,busca semântica
+116,google cloud services
+117,container
+118,retrieval augmented generation
+119,fórmulas excel
+120,seleção de candidatos
+121,psql
+122,excel
+123,spark streaming
+124,definir estratégia
+125,apache airflow
+126,risk assessment
+127,DCF
+128,kubernetes scaling
+129,pull request
+130,javascript backend
+131,text processing
+132,estatística aplicada
+133,user research
+134,product discovery
+135,data workflow management
+136,named entity recognition
+137,gestão de performance
+138,autoconsciência emocional
+139,product strategy
+140,quantitative thinking
+141,construção de APIs
+142,learning new skills
+143,análise de texto
+144,distributed computing spark
+145,métricas
+146,comunicação transparente
+147,estratégia de produto
+148,google cloud
+149,python para dados
+150,data engineering
+151,pipelines de dados
+152,written communication
+153,large language models
+154,emotional awareness
+155,change adoption
+156,own initiative
+157,model validation
+158,ETL development
+159,entender o cliente
+160,customer success mindset
+161,gestão do tempo
+162,GDPR
+163,people coaching
+164,screening candidates
+165,scrum master
+166,testes automatizados
+167,CNN
+168,cultura e estrutura organizacional
+169,looker analytics
+170,self-starter
+171,RCA
+172,mediação de conflitos
+173,typescript frontend
+174,integridade de dados
+175,sklearn
+176,Docker
+177,OLAP
+178,user-centric thinking
+179,cloud data warehouse
+180,resolução de problemas complexos
+181,detecção de anomalias
+182,cobertura de testes
+183,organizar tarefas
+184,aws lambda
+185,business strategy
+186,deep learning development
+187,foco no usuário
+188,gestão de escopo
+189,vendor negotiation
+190,modelos financeiros
+191,advanced SQL
+192,visualização de dados
+193,RESTful API
+194,financial modeling
+195,alinhar expectativas
+196,frontend javascript
+197,regulatory knowledge
+198,container deployment
+199,colaboração
+200,data infrastructure
+201,langchain development
+202,shell scripting
+203,resolução de problemas
+204,problem solving
+205,people manager
+206,completude de dados
+207,API architecture
+208,image segmentation
+209,testes de hipótese
+210,tech mentor
+211,managing resistance to change
+212,data engineer
+213,data transformation para modelos
+214,looker reports
+215,conformidade regulatória
+216,resolução de conflitos
+217,python
+218,desenvolvimento de equipes
+219,dbt transformations
+220,mentalidade empreendedora
+221,task prioritization
+222,team collaboration
+223,conflict resolution
+224,customer-centric
+225,descoberta de produto
+226,time series forecasting
+227,negotiation
+228,design técnico
+229,trabalhar em time
+230,human-centered design
+231,audience engagement
+232,microsserviços
+233,product development
+234,resolver problemas
+235,TS
+236,image recognition
+237,resilience
+238,programação em python
+239,yarn
+240,scrum
+241,variáveis preditivas
+242,statistics
+243,normalização de dados
+244,modelos de ML
+245,facilitar reuniões
+246,organizational growth
+247,ideation
+248,dados temporais
+249,interpersonal communication
+250,intrapreneurship
+251,contract negotiation
+252,power bi service
+253,data exploration
+254,classification models
+255,SOLID
+256,advanced python
+257,trabalho independente
+258,R language
+259,deliver presentations
+260,construção de APIs
+261,completude de dados
+262,growth mindset
+263,python para dados
+264,coaching de pessoas
+265,automação de testes
+266,orientação ao cliente
+267,data analysis
+268,gerir colaboradores
+269,kubernetes scaling
+270,conformidade regulatória
+271,gestão de produto
+272,retrieval augmented generation
+273,service mesh
+274,streaming de dados
+275,prioritization
+276,talent acquisition
+277,PostgreSQL
+278,machine learning models
+279,gestão de conflitos
+280,mentoria
+281,mentalidade adaptativa
+282,análise de decisão
+283,root cause analysis
+284,aprendizado supervisionado
+285,validação de dados
+286,facilitation techniques
+287,PySpark
+288,versatility
+289,pensar no longo prazo
+290,apresentar ideias
+291,influenciar sem autoridade
+292,REST API
+293,build automation
+294,hadoop
+295,cache distribuído
+296,sistemas distribuídos
+297,aws cloud
+298,experiência do usuário
+299,lean agile
+300,critical judgment
+301,promover cultura
+302,google cloud data
+303,gestão de stakeholders
+304,performance de modelos
+305,metas e resultados
+306,team management
+307,scripting python
+308,avaliação de LLMs em produção
+309,embedding models
+310,neural nets
+311,observabilidade
+312,criação de variáveis
+313,gerenciar projetos
+314,comunicação profissional
+315,react
+316,data protection
+317,streaming de dados
+318,maturidade emocional
+319,github actions
+320,tableau analytics
+321,context switching
+322,planejamento anual
+323,airflow
+324,cache distribuído
+325,k8s
+326,aprendizado não supervisionado
+327,visualização de dados
+328,governança de dados
+329,lang chain
+330,reconhecimento de imagens
+331,cultura de inovação
+332,spark streaming
+333,inferência estatística
+334,typescript development
+335,drive innovation
+336,python para dados
+337,DQ
+338,aprendizado de máquina
+339,gestão de mudanças
+340,git
+341,desenvolvimento de colaboradores
+342,financial modeling
+343,customer empathy
+344,raciocínio lógico
+345,stakeholder communication
+346,javascript
+347,precision recall
+348,documentation
+349,product owner
+350,comunicar bem
+351,cloudformation
+352,long-term thinking
+353,functional scala
+354,project execution
+355,classification models
+356,avaliar modelos
+357,python para dados
+358,arquitetura limpa
+359,financial statements analysis
+360,power bi analytics
+361,desenvolvimento organizacional
+362,prefect
+363,innovative solutions
+364,spreadsheets
+365,registro de modelos
+366,testes de hipótese
+367,pipeline scheduling
+368,tomada de decisão
+369,comunicação escrita
+370,TypeScript
+371,vector store
+372,database queries
+373,dbt cloud
+374,comunicação escrita
+375,deploy automatizado
+376,planejar estrategicamente
+377,balance sheet analysis
+378,creative problem solving
+379,resolver divergências
+380,agilidade de aprendizado
+381,decision-making
+382,containers
+383,fine-tuning LLMs
+384,user-centric thinking
+385,openness to change
+386,adaptability
+387,big data spark
+388,embeddings
+389,práticas ágeis
+390,system monitoring
+391,DW
+392,unittest
+393,foco no usuário
+394,comunicação com stakeholders
+395,professional writing
+396,scope management
+397,escrita clara
+398,senso de produto
+399,programar em python
+400,employer brand
+401,power bi desktop
+402,lang chain
+403,compliance e regulação
+404,trabalhar sem supervisão
+405,retrieval augmented generation
+406,comunicação com stakeholders
+407,emotional management
+408,salary negotiation
+409,strategic thinking
+410,liderança de engenharia
+411,Python
+412,risk analysis
+413,people care
+414,data security
+415,data cleaning
+416,fechar acordos
+417,LookML
+418,decision-making
+419,planilhas
+420,risk taking
+421,postgresql optimization
+422,context switching
+423,ggplot2
+424,SQL writing
+425,fastapi
+426,sentiment analysis
+427,LLM development
+428,logging
+429,compelling data presentations
+430,product strategy
+431,scala functional programming
+432,SQL avançado
+433,airflow
+434,self-management
+435,culture of innovation
+436,FastAPI backend
+437,API development
+438,command line scripting
+439,pipeline scheduling
+440,API REST
+441,discounted cash flow
+442,empathy mapping
+443,data orientation
+444,agilidade
+445,LLMs
+446,azure machine learning
+447,technical team guidance
+448,normalização de dados
+449,gerenciamento de riscos
+450,infrastructure provisioning
+451,tomar decisões
+452,pytest
+453,cache redis
+454,projeções financeiras
+455,TypeScript
+456,salary negotiation
+457,programação java
+458,indicadores-chave
+459,angular
+460,pitching
+461,extração de features
+462,independent services
+463,kubernetes pods
+464,amazon web services
+465,data integrity
+466,testes unitários
+467,HDFS
+468,gerenciamento de pessoas
+469,mapa de empatia
+470,avaliação de desempenho
+471,javascript
+472,GIT
+473,agile frameworks
+474,entrevistas de emprego
+475,self-management
+476,risk-based decision
+477,SLI SLO SLA
+478,gke
+479,strategic mindset
+480,valores organizacionais
+481,mineração de texto
+482,stakeholder management
+483,ser mentor
+484,problem solving
+485,mediation skills
+486,java
+487,análise de vídeo
+488,PSQL
+489,autonomous work
+490,python scripting
+491,logs
+492,capability building
+493,data manipulation
+494,comunicação direta
+495,design de sistemas
+496,inteligência emocional
+497,data-driven mindset
+498,dbt models
+499,comunicação no trabalho
+500,workflow automation
+501,javascript backend
+502,datadog
+503,cloudformation
+504,intrapreneurship
+505,cross-validation
+506,compliance
+507,monitoramento de LLM
+508,KPIs
+509,risk analysis
+510,vector search
+511,organizational culture
+512,AWS
+513,lidar com conflitos
+514,resolver conflitos interpessoais
+515,mitigação de riscos
+516,fast api
+517,expressing ideas clearly
+518,trabalhar sem supervisão
+519,clarity in communication
+520,dockerfile
+521,job interviews
+522,cloud AWS
+523,facilitar workshops
+524,containerization
+525,business writing
+526,team building
+527,engajamento de stakeholders
+528,people ops
+529,customer needs understanding
+530,rastreamento de prompts
+531,infrastructure automation
+532,LLM applications
+533,learning programs
+534,entidade relacionamento
+535,teamwork
+536,gerenciamento do tempo
+537,flexibility
+538,redshift
+539,análise de decisão
+540,managing projects
+541,LGPD
+542,clean architecture
+543,react
+544,text analysis
+545,comunicação interpessoal
+546,dagster
+547,containers
+548,análise de dados
+549,UX insights
+550,langchain
+551,prometheus
+552,system architecture
+553,corporate culture
+554,managing deadlines
+555,stream processing
+556,estatística aplicada
+557,EVP
+558,client focus
+559,engineering leadership
+560,kubernetes scaling
+561,monitoramento de modelos
+562,negotiation techniques
+563,análise de sentimentos
+564,negotiating deals
+565,contratação
+566,integração de dados
+567,roadmap de produto
+568,privacidade de dados
+569,metodologias ágeis
+570,professional coaching
+571,obsessão pelo cliente
+572,inference hugging face
+573,limpeza de dados
+574,key performance indicators
+575,spirit of collaboration
+576,SQL manipulation
+577,fastapi development
+578,prefect
+579,good writing
+580,product strategy
+581,PM
+582,Terraform
+583,anomaly detection in time series
+584,mudança organizacional
+585,probabilidade
+586,python avançado
+587,event streaming
+588,Git
+589,empreendedorismo
+590,langchain chains
+591,PBI
+592,project oversight
+593,data pipelines
+594,product ownership
+595,validação de dados
+596,kubernetes
+597,people performance
+598,SOLID principles
+599,willingness to learn
+600,empreendedorismo
+601,test coverage
+602,estratégia de produto
+603,critical mindset
+604,cloudformation
+605,risco operacional
+606,shell automation
+607,statistical analysis
+608,RDS
+609,assumir riscos
+610,reconhecimento de imagens
+611,operational risk
+612,public speaking
+613,javascript backend
+614,data transformation
+615,learning agility
+616,text generation
+617,PM
+618,VBA
+619,ideação
+620,product management
+621,corporate culture
+622,pensamento quantitativo
+623,people coaching
+624,GDPR compliance
+625,cross-functional collaboration
+626,apache spark
+627,problem-solving
+628,SQL avançado
+629,customer centricity
+630,alinhamento de stakeholders
+631,modelagem dimensional
+632,Hugging Face
+633,model evaluation
+634,deliver presentations
+635,previsão de séries temporais
+636,apresentar dados
+637,FAISS
+638,questionar premissas
+639,independent work
+640,cloud run
+641,treinamento corporativo
+642,mudança organizacional
+643,T&D
+644,tracing
+645,SQL básico
+646,descriptive statistics
+647,spreadsheet
+648,coordenação de projetos
+649,oral communication
+650,compliance de dados
+651,data completeness
+652,LGPD
+653,temporal modeling
+654,managing group dynamics
+655,effective communication
+656,hadoop
+657,resolver problemas
+658,detecção de objetos
+659,agile mindset
+660,azure AI
+661,web development javascript
+662,proatividade
+663,similaridade semântica
+664,verbal communication
+665,hugging face
+666,semantic search
+667,orquestração de containers
+668,aprendizado de máquina
+669,avaliação de riscos
+670,risk taking
+671,trabalho em equipe
+672,data extraction
+673,power query
+674,NoSQL database
+675,structured query language
+676,habilidades de apresentação
+677,automação de testes
+678,serviços independentes
+679,programação em python
+680,modelagem estatística
+681,data integrity
+682,EQ
+683,OKR framework
+684,abertura a mudanças
+685,microservices
+686,clean architecture
+687,kafka
+688,comunicação com stakeholders
+689,treinamento e desenvolvimento
+690,negotiating deals
+691,comunicação assertiva
+692,excel formulas
+693,data quality
+694,Postgres
+695,engenharia de dados
+696,decisões baseadas em dados
+697,time series forecasting
+698,definir estratégia
+699,atração de talentos
+700,coordenação de projetos
+701,testing
+702,negociar com clientes
+703,gestão de capital humano
+704,azure cloud
+705,document writing
+706,critical thinking
+707,excel básico
+708,análise exploratória
+709,cultura organizacional
+710,conflict resolution
+711,spreadsheets
+712,AB tests
+713,decisão sob incerteza
+714,design research
+715,gerenciar desentendimentos
+716,monitoramento de modelos
+717,self-learning
+718,decoupled services
+719,vontade de aprender
+720,time management
+721,model performance
+722,testes de usabilidade
+723,change adoption
+724,séries temporais
+725,gerenciar projetos
+726,ggplot
+727,organizational effectiveness
+728,python scripting
+729,trabalho independente
+730,dimensional modeling
+731,user stories
+732,análise de fluxo de caixa
+733,comunicação transparente
+734,visão estratégica de produto
+735,information security
+736,merge
+737,vontade de aprender
+738,performance de modelos
+739,resolução de conflitos
+740,big data spark
+741,HuggingFace
+742,organizational effectiveness
+743,Git
+744,postgres
+745,presenting to stakeholders
+746,negotiation
+747,kubectl
+748,good writing
+749,transformação organizacional
+750,kafka
+751,mediation skills
+752,falar em público
+753,autogestão
+754,espírito de equipe
+755,liderança de time
+756,talent sourcing
+757,ggplot2
+758,gestão de talentos
+759,financial scenarios
+760,insights communication
+761,critical decision making
+762,machine learning engineer
+763,HuggingFace
+764,comunicação verbal
+765,apresentar ideias
+766,planejamento empresarial
+767,commits
+768,Terraform
+769,redes neurais profundas
+770,gerenciar prazos
+771,desenvolvimento de pessoas
+772,innovative solutions
+773,data manipulation
+774,JAVA
+775,proteção de dados
+776,gestão de mudanças
+777,intellectual curiosity
+778,análise de demonstrativos
+779,making decisions
+780,design de sistemas
+781,kafka
+782,fórmulas excel
+783,scripts bash
+784,descriptive analytics
+785,aprendizagem contínua
+786,adaptive mindset
+787,negociação de salários
+788,JS
+789,disruptive thinking
+790,emotional resilience
+791,code review
+792,Excel
+793,liderança humana
+794,mentorship skills
+795,roadmap de produto
+796,js
+797,mlflow
+798,privacidade de dados
+799,tableau public
+800,SQL queries
+801,learning new skills
+802,soluções inovadoras
+803,cli scripting
+804,microservices architecture
+805,HuggingFace
+806,model evaluation
+807,planilhas
+808,testes A/B
+809,ML flow
+810,mentalidade data-driven
+811,critical evaluation
+812,compliance program
+813,microsserviços
+814,BI reports
+815,problem-solving
+816,strategic negotiation
+817,emotional maturity
+818,autonomia
+819,deep learning development
+820,negotiating disagreements
+821,pg
+822,pg
+823,cloud GCP
+824,commits
+825,tableau
+826,modelagem estatística
+827,macros excel
+828,arquitetura de dados
+829,excel avançado
+830,mlflow models
+831,spark dataframes
+832,datadog
+833,jenkins
+834,sql
+835,entrepreneurship
+836,conflict mitigation
+837,identificar causas raiz
+838,pipeline de ML
+839,next.js
+840,pensamento lógico
+841,expressing ideas clearly
+842,empatia
+843,conduzir workshops
+844,critical mindset
+845,estatística com R
+846,org development
+847,understanding customers
+848,logging
+849,negotiation skills
+850,event-driven data
+851,MapReduce
+852,facilitar workshops
+853,excel
+854,handling disagreements
+855,aligning expectations
+856,estatística descritiva
+857,monitoramento e observabilidade
+858,sourcing de talentos
+859,hiring
+860,objectives and key results
+861,organizational values
+862,liderança de colaboradores
+863,design thinking
+864,modelagem relacional
+865,clustering
+866,document writing
+867,gitlab CI
+868,processamento de texto
+869,data architecture
+870,autoconsciência emocional
+871,data security
+872,controle de versão
+873,People Management
+874,setting strategy
+875,Redis
+876,Scala
+877,SQL postgres
+878,regulatory compliance
+879,estratégia de branches
+880,cliente em primeiro lugar
+881,deep learning development
+882,bash
+883,análise de balanço
+884,monitoramento de LLM
+885,práticas ágeis
+886,candidate selection
+887,normalização de dados
+888,tensorflow
+889,real-time processing
+890,SQS
+891,emotional self-regulation
+892,aprendizado autodidata
+893,project oversight
+894,data wrangling
+895,modelagem de dados
+896,product sense
+897,decision making
+898,aquisição de talentos
+899,UX research
+900,postgresql
+901,alerting
+902,postgresql
+903,corporate training
+904,gestão de pessoas
+905,Employer Branding
+906,real-time data
+907,design sprint
+908,orientar pessoas
+909,team building
+910,risk management
+911,aws infrastructure
+912,time series analysis
+913,programação em R
+914,negociação estratégica
+915,saber se comunicar
+916,comunicação de feedbacks
+917,gestão das próprias emoções
+918,meeting facilitation
+919,planejamento de projetos
+920,ARIMA
+921,transformações dbt
+922,ETL
+923,cultura e clima
+924,raciocínio lógico
+925,excel avançado
+926,gerenciar prazos
+927,python fastapi
+928,pull request
+929,employer marketing
+930,meeting facilitation
+931,inovação
+932,decision analysis
+933,terraform
+934,entrevistas de emprego
+935,monitoramento e observabilidade
+936,prompt tracking
+937,visualização de dados
+938,python developer
+939,computer vision
+940,indicadores financeiros
+941,gerenciamento de riscos
+942,agile methodologies
+943,gestão de stakeholders
+944,microsoft excel
+945,grafana
+946,career mentoring
+947,generative AI
+948,bigquery
+949,openai api
+950,PBI
+951,validação cruzada
+952,technical team guidance
+953,liderança de equipes
+954,linguagem R
+955,strategic mindset
+956,fine-tuning
+957,IA generativa
+958,ML pipeline
+959,shell automation
+960,CNN
+961,design técnico
+962,statistical analysis
+963,team culture
+964,comunicar insights
+965,java backend
+966,model metrics
+967,excel avançado
+968,scala programming
+969,MLflow
+970,object detection
+971,orquestração de workflows
+972,retrospectiva
+973,looker reports
+974,Scala
+975,PSQL
+976,access control
+977,k8s cluster
+978,complex problem solving
+979,collaboration
+980,data storytelling
+981,ML pipeline
+982,planejamento anual
+983,data build tool
+984,emotional management
+985,design centrado no humano
+986,empatia com o cliente
+987,financial analysis
+988,tableau
+989,relatórios power bi
+990,logical thinking
+991,facilitation techniques
+992,NLP
+993,looker studio
+994,model evaluation
+995,data ingestion
+996,visão estratégica de produto
+997,automação de build
+998,income statement
+999,data security
+1000,dashboards power bi
+1001,valores organizacionais
+1002,critical evaluation
+1003,regulação emocional
+1004,inferência estatística
+1005,regression models
+1006,objectives and key results
+1007,RCA
+1008,cultura de time
+1009,criptografia
+1010,vector databases
+1011,feature selection
+1012,pensar como PM
+1013,facilitação
+1014,azure services
+1015,pensamento estratégico
+1016,decisão estratégica
+1017,entrepreneurial thinking
+1018,consistência de dados
+1019,Langfuse
+1020,entrepreneurial mindset
+1021,web services
+1022,database queries
+1023,transformers library
+1024,reconhecimento óptico de caracteres
+1025,aws RDS
+1026,objectives and key results
+1027,aws lambda
+1028,valuation
+1029,azure ML
+1030,vue.js
+1031,GCP
+1032,company culture
+1033,Bash
+1034,nodejs
+1035,workshop facilitation
+1036,test automation
+1037,customer-centric
+1038,SQL analytics
+1039,tidyverse
+1040,vector search
+1041,change communication
+1042,DRE
+1043,autonomia
+1044,cash flow analysis
+1045,pull request
+1046,postgresql
+1047,migração de dados
+1048,written communication
+1049,maturidade emocional
+1050,RAG
+1051,learning programs
+1052,project delivery
+1053,metrics
+1054,gerenciar equipes
+1055,eks
+1056,azure
+1057,banco de dados vetorial
+1058,LangChain
+1059,arquitetura de dados
+1060,recruitment
+1061,application performance monitoring
+1062,monitoramento de LLM
+1063,LLM deployment
+1064,dar feedback
+1065,azure machine learning
+1066,ELT
+1067,design research
+1068,snowflake
+1069,facilitation skills
+1070,pitch de ideias
+1071,consultas SQL
+1072,FastAPI backend
+1073,agile mindset
+1074,azure devops
+1075,document writing
+1076,administrar conflitos
+1077,definição de OKRs
+1078,feedback communication
+1079,critical analysis
+1080,agile
+1081,technical leadership
+1082,web API
+1083,micro services
+1084,APIs com FastAPI
+1085,recrutamento e seleção
+1086,business analytics
+1087,técnicas de facilitação
+1088,dbt transformations
+1089,design sprint
+1090,building APIs
+1091,integração de APIs
+1092,negociar com clientes
+1093,fluxo de caixa descontado
+1094,facilitar workshops
+1095,hadoop ecosystem
+1096,falar em público
+1097,probabilidade
+1098,azure AI
+1099,visão de longo prazo
+1100,project coordination
+1101,system monitoring
+1102,cultura de time
+1103,LLM monitoring
+1104,building pipelines
+1105,product thinking
+1106,system design
+1107,growth mindset
+1108,acompanhar OKRs
+1109,pensamento centrado no usuário
+1110,model fairness
+1111,sprints
+1112,aprendizado contínuo
+1113,cliente em primeiro lugar
+1114,alinhar expectativas
+1115,lifelong learning
+1116,schema design
+1117,gestão de riscos
+1118,analytics engineering
+1119,REST API
+1120,tableau server
+1121,extração de features
+1122,text processing
+1123,indicadores-chave
+1124,goals and key results
+1125,análise de séries temporais
+1126,documentação
+1127,scala
+1128,bigquery gcp
+1129,API architecture
+1130,fomentar inovação
+1131,huggingface transformers
+1132,tabelas dinâmicas
+1133,storytelling de dados
+1134,image classification
+1135,IA generativa
+1136,SQL básico
+1137,SOLID
+1138,priorizar tarefas
+1139,analytical thinking
+1140,python data
+1141,retrospectiva
+1142,technical writing
+1143,team leadership
+1144,pg
+1145,data loading
+1146,design de schema
+1147,narrative with data
+1148,conflict management
+1149,execução autônoma
+1150,data migration
+1151,IaC tools
+1152,entrega ágil
+1153,applied statistics
+1154,liderar tecnicamente
+1155,resolução de problemas
+1156,ELT
+1157,deploy com docker
+1158,gerenciar mudanças
+1159,entrega de projetos
+1160,CD pipeline
+1161,GCP
+1162,task organization
+1163,comunicação profissional
+1164,Git
+1165,métricas de modelos
+1166,self-starter
+1167,resiliência emocional
+1168,pensamento quantitativo
+1169,product discovery
+1170,DAX
+1171,organização pessoal
+1172,service-oriented architecture
+1173,hive
+1174,document database
+1175,cli scripting
+1176,feedback communication
+1177,dbt cloud
+1178,tomar decisões
+1179,entrepreneurial thinking
+1180,redes neurais
+1181,typescript development
+1182,LLMs
+1183,product roadmap
+1184,independent execution
+1185,SQL writing
+1186,controle de versão
+1187,métricas de modelos
+1188,roadmap de produto
+1189,redis queue
+1190,feedback communication
+1191,trabalho em equipe
+1192,jenkins
+1193,testes E2E
+1194,tableau public
+1195,time series
+1196,avaliação de empresas
+1197,spring boot
+1198,risk framework
+1199,avaliação de modelos
+1200,Amazon Web Services
+1201,pinecone
+1202,modelos financeiros
+1203,tensorflow
+1204,reputação como empregador
+1205,mudança organizacional
+1206,priority management
+1207,entrega ágil
+1208,PO
+1209,image classification
+1210,gitlab
+1211,SLI SLO SLA
+1212,estratégia de negócios
+1213,NER
+1214,variáveis preditivas
+1215,hadoop ecosystem
+1216,sound judgment
+1217,OKRs
+1218,adoção de mudanças
+1219,inteligência emocional
+1220,observability
+1221,split testing
+1222,cloud data warehouse
+1223,azure data factory
+1224,prompting
+1225,problem decomposition
+1226,data security
+1227,Apache Hive
+1228,integridade de dados
+1229,open source LLMs
+1230,building pipelines
+1231,metodologias ágeis
+1232,design research
+1233,influence without authority
+1234,Postgres
+1235,tomar decisões
+1236,gestão de performance
+1237,alinhar expectativas
+1238,foco no cliente
+1239,financial analysis
+1240,pipeline scheduling
+1241,presenting ideas
+1242,DQ
+1243,resolução de conflitos
+1244,basic SQL
+1245,java backend
+1246,python3
+1247,sistemas distribuídos
+1248,presenting data
+1249,UX research
+1250,Git
+1251,LLM pipelines
+1252,managing people
+1253,avaliação de empresas
+1254,ggplot
+1255,advanced data analysis
+1256,python development
+1257,access control
+1258,integração de APIs
+1259,R language
+1260,data validation
+1261,user experience
+1262,project manager skills
+1263,scala programming
+1264,tomada de decisão
+1265,insights communication
+1266,project planning
+1267,evidence-based decisions
+1268,working together
+1269,Power BI
+1270,group facilitation
+1271,supervised learning
+1272,data workflow management
+1273,escrita técnica
+1274,sistemas distribuídos
+1275,business analytics
+1276,comunicação com stakeholders
+1277,software testing
+1278,node.js
+1279,organizar tarefas
+1280,spring framework
+1281,data mart
+1282,conduzir retrospectivas
+1283,dados em tempo real
+1284,direção técnica
+1285,annual planning
+1286,vector store
+1287,alinhamento de stakeholders
+1288,excel avançado
+1289,warehouse architecture
+1290,spring framework
+1291,engenheiro de dados
+1292,R&S
+1293,pipeline orchestration
+1294,big picture thinking
+1295,continuous integration
+1296,reskilling programs
+1297,FastAPI
+1298,risco operacional
+1299,java programming
+1300,empreender
+1301,product strategy
+1302,dbt core
+1303,construção de cultura
+1304,liderar tecnicamente
+1305,acompanhar OKRs
+1306,data ingestion
+1307,customer orientation
+1308,datadog
+1309,typed javascript
+1310,troubleshooting
+1311,web API
+1312,programação em R
+1313,PySpark
+1314,métricas de modelos
+1315,coaching profissional
+1316,long-term planning
+1317,relatórios power bi
+1318,abertura a mudanças
+1319,Prophet
+1320,text classification
+1321,scikit-learn
+1322,comunicar ideias
+1323,deadline management
+1324,EQ
+1325,continuous delivery
+1326,data privacy
+1327,vector databases
+1328,microservices architecture
+1329,shell scripting
+1330,agile project management
+1331,innovative thinking
+1332,colaboração interfuncional
+1333,growth mindset
+1334,independent services
+1335,modelos de linguagem grandes
+1336,flink
+1337,programação scala
+1338,managing deadlines
+1339,lidar com mudanças
+1340,js
+1341,client focus
+1342,bash
+1343,foco no cliente
+1344,change management
+1345,redação profissional
+1346,SOLID principles
+1347,customer centricity
+1348,ci/cd
+1349,PySpark
+1350,solução de problemas
+1351,SQL postgres
+1352,corporate training
+1353,Employer Branding
+1354,julgamento sólido
+1355,feature selection
+1356,microservices architecture
+1357,lean agile
+1358,busca vetorial
+1359,modelos de embedding
+1360,segurança de dados
+1361,text mining
+1362,intrapreneurship
+1363,Python
+1364,modelagem relacional
+1365,PYTHON
+1366,seleção de features
+1367,problem decomposition
+1368,exploração de dados
+1369,contract negotiation
+1370,power bi desktop
+1371,power query excel
+1372,tableau reports
+1373,scikit-learn
+1374,decomposição de problemas
+1375,solução de problemas
+1376,workflow orchestration
+1377,gestão do tempo
+1378,python developer
+1379,gke
+1380,docker-compose
+1381,python
+1382,organizational effectiveness
+1383,time management
+1384,extração de insights
+1385,infraestrutura como código
+1386,validação de modelos
+1387,ideação
+1388,estratégia de produto
+1389,big data hadoop
+1390,apache airflow
+1391,text processing
+1392,structured problem solving
+1393,business modeling
+1394,data manipulation
+1395,design técnico
+1396,atração de talentos
+1397,programação scala
+1398,extração de insights
+1399,emotional resilience
+1400,eks
+1401,product roadmap
+1402,teamwork
+1403,scala functional programming
+1404,código python
+1405,triagem de candidatos
+1406,social awareness
+1407,ggplot
+1408,cloud GCP
+1409,aligning expectations
+1410,pitching
+1411,managing expectations
+1412,postgresql avançado
+1413,complex problem solving
+1414,business intelligence
+1415,PowerBI
+1416,power bi service
+1417,ciclo de vida de modelos
+1418,ingestão de dados
+1419,Dockerfile
+1420,data-driven decisions
+1421,efetividade organizacional
+1422,gerenciamento de pessoas
+1423,capacidade de aprendizagem
+1424,negociação comercial
+1425,javascript
+1426,SLI SLO SLA
+1427,TDD
+1428,self-organization
+1429,reconhecimento óptico de caracteres
+1430,versatilidade
+1431,scikit-learn
+1432,continuous learning
+1433,DW
+1434,decision analysis
+1435,análise financeira
+1436,spark ML
+1437,azure AI
+1438,planejamento estratégico
+1439,git flow
+1440,bancos analíticos
+1441,statistics
+1442,L&D
+1443,foco no usuário
+1444,ser mentor
+1445,intraempreendedorismo
+1446,problem solving
+1447,technical leadership
+1448,gcp
+1449,looker analytics
+1450,data visualization
+1451,model training
+1452,analytical orientation
+1453,sourcing de talentos
+1454,mudança de contexto
+1455,gerenciamento de pessoas
+1456,agile
+1457,influenciar sem autoridade
+1458,prototipagem
+1459,container deployment
+1460,communication skills
+1461,k8s cluster
+1462,azure devops
+1463,product ownership
+1464,langchain agents
+1465,habilidades de comunicação
+1466,liderança de pessoas
+1467,probability
+1468,APM
+1469,business strategy
+1470,R&S
+1471,Excel
+1472,building APIs
+1473,orientar pessoas
+1474,fila redis
+1475,looker
+1476,soluções inovadoras
+1477,OD
+1478,gerenciar partes interessadas
+1479,weaviate
+1480,pinecone
+1481,armazém de dados
+1482,critical judgment
+1483,engajamento de stakeholders
+1484,change leadership
+1485,data-informed decisions
+1486,spreadsheet
+1487,pensamento racional
+1488,technical lead
+1489,Apache Hadoop
+1490,cooperação
+1491,distribuições estatísticas
+1492,gestão de stakeholders
+1493,mentor
+1494,usability testing
+1495,problem resolution
+1496,resolução de divergências
+1497,tech mentor
+1498,negociar com clientes
+1499,otimização do tempo
+1500,IaC tools
+1501,data analysis
+1502,gestão de mudanças
+1503,gerir times
+1504,strategic negotiation
+1505,gestão de projetos
+1506,processamento de texto
+1507,strategy execution
+1508,fast api
+1509,API integration
+1510,rastreamento de experimentos
+1511,API design
+1512,java programming
+1513,model training
+1514,estatística aplicada
+1515,open source LLMs
+1516,storytelling de dados
+1517,SQL postgres
+1518,business planning
+1519,merge
+1520,emotional management
+1521,containers
+1522,application monitoring
+1523,storytelling com dados
+1524,escrever SQL
+1525,setting strategy
+1526,statistical analysis
+1527,efetividade organizacional
+1528,culture building
+1529,SOLID
+1530,data security
+1531,orientação analítica
+1532,project management
+1533,VBA
+1534,mentoria
+1535,CI pipeline
+1536,gestão das próprias emoções
+1537,A/B testing
+1538,typescript backend
+1539,liderança em mudanças
+1540,clustering
+1541,mitigação de riscos
+1542,postgres
+1543,avaliação de desempenho
+1544,time management
+1545,gestão emocional
+1546,containerização
+1547,entrega contínua
+1548,product understanding
+1549,objectives and key results
+1550,team management
+1551,LLM
+1552,Assertive Communication
+1553,DAX
+1554,DW
+1555,seleção de features
+1556,complex problem solving
+1557,automação shell
+1558,data cleaning
+1559,API design
+1560,temporal modeling
+1561,apresentação e oratória
+1562,liderança de time
+1563,obsessão pelo cliente
+1564,financial scenarios
+1565,container orchestration
+1566,mongodb atlas
+1567,escrita profissional
+1568,L&D
+1569,company culture
+1570,infraestrutura de dados
+1571,prototyping
+1572,SQL avançado
+1573,dashboards power bi
+1574,machine learning
+1575,comunicação oral
+1576,real-time data
+1577,career mentoring
+1578,java avançado
+1579,human-centered design
+1580,document writing
+1581,modelagem financeira
+1582,retrospective
+1583,imagens docker
+1584,emotional awareness
+1585,emotional management
+1586,tableau dashboards
+1587,data pipelines
+1588,engenharia de features
+1589,mentalidade de dono
+1590,coaching profissional
+1591,workshop facilitation
+1592,data orientation
+1593,azure functions
+1594,openness to change
+1595,banco de dados vetorial
+1596,relational modeling
+1597,problem decomposition
+1598,observabilidade de LLMs
+1599,customer orientation
+1600,translating data to story
+1601,change communication
+1602,testes de usabilidade
+1603,model validation
+1604,detecção de anomalias
+1605,google cloud ML
+1606,containerization
+1607,design de experimentos
+1608,bayesian statistics
+1609,liderar pessoas
+1610,reskilling
+1611,dashboards power bi
+1612,microsoft BI
+1613,conformidade
+1614,design thinking
+1615,guiding others
+1616,comunicação com stakeholders
+1617,conflict management
+1618,terraform
+1619,proactiveness
+1620,agile delivery
+1621,embeddings de texto
+1622,java developer
+1623,orientação analítica
+1624,testes de hipótese
+1625,experiment design
+1626,gestão de riscos
+1627,análise de causa raiz
+1628,amazon cloud
+1629,variáveis preditivas
+1630,DT
+1631,mongodb
+1632,People Management
+1633,consciência social
+1634,decisões baseadas em dados
+1635,data protection
+1636,extract transform load
+1637,mentalidade de crescimento
+1638,postgresql queries
+1639,usabilidade
+1640,spring framework
+1641,spreadsheet
+1642,information security
+1643,relational modeling
+1644,LLM evaluation
+1645,Apache Spark
+1646,python
+1647,adaptability
+1648,lambda
+1649,culture of innovation
+1650,descoberta de produto
+1651,self-management
+1652,stakeholder management
+1653,gestão das próprias emoções
+1654,upskilling
+1655,SQL intermediário
+1656,inference hugging face
+1657,carga de dados
+1658,linux scripting
+1659,unittest
+1660,real-time data
+1661,functional scala
+1662,git flow
+1663,Kubernetes
+1664,entender o produto
+1665,PM
+1666,application performance monitoring
+1667,service-oriented architecture
+1668,escrever bem
+1669,pulumi
+1670,guiar time técnico
+1671,agendamento de pipelines
+1672,machine learning models
+1673,emotional resilience
+1674,organizational culture
+1675,pipeline de ML
+1676,negociação
+1677,LLM observability
+1678,design centrado no humano
+1679,business intelligence
+1680,model monitoring
+1681,MongoDB
+1682,power bi
+1683,personal organization
+1684,avaliação crítica
+1685,presentation skills
+1686,stakeholder communication
+1687,comunicação eficaz
+1688,k8s cluster
+1689,excel analytics
+1690,testes multivariados
+1691,product owner
+1692,cultura e clima
+1693,gerenciar desentendimentos
+1694,iniciativa própria
+1695,risk assessment
+1696,cobertura de testes
+1697,facilitação
+1698,desenvolvedor python
+1699,orientação ao cliente
+1700,pytorch
+1701,qualidade de dados
+1702,complex problem solving
+1703,fluxo de caixa descontado
+1704,criação de variáveis
+1705,Microsoft Azure
+1706,manipulação de dados
+1707,observabilidade
+1708,design organizacional
+1709,microservices
+1710,data cleansing
+1711,looker reports
+1712,comunicação clara e objetiva
+1713,cliente em primeiro lugar
+1714,liderar pessoas
+1715,mentor
+1716,análise com SQL
+1717,cloudformation
+1718,business writing
+1719,azure machine learning
+1720,kubectl
+1721,metodologias ágeis
+1722,Design Thinking
+1723,convolutional neural networks
+1724,data pipelines
+1725,coworking
+1726,cloudformation
+1727,backlog management
+1728,gestão por OKRs
+1729,R data science
+1730,text embeddings
+1731,feature engineering
+1732,setting OKRs
+1733,avaliação de modelos
+1734,chroma
+1735,data engineering
+1736,critical mindset
+1737,L&D
+1738,curiosidade intelectual
+1739,data build tool
+1740,conduzir workshops
+1741,entrepreneurship
+1742,orientar pessoas
+1743,processamento em tempo real
+1744,SQL intermediário
+1745,estatística com R
+1746,upskilling
+1747,resolução de problemas
+1748,análise crítica
+1749,declarative infrastructure
+1750,thinking critically
+1751,self-awareness
+1752,deep neural networks
+1753,data infrastructure
+1754,lidar com emoções
+1755,langchain
+1756,QA testing
+1757,estatística com R
+1758,commits
+1759,document database
+1760,consciência social
+1761,adoção de mudanças
+1762,detecção de anomalias
+1763,comunicação verbal
+1764,performance appraisal
+1765,segurança da informação
+1766,analytical databases
+1767,análise descritiva
+1768,data validation
+1769,compliance de dados
+1770,critical mindset
+1771,NoSQL database
+1772,model metrics
+1773,experimentos controlados
+1774,continuous deployment
+1775,cross-functional collaboration
+1776,entidade relacionamento
+1777,deal making
+1778,customer first
+1779,processamento de streams
+1780,CI/CD
+1781,scripting python
+1782,distribuições estatísticas
+1783,padrões de design
+1784,organizational development
+1785,decomposição de problemas
+1786,análise descritiva
+1787,execução autônoma
+1788,real-time data
+1789,EC2
+1790,pitch de ideias
+1791,fila redis
+1792,mentalidade estratégica
+1793,data literacy
+1794,infrastructure as code
+1795,integration tests
+1796,análise crítica
+1797,container orchestration
+1798,distributed tracing
+1799,independent work
+1800,critical reasoning
+1801,trabalho independente
+1802,controle de versão
+1803,reconhecimento óptico de caracteres
+1804,LookML
+1805,LLM observability
+1806,vertex ai
+1807,Hugging Face
+1808,google cloud platform
+1809,decisão sob incerteza
+1810,NER
+1811,power bi service
+1812,data pipelines
+1813,technical team guidance
+1814,planejamento anual
+1815,indicadores financeiros
+1816,escrita clara
+1817,cultura e estrutura organizacional
+1818,pesquisa com usuários
+1819,logical thinking
+1820,IaC
+1821,orquestração de containers
+1822,banco postgresql
+1823,unix scripting
+1824,organizational design
+1825,controlled experiments
+1826,azure services
+1827,opportunity spotting
+1828,amazon cloud
+1829,DW
+1830,foco no cliente
+1831,financial KPIs
+1832,trabalho conjunto
+1833,understanding customers
+1834,content writing
+1835,planilhamento
+1836,chatgpt api
+1837,Java
+1838,gestão de riscos
+1839,continuous learning
+1840,agile
+1841,TS
+1842,feature selection
+1843,probabilidade
+1844,deploy com docker
+1845,financial KPIs
+1846,spark streaming
+1847,data communication
+1848,data visualization
+1849,data consistency
+1850,aprendizagem contínua
+1851,entrevistas com usuários
+1852,integridade de dados
+1853,liderança em tecnologia
+1854,projeções financeiras
+1855,GPT
+1856,hugging face models
+1857,data integrity
+1858,managing people
+1859,testes de integração
+1860,data build tool
+1861,arquitetura de sistemas
+1862,probabilidade
+1863,EDA
+1864,rebase
+1865,OKR planning
+1866,processamento em tempo real
+1867,data exploration
+1868,model assessment
+1869,creative innovation
+1870,gerenciar equipes
+1871,descriptive analytics
+1872,bash automation
+1873,regulação
+1874,product understanding
+1875,agile practices
+1876,planejar estrategicamente
+1877,orientação analítica
+1878,object detection
+1879,test coverage
+1880,manipulação de dados
+1881,CI pipeline
+1882,extração de dados
+1883,infrastructure as code
+1884,estatística
+1885,tech lead
+1886,llm development langchain
+1887,insights communication
+1888,pivot tables
+1889,conflict management
+1890,cloud data warehouse
+1891,direção técnica
+1892,prototyping
+1893,revisão de código
+1894,RAG
+1895,identificar causas raiz
+1896,creative problem solving
+1897,EVP
+1898,gestão de capital humano
+1899,planejamento de longo prazo
+1900,organizational design
+1901,inovação
+1902,LLM tracing
+1903,analytical databases
+1904,scope management
+1905,lambda
+1906,descriptive analytics
+1907,Postgres
+1908,regulatory knowledge
+1909,facilitação de grupos
+1910,Python
+1911,quantitative thinking
+1912,user stories
+1913,MongoDB
+1914,escrever SQL
+1915,independent execution
+1916,python fastapi
+1917,serviços AWS
+1918,text generation
+1919,experiment tracking
+1920,data warehouse
+1921,SQL queries
+1922,unsupervised learning
+1923,productivity
+1924,analytical orientation
+1925,usar dados para decidir
+1926,self-management
+1927,talent management
+1928,gerenciamento de pessoas
+1929,pg
+1930,resilience
+1931,testes multivariados
+1932,spreadsheet skills
+1933,troubleshooting
+1934,usabilidade
+1935,reconhecimento óptico de caracteres
+1936,advanced excel
+1937,visão computacional
+1938,organizational design
+1939,application performance monitoring
+1940,redshift
+1941,HDFS
+1942,team spirit
+1943,criação de variáveis
+1944,online experiments
+1945,project oversight
+1946,análise de vídeo
+1947,Scala
+1948,system monitoring
+1949,product ownership
+1950,performance cycle
+1951,employer reputation
+1952,DRE
+1953,technical direction
+1954,functional scala
+1955,Hugging Face
+1956,resiliência
+1957,design centrado no humano
+1958,organizational design
+1959,pensamento crítico
+1960,Langfuse
+1961,clear writing
+1962,command line scripting
+1963,bigquery
+1964,versatilidade
+1965,data visualization
+1966,avaliação de LLMs em produção
+1967,banco NoSQL
+1968,self-starter
+1969,análise estatística
+1970,integração de dados
+1971,building APIs
+1972,huggingface hub
+1973,análise estatística
+1974,visão estratégica de produto
+1975,negociar contratos
+1976,application monitoring
+1977,gestão de times
+1978,data infrastructure
+1979,LLM
+1980,KPI
+1981,carga de dados
+1982,amazon web services
+1983,prompt tracking
+1984,análise descritiva
+1985,experimentação e testes A/B
+1986,organização pessoal
+1987,apache airflow
+1988,direção técnica
+1989,langchain chains
+1990,coaching profissional
+1991,espírito de equipe
+1992,queries de banco de dados
+1993,design research
+1994,habilidades de negociação
+1995,stakeholder alignment
+1996,managing expectations
+1997,usability testing
+1998,AWS
+1999,Terraform
+2000,autonomy
+2001,clean architecture
+2002,opportunity spotting
+2003,business modeling
+2004,github
+2005,translating data to story
+2006,parceria no trabalho
+2007,CloudFormation
+2008,ML flow
+2009,data narrative
+2010,escrita técnica
+2011,document store
+2012,python langchain
+2013,data engineering
+2014,efetividade organizacional
+2015,dados em tempo real
+2016,Power BI
+2017,visão de produto
+2018,tomada de decisão
+2019,priority management
+2020,tableau dashboards
+2021,bargaining
+2022,empathy
+2023,R
+2024,data oriented
+2025,professional writing
+2026,user stories
+2027,sql avançado
+2028,docker compose
+2029,user focus
+2030,data validation
+2031,habilidades de negociação
+2032,shell automation
+2033,monitoring
+2034,critical thinking
+2035,end-to-end tests
+2036,context switching
+2037,escrever SQL
+2038,python 3
+2039,julgamento sólido
+2040,feature creation
+2041,java developer
+2042,automação de build
+2043,versionamento de código
+2044,prototyping
+2045,redis
+2046,Bash
+2047,design de API
+2048,business analytics
+2049,liderança de engenharia
+2050,criação de variáveis
+2051,strategic planning
+2052,análise com SQL
+2053,neural nets
+2054,java development
+2055,strategic negotiation
+2056,semantic search
+2057,LSTM
+2058,orientar pessoas
+2059,java backend
+2060,encryption
+2061,python avançado
+2062,planejamento empresarial
+2063,testes multivariados
+2064,group facilitation
+2065,cache distribuído
+2066,spreadsheet skills
+2067,soluções inovadoras
+2068,financial projections
+2069,product sense
+2070,mlflow tracking
+2071,KPIs
+2072,cultura e estrutura organizacional
+2073,conformidade
+2074,performance cycle
+2075,creative problem solving design
+2076,image processing
+2077,cultura e clima
+2078,análise de demonstrativos
+2079,critical mindset
+2080,keras
+2081,spark dataframes
+2082,JAVA
+2083,redes neurais
+2084,cultura e clima
+2085,AB tests
+2086,python developer
+2087,capacidade de aprendizagem
+2088,semantic search
+2089,trabalhar sem supervisão
+2090,thinking critically
+2091,data integrity
+2092,proactiveness
+2093,JavaScript
+2094,visualização de dados
+2095,spark SQL
+2096,modelagem estatística
+2097,assumir riscos
+2098,data transformation para modelos
+2099,performance cycle
+2100,pensamento analítico
+2101,desenvolvimento de APIs
+2102,R data science
+2103,AB tests
+2104,sklearn
+2105,negotiation skills
+2106,gerenciamento de projetos
+2107,data warehousing
+2108,cloud GCP
+2109,GDPR
+2110,tableau public
+2111,advanced excel
+2112,disruptive thinking
+2113,comunicação escrita
+2114,gestão de backlog
+2115,atração de talentos
+2116,negotiating disagreements
+2117,UX research
+2118,microsoft BI
+2119,usabilidade
+2120,aplicações com LLM
+2121,prefect
+2122,design sprint
+2123,BI dashboards
+2124,LLM pipelines
+2125,data analytics
+2126,langchain development
+2127,lidar com mudanças
+2128,advanced python
+2129,desenvolvimento java
+2130,negotiation tactics
+2131,google cloud services
+2132,R data science
+2133,python3
+2134,diagnóstico de problemas
+2135,integridade de dados
+2136,tomar decisões
+2137,experiment tracking
+2138,code review
+2139,Design Thinking
+2140,CV
+2141,SQL writing
+2142,programas de aprendizado
+2143,redis queue
+2144,cultura de time
+2145,presenting ideas
+2146,image classification
+2147,innovation
+2148,stakeholder engagement
+2149,normalização de dados
+2150,business writing
+2151,learning and development
+2152,emotional maturity
+2153,DBT
+2154,BDD
+2155,feedback de desempenho
+2156,model fairness
+2157,task prioritization
+2158,talent acquisition
+2159,adaptação a mudanças
+2160,mapa de empatia
+2161,registro de modelos
+2162,employee development
+2163,google cloud services
+2164,ownership mindset
+2165,orientar pessoas
+2166,documentação
+2167,comunicação clara
+2168,unit tests
+2169,colaboração interfuncional
+2170,risco operacional
+2171,GitHub
+2172,fastapi development
+2173,ajustar abordagens
+2174,modelagem financeira
+2175,empreendedorismo
+2176,in-memory database
+2177,frontend javascript
+2178,roadmap de produto
+2179,visão estratégica
+2180,scrum
+2181,self-awareness
+2182,data exploration
+2183,engenharia de features
+2184,image recognition
+2185,langfuse
+2186,facilitar workshops
+2187,product ownership
+2188,bash scripting
+2189,langchain
+2190,mentalidade de crescimento
+2191,fine-tuning huggingface
+2192,unix scripting
+2193,docker
+2194,llm development langchain
+2195,modelos de ML
+2196,arquitetura de software
+2197,liderança de engenharia
+2198,conduzir dinâmicas
+2199,sql avançado
+2200,API com python fastapi
+2201,statistical analysis
+2202,technical team guidance
+2203,long-term planning
+2204,espírito de equipe
+2205,modelagem de dados
+2206,roadmap estratégico
+2207,escrita profissional
+2208,data engineer
+2209,IaC
+2210,inovar
+2211,change management
+2212,modelagem financeira
+2213,langchain memory
+2214,architectural decisions
+2215,gerenciamento de riscos
+2216,goals and key results
+2217,statistical inference
+2218,creative innovation
+2219,extração de dados
+2220,gestão de colaboradores
+2221,adaptive mindset
+2222,scala functional programming
+2223,technical direction
+2224,data-driven
+2225,redshift
+2226,PowerBI
+2227,conectar estratégia e execução
+2228,backend API
+2229,customer success mindset
+2230,tableau development
+2231,test coverage
+2232,clarity in communication
+2233,critical analysis
+2234,convolutional neural networks
+2235,pipelines de dados
+2236,GCP services
+2237,monitoring
+2238,strategic thinking
+2239,vendor negotiation
+2240,prototipagem
+2241,empathy mapping
+2242,DL
+2243,service mesh
+2244,treinar modelos
+2245,software architecture
+2246,Docker
+2247,trabalho conjunto
+2248,ML
+2249,change management
+2250,organizational design
+2251,forecasting
+2252,visão computacional
+2253,risk management
+2254,comunicar dados
+2255,Excel
+2256,financial models
+2257,dimensional modeling
+2258,langfuse
+2259,streaming de dados
+2260,exploratory analysis
+2261,Microsoft Excel
+2262,liderança de equipes
+2263,apresentar ideias
+2264,setting strategy
+2265,trabalho autônomo
+2266,bargaining
+2267,microservices
+2268,GDPR compliance
+2269,aplicações com LLM
+2270,resistência a mudanças
+2271,análise de fluxo de caixa
+2272,gestão de pessoas
+2273,entrepreneurship
+2274,redis cache
+2275,transformação de dados
+2276,big data hadoop
+2277,gerenciar mudanças
+2278,decisões baseadas em dados
+2279,goals and key results
+2280,encryption
+2281,self-awareness
+2282,cli scripting
+2283,conduzir negociações
+2284,LookML
+2285,monitoramento de LLM
+2286,execução de projetos
+2287,pensamento disruptivo
+2288,snowflake
+2289,proposta de valor ao colaborador
+2290,performance management
+2291,intermediate SQL
+2292,bash automation
+2293,PSQL
+2294,gestão de desempenho
+2295,OCR
+2296,alinhamento de stakeholders
+2297,negociação comercial
+2298,cultura corporativa
+2299,performance review
+2300,in-memory database
+2301,scala spark
+2302,power bi development
+2303,software architecture
+2304,infrastructure automation
+2305,Terraform
+2306,collaborative work
+2307,cenários financeiros
+2308,python langchain
+2309,acompanhamento de projetos
+2310,data modeling
+2311,tensorflow
+2312,scrum master
+2313,alertas
+2314,identificar oportunidades
+2315,planejamento de longo prazo
+2316,classificação de imagens
+2317,DBT
+2318,automated testing
+2319,data transformation
+2320,python data
+2321,S3
+2322,aws services
+2323,code review leadership
+2324,azure AI
+2325,js
+2326,python data
+2327,semantic similarity
+2328,conduzir negociações
+2329,mentorship
+2330,dockerfile
+2331,estratégia de negócios
+2332,spark ML
+2333,operational risk
+2334,employer branding
+2335,strategic planning
+2336,valores organizacionais
+2337,SQL postgres
+2338,expressing ideas clearly
+2339,culture building
+2340,cultura corporativa
+2341,supporting growth
+2342,javascript frontend
+2343,julgamento crítico
+2344,construção de pipelines
+2345,performance cycle
+2346,capacitação
+2347,advanced postgresql
+2348,cooperação
+2349,liderança em mudanças
+2350,problem solving
+2351,TDD
+2352,queries de banco de dados
+2353,spark dataframes
+2354,bash e shell
+2355,testes de hipótese
+2356,calibração de performance
+2357,transformação de dados
+2358,literacia de dados
+2359,proactiveness
+2360,grafana
+2361,conflict handling
+2362,regulatory knowledge
+2363,model assessment
+2364,apache kafka
+2365,compliance
+2366,autonomy
+2367,ML
+2368,empreendedorismo
+2369,sprint planning
+2370,excel VBA
+2371,SOA
+2372,java backend
+2373,user focus
+2374,upskilling
+2375,model registry
+2376,architectural decisions
+2377,monitoramento e observabilidade
+2378,prompting
+2379,intraempreendedorismo
+2380,cliente em primeiro lugar
+2381,azure cloud
+2382,pensar no longo prazo
+2383,azure ML
+2384,open source LLMs
+2385,entender o produto
+2386,team management
+2387,coaching
+2388,weaviate
+2389,advanced java
+2390,arquitetura de dados
+2391,EDA
+2392,gerenciar desentendimentos
+2393,escrita técnica
+2394,talent attraction
+2395,strategic roadmap
+2396,team conflict resolution
+2397,user research
+2398,soluções inovadoras
+2399,data analytics
+2400,testes unitários
+2401,transformação de dados para modelos
+2402,análise de causa raiz
+2403,kubernetes deployment
+2404,huggingface transformers
+2405,technical lead
+2406,income statement
+2407,criação de variáveis
+2408,compliance
+2409,HDFS
+2410,strategic decision making
+2411,mongodb atlas
+2412,adaptabilidade
+2413,video analysis
+2414,technical design
+2415,troubleshooting
+2416,banco de documentos
+2417,upskilling
+2418,pensar como empreendedor
+2419,LLM applications
+2420,translating data to story
+2421,apresentação e oratória
+2422,processamento de linguagem natural
+2423,okrs
+2424,controlled experiments
+2425,normas e regulamentações
+2426,flexibilidade
+2427,intrapreneurship
+2428,UX
+2429,redis pub sub
+2430,parceria no trabalho
+2431,banco em memória
+2432,valuation
+2433,cooperation
+2434,processo seletivo
+2435,resolver divergências
+2436,kubernetes cluster
+2437,promover cultura
+2438,bancos analíticos
+2439,experiment design
+2440,kubectl
+2441,user stories
+2442,equilíbrio emocional
+2443,pensar no longo prazo
+2444,DBT
+2445,web API
+2446,LGPD compliance
+2447,cloud GCP
+2448,parceria no trabalho
+2449,gestão de desempenho
+2450,unsupervised learning
+2451,project planning
+2452,embedding models
+2453,docker-compose
+2454,unittest
+2455,redis cache
+2456,compliance e regulação
+2457,gestão de colaboradores
+2458,experimentos controlados
+2459,design patterns
+2460,intermediate SQL
+2461,redis pub sub
+2462,emotional self-regulation
+2463,UX
+2464,conflict de-escalation
+2465,k8s
+2466,natural language processing
+2467,testes unitários
+2468,reskilling
+2469,strategic negotiation
+2470,resolver problemas
+2471,banco de documentos
+2472,agility
+2473,strategic planning
+2474,Tableau
+2475,MongoDB
+2476,TDD
+2477,coaching
+2478,tomada de decisão
+2479,pytest
+2480,desenvolvimento de pessoas
+2481,spring boot
+2482,pipeline ETL
+2483,experimentação e testes A/B
+2484,IE
+2485,customer obsession
+2486,liderar equipes
+2487,comunicação assertiva
+2488,lidar com emoções
+2489,python backend
+2490,monitoring
+2491,Amazon Web Services
+2492,analytical problem solving
+2493,presenting to stakeholders
+2494,R programming
+2495,Design Thinking
+2496,gestão de riscos
+2497,langchain agents
+2498,negociação com fornecedores
+2499,schema design
+2500,long-term planning
+2501,adaptação a mudanças
+2502,soluções inovadoras
+2503,postgresql avançado
+2504,independent work
+2505,creative innovation
+2506,azure machine learning
+2507,task organization
+2508,testes multivariados
+2509,negociar contratos
+2510,Apache Spark
+2511,long-term thinking
+2512,apache flink
+2513,transformações dbt
+2514,cross-functional collaboration
+2515,dplyr
+2516,experimentos controlados
+2517,estratégia de negócios
+2518,logs
+2519,terminal scripting
+2520,conectar estratégia e execução
+2521,gestão emocional
+2522,roadmap estratégico
+2523,project delivery
+2524,apresentação em público
+2525,trabalho em equipe
+2526,corporate culture
+2527,openness to change
+2528,time optimization
+2529,docker compose
+2530,python scripting
+2531,organização pessoal
+2532,reconhecimento de imagens
+2533,análise de dados
+2534,spreadsheets
+2535,big data spark
+2536,entrepreneurship
+2537,python para dados
+2538,GitLab
+2539,arquitetura limpa
+2540,classificação de texto
+2541,typescript development
+2542,employer brand
+2543,dados em tempo real
+2544,prioritization
+2545,looker dashboards
+2546,mongodb queries
+2547,entrevistas com usuários
+2548,governança de dados
+2549,DW
+2550,rebase
+2551,postgres
+2552,strategic roadmap
+2553,mongodb
+2554,learning and development
+2555,avaliação de modelos
+2556,decisão orientada a risco
+2557,performance appraisal
+2558,data insights
+2559,RAG
+2560,data analysis
+2561,angular
+2562,decisão orientada a risco
+2563,pull request
+2564,drive innovation
+2565,own initiative
+2566,ideation
+2567,python para dados
+2568,gestão de backlog
+2569,aligning expectations
+2570,cloud AWS
+2571,narrativa com dados
+2572,distributed systems
+2573,customer-centric
+2574,typescript
+2575,python development
+2576,entity relationship
+2577,avaliar modelos
+2578,team conflict resolution
+2579,acompanhar OKRs
+2580,transformação de dados
+2581,looker studio
+2582,declarative infrastructure
+2583,node.js
+2584,conflito entre times
+2585,abertura a mudanças
+2586,organizational effectiveness
+2587,julgamento sólido
+2588,desenvolvimento ágil
+2589,pivot tables
+2590,comunicação de mudanças
+2591,aprender novas tecnologias
+2592,logging
+2593,data wrangling
+2594,looker reports
+2595,prioritization
+2596,planejamento estratégico
+2597,pensar inovador
+2598,feature selection
+2599,conflict management
+2600,mitigação de riscos
+2601,SQL avançado
+2602,programas de aprendizado
+2603,visão estratégica
+2604,usabilidade
+2605,programação java
+2606,employer reputation
+2607,K8s
+2608,branching strategy
+2609,corporate training
+2610,agile mindset
+2611,facilitation
+2612,comunicação com stakeholders
+2613,excel
+2614,UX insights
+2615,mentalidade empreendedora
+2616,mentalidade estratégica
+2617,application monitoring
+2618,OKRs
+2619,foco no cliente
+2620,capacidade de aprendizagem
+2621,gitflow
+2622,team culture
+2623,training and development
+2624,shell script
+2625,gerir times
+2626,user research
+2627,managing expectations
+2628,meeting facilitation
+2629,automated testing
+2630,FastAPI backend
+2631,problem diagnosis
+2632,redes neurais profundas
+2633,Scala
+2634,pensar estrategicamente
+2635,análise de balanço
+2636,habilidades de apresentação
+2637,detecção de objetos
+2638,aprender novas tecnologias
+2639,java avançado
+2640,data insights
+2641,soluções inovadoras
+2642,java
+2643,registro de modelos
+2644,embedding vectors
+2645,triagem de candidatos
+2646,REST API
+2647,decisions under uncertainty
+2648,drive innovation
+2649,reskilling programs
+2650,decisão sob incerteza
+2651,task prioritization
+2652,recrutamento e seleção
+2653,tidyverse
+2654,LLM pipelines
+2655,kanban
+2656,customer focus
+2657,testes E2E
+2658,employee value proposition
+2659,proatividade
+2660,problem decomposition
+2661,resilience
+2662,software testing
+2663,DBT
+2664,evidence-based decisions
+2665,data-driven
+2666,regulatory compliance
+2667,self-directed work
+2668,API design
+2669,alerting
+2670,tableau analytics
+2671,identificar causas raiz
+2672,hugging face models
+2673,gitlab
+2674,visão de produto
+2675,context switching
+2676,advanced java
+2677,mapreduce
+2678,normalização de dados
+2679,LLM observability
+2680,modelagem relacional
+2681,pulumi
+2682,yarn
+2683,langchain memory
+2684,versatilidade
+2685,regulatory affairs
+2686,administrar conflitos
+2687,aws RDS
+2688,marca empregadora
+2689,liderança de engenharia
+2690,classificação de texto
+2691,usar dados para decidir
+2692,react.js
+2693,habilidades de escrita
+2694,deep learning models
+2695,Prophet
+2696,integração contínua
+2697,análise estatística em R
+2698,oratória
+2699,fastapi
+2700,azure AI
+2701,empatia com o cliente
+2702,risk register
+2703,risk mitigation
+2704,AUC ROC
+2705,pipeline ETL
+2706,team building
+2707,apoiar crescimento
+2708,computer vision
+2709,pesquisa com usuários
+2710,data orientation
+2711,machine learning models
+2712,usability research
+2713,desenvolvimento de colaboradores
+2714,setting OKRs
+2715,dbt
+2716,yarn
+2717,customer first
+2718,tech mentor
+2719,detecção de objetos
+2720,risco operacional
+2721,github actions
+2722,API REST
+2723,pitch de ideias
+2724,REST API
+2725,scope management
+2726,acompanhamento de projetos
+2727,pensamento racional
+2728,seleção de features
+2729,neural networks
+2730,rastreamento de prompts
+2731,empatia
+2732,CloudFormation
+2733,technical leadership
+2734,design técnico
+2735,Apache Spark
+2736,TDD
+2737,annual planning
+2738,priorizar tarefas
+2739,rastreamento de prompts
+2740,transformação de dados
+2741,pyspark
+2742,customer orientation
+2743,PowerBI
+2744,emotional intelligence
+2745,python data
+2746,making decisions
+2747,strategic vision
+2748,customer needs understanding
+2749,compliance program
+2750,criação de variáveis
+2751,gke
+2752,warehouse architecture
+2753,segurança da informação
+2754,rastreamento de prompts
+2755,innovative thinking
+2756,natural language processing
+2757,growth mindset
+2758,dar feedback
+2759,CloudFormation
+2760,gerenciar partes interessadas
+2761,gestão de produto
+2762,software testing
+2763,ci/cd
+2764,programação em python
+2765,construção de pipelines
+2766,tableau desktop
+2767,hypothesis testing
+2768,Assertive Communication
+2769,self-organization
+2770,frontend javascript
+2771,LLM tracing
+2772,data streaming
+2773,adapting to change
+2774,Looker
+2775,cobertura de testes
+2776,data warehousing
+2777,arquitetura de sistemas
+2778,integração de APIs
+2779,PR
+2780,mentoring
+2781,pipeline scheduling
+2782,avaliação de empresas
+2783,dar feedback
+2784,kubernetes cluster
+2785,integração de dados
+2786,metrics
+2787,clustering
+2788,ideation
+2789,colaboração
+2790,orientação analítica
+2791,RESTful API
+2792,strategic planning
+2793,critical analysis
+2794,monitoramento
+2795,strategic vision
+2796,user research
+2797,priorização
+2798,aws RDS
+2799,descriptive statistics
+2800,typed javascript
+2801,gestão de prioridades
+2802,project management
+2803,PSQL
+2804,managing resistance to change
+2805,trace de LLMs
+2806,transformações dbt
+2807,cultura organizacional
+2808,programação scala
+2809,indicadores-chave
+2810,detecção de anomalias
+2811,cloudformation
+2812,OKRs
+2813,data integration
+2814,people development
+2815,mentoria
+2816,raciocínio crítico
+2817,org culture
+2818,consultas SQL
+2819,estratégia de produto
+2820,ownership mindset
+2821,gestão de capital humano
+2822,proactiveness
+2823,basic SQL
+2824,fine-tuning
+2825,gerir times
+2826,risk framework
+2827,OKR planning
+2828,google looker
+2829,métricas
+2830,prompt engineering
+2831,negociação de salários
+2832,azure blob
+2833,statistical inference
+2834,langchain chains
+2835,técnicas de negociação
+2836,strategic decision making
+2837,apache airflow
+2838,inteligência emocional
+2839,test-driven development
+2840,pitching
+2841,change leadership
+2842,human-centered design
+2843,esquema de dados
+2844,financial analysis
+2845,segurança da informação
+2846,liderança técnica
+2847,marca empregadora
+2848,data quality
+2849,análise de riscos
+2850,habilidades de escrita
+2851,data modeling
+2852,spirit of collaboration
+2853,customer obsession
+2854,web development javascript
+2855,scalable data systems
+2856,gerenciamento de times
+2857,backend API
+2858,fazer apresentações
+2859,regulação
+2860,spark
+2861,facilitação de grupos
+2862,pytest
+2863,gerenciar prazos
+2864,code review
+2865,k8s cluster
+2866,regulatory affairs
+2867,data transformation para modelos
+2868,pensamento analítico
+2869,data warehousing
+2870,estratégia de produto
+2871,padrões de design
+2872,comunicação profissional
+2873,fastapi development
+2874,curiosidade intelectual
+2875,product development
+2876,IA generativa
+2877,org culture
+2878,facilitation skills
+2879,comunicação no trabalho
+2880,agile development
+2881,PM skills
+2882,mentalidade ágil
+2883,joint work
+2884,entrevistas com usuários
+2885,spark streaming
+2886,react
+2887,company culture
+2888,aks
+2889,clustering
+2890,llm development langchain
+2891,building pipelines
+2892,Apache Spark
+2893,meeting facilitation
+2894,performance management
+2895,written communication
+2896,data protection
+2897,OKR framework
+2898,intrapreneurship
+2899,redshift
+2900,people leadership
+2901,deploy automatizado
+2902,carga de dados
+2903,written communication
+2904,negotiating deals
+2905,avaliação de riscos
+2906,supporting growth
+2907,LLM
+2908,emotional intelligence
+2909,modelagem dimensional
+2910,mentorship skills
+2911,trabalhar sem supervisão
+2912,backlog management
+2913,microservices architecture
+2914,task organization
+2915,scalable data systems
+2916,engenharia de dados
+2917,LLM evaluation
+2918,banco de documentos
+2919,spreadsheet skills
+2920,workflow automation
+2921,testes de hipótese
+2922,alertas
+2923,change leadership
+2924,team spirit
+2925,Java
+2926,R programming
+2927,model lifecycle
+2928,customer success mindset
+2929,mentalidade data-driven
+2930,ajustar abordagens
+2931,text classification
+2932,writing skills
+2933,Apache Hive
+2934,bigquery gcp
+2935,org development
+2936,balance sheet analysis
+2937,autodidatismo
+2938,questionar premissas
+2939,adapting to change
+2940,cloud GCP
+2941,tableau server
+2942,talent attraction
+2943,DQ
+2944,risk-based decision
+2945,GitHub
+2946,apache kafka
+2947,orquestração de pipelines
+2948,entrepreneurship
+2949,clear writing
+2950,communication skills
+2951,exploração de dados
+2952,ciclo de performance
+2953,infraestrutura como código
+2954,productivity
+2955,collaboration
+2956,mentorship skills
+2957,long-term planning
+2958,API design
+2959,organizational transformation
+2960,otimização do tempo
+2961,google cloud data
+2962,RNN
+2963,conflict handling
+2964,monitoramento de LLM
+2965,power bi service
+2966,NoSQL MongoDB
+2967,desenvolvimento organizacional
+2968,conflict mediation
+2969,cultura de inovação
+2970,bargaining
+2971,PYTHON
+2972,redigir documentos
+2973,LSTM
+2974,docker images
+2975,automação de workflows
+2976,ideação
+2977,SQL analytics
+2978,GDPR
+2979,people development
+2980,vector search
+2981,estatística com R
+2982,product manager
+2983,consistência de dados
+2984,ETL development
+2985,mediação de conflitos
+2986,testes A/B
+2987,data governance
+2988,product vision
+2989,statistical modeling
+2990,comunicação interpessoal
+2991,organizational change
+2992,GraphQL
+2993,user interviews
+2994,time prioritization
+2995,autocontrole emocional
+2996,neural nets
+2997,interpersonal communication
+2998,dados em tempo real
+2999,infraestrutura de dados
+3000,pensar como PM
+3001,sprint planning
+3002,facilitar reuniões
+3003,planejar estrategicamente
+3004,feature creation
+3005,application performance monitoring
+3006,mlflow
+3007,mentalidade de crescimento
+3008,OD
+3009,design thinking
+3010,critical judgment
+3011,Employer Branding
+3012,ingestão de dados
+3013,data communication
+3014,performance feedback
+3015,postgresql queries
+3016,meeting facilitation
+3017,T&D
+3018,orquestração de pipelines
+3019,cultura da empresa
+3020,cloud GCP
+3021,logical reasoning
+3022,data compliance
+3023,adapting to change
+3024,sound judgment
+3025,indicadores-chave
+3026,comunicar dados
+3027,desenvolvimento de APIs
+3028,pipeline orchestration
+3029,next.js
+3030,advanced java

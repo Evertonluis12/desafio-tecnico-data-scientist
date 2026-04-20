@@ -1,0 +1,3031 @@
+id,skill_raw,taxonomy_id,skill_name,confidence_score,match_status
+1,gestão de pessoas,0,Gestão de Pessoas,0.7005039,matched
+2,People Management,0,Gestão de Pessoas,0.7338302,matched
+3,SQL,31,SQL,0.7017696,matched
+4,sql avançado,31,SQL,0.72010183,matched
+5,machine learning,39,Machine Learning,0.80590385,matched
+6,comunicação assertiva,1,Comunicação Assertiva,0.7490694,matched
+7,python,30,Python,0.6242019,matched
+8,PYTHON,30,Python,0.6242019,matched
+9,análise de dados,38,Análise de Dados,0.8053319,matched
+10,resolução de conflitos,2,Resolução de Conflitos,0.7446522,matched
+11,power bi,75,Power BI,0.63925445,matched
+12,PowerBI,75,Power BI,0.49551636,no_match
+13,espiritualidade,3,Inteligência Emocional,0.30305058,no_match
+14,excel avançado,77,Excel Avançado,0.555405,no_match
+15,scrum,18,Metodologias Ágeis,0.3228929,no_match
+16,Metodologias Ágeis,54,Modelagem de Dados,0.4850211,no_match
+17,storytelling com dados,20,Storytelling com Dados,0.849888,matched
+18,pensamento crítico,5,Pensamento Crítico,0.6057662,matched
+19,Critical Thinking,5,Pensamento Crítico,0.64742017,matched
+20,versionamento de código,71,Versionamento de Código,0.49423474,no_match
+21,Git,89,OKRs,0.26493332,no_match
+22,cloud computing,67,Azure,0.7586185,matched
+23,AWS,65,AWS,0.36063612,no_match
+24,engenharia de dados,50,Engenharia de Dados,0.76276076,matched
+25,ETL,89,OKRs,0.4516797,no_match
+26,visão de produto,13,Visão de Produto,0.7289455,matched
+27,Product Sense,13,Visão de Produto,0.678504,matched
+28,Alinhamento com o universo,12,Colaboração,0.3139963,no_match
+29,inteligência emocional,3,Inteligência Emocional,0.82606864,matched
+30,negociação,4,Negociação,0.7412806,matched
+31,data governance,50,Engenharia de Dados,0.57916653,no_match
+32,feature extraction,44,Engenharia de Features,0.45154005,no_match
+33,auto-organização,10,Autogestão,0.64125115,matched
+34,excel básico,77,Excel Avançado,0.6635436,matched
+35,SQL,31,SQL,0.7017696,matched
+36,trabalho colaborativo,12,Colaboração,0.78602123,matched
+37,emotional regulation,3,Inteligência Emocional,0.65402484,matched
+38,risk management,92,Gestão de Riscos,0.7754713,matched
+39,cash flow analysis,90,Análise Financeira,0.64257073,matched
+40,imagens docker,47,Visão Computacional,0.46275496,no_match
+41,micro services,74,Microsserviços,0.72569025,matched
+42,orientação a dados,38,Análise de Dados,0.75608873,matched
+43,modelos de embedding,54,Modelagem de Dados,0.5349907,no_match
+44,statistical experimentation,48,Estatística Aplicada,0.6184641,matched
+45,gestão de capital humano,0,Gestão de Pessoas,0.5434453,no_match
+46,empathy mapping,3,Inteligência Emocional,0.54482603,no_match
+47,infrastructure automation,68,Infrastructure as Code,0.5940874,no_match
+48,versatilidade,8,Adaptabilidade,0.44600976,no_match
+49,supporting growth,95,Desenvolvimento Organizacional,0.5623629,no_match
+50,BDD,79,dbt,0.31727535,no_match
+51,redação profissional,22,Escrita Profissional,0.71680653,matched
+52,DCF,79,dbt,0.35884863,no_match
+53,git,89,OKRs,0.26493335,no_match
+54,negotiation tactics,4,Negociação,0.80496293,matched
+55,organização pessoal,0,Gestão de Pessoas,0.5865493,no_match
+56,python avançado,30,Python,0.65600616,matched
+57,data schema,54,Modelagem de Dados,0.64912665,matched
+58,gerenciamento de projetos,17,Gestão de Projetos,0.88370097,matched
+59,multivariate testing,49,Experimentação e Testes A/B,0.58284914,no_match
+60,independent execution,10,Autogestão,0.5186465,no_match
+61,vector databases,38,Análise de Dados,0.507025,no_match
+62,people manager,0,Gestão de Pessoas,0.6165685,matched
+63,personal organization,0,Gestão de Pessoas,0.55698377,no_match
+64,desenvolvimento de APIs,85,Hugging Face,0.43162107,no_match
+65,power bi,75,Power BI,0.63925445,matched
+66,dealing with change,27,Gestão de Mudanças,0.6149857,matched
+67,hive,6,Resolução de Problemas,0.18026593,no_match
+68,continuous integration,64,CI/CD,0.519969,no_match
+69,mentalidade de dono,29,Empreendedorismo,0.6402211,matched
+70,version control,73,Arquitetura de Software,0.3127636,no_match
+71,spark SQL,31,SQL,0.577907,no_match
+72,balance sheet analysis,54,Modelagem de Dados,0.41401124,no_match
+73,object detection,69,Monitoramento e Observabilidade,0.44399112,no_match
+74,employee development,95,Desenvolvimento Organizacional,0.60361475,matched
+75,managing group dynamics,19,Facilitação,0.58774495,no_match
+76,OLAP,85,Hugging Face,0.29778454,no_match
+77,js,89,OKRs,0.28917113,no_match
+78,tech lead,24,Liderança Técnica,0.603106,matched
+79,orquestração de workflows,52,Orquestração de Pipelines,0.5176701,no_match
+80,negociação comercial,4,Negociação,0.6080396,matched
+81,visualização de dados,38,Análise de Dados,0.6959652,matched
+82,promover cultura,99,Cultura Organizacional,0.66523564,matched
+83,gerenciamento de times,9,Gestão do Tempo,0.7161389,matched
+84,LGPD compliance,93,Compliance e Regulação,0.49494725,no_match
+85,aprendizado não supervisionado,39,Machine Learning,0.6167136,matched
+86,fluxo de caixa descontado,52,Orquestração de Pipelines,0.48550892,no_match
+87,langchain,82,LangChain,0.45353383,no_match
+88,priorização,7,Tomada de Decisão,0.49031794,no_match
+89,validação de modelos,45,Avaliação de Modelos,0.59751374,no_match
+90,team conflict resolution,2,Resolução de Conflitos,0.7558018,matched
+91,APM,9,Gestão do Tempo,0.3063571,no_match
+92,mudança organizacional,27,Gestão de Mudanças,0.7543138,matched
+93,integridade de dados,56,Qualidade de Dados,0.70583725,matched
+94,pipeline de ML,52,Orquestração de Pipelines,0.60546327,matched
+95,busca vetorial,43,Embeddings e Busca Vetorial,0.51054895,no_match
+96,image processing,47,Visão Computacional,0.6983366,matched
+97,pensar como empreendedor,29,Empreendedorismo,0.626572,matched
+98,people leadership,0,Gestão de Pessoas,0.66197896,matched
+99,automação de workflows,9,Gestão do Tempo,0.5181299,no_match
+100,model monitoring,69,Monitoramento e Observabilidade,0.62467486,matched
+101,real-time processing,53,Streaming de Dados,0.6243255,matched
+102,transformers architecture,73,Arquitetura de Software,0.33960587,no_match
+103,deep learning,40,Deep Learning,0.6803496,matched
+104,transformar dados em histórias,20,Storytelling com Dados,0.7977359,matched
+105,apache spark,80,Spark,0.71351635,matched
+106,estratégia de branches,16,Pensamento Estratégico,0.6815452,matched
+107,SOLID principles,4,Negociação,0.3005135,no_match
+108,gestão emocional,3,Inteligência Emocional,0.7173753,matched
+109,named entity recognition,25,Gestão de Stakeholders,0.36710528,no_match
+110,análise de dados avançada,38,Análise de Dados,0.7656785,matched
+111,test-driven development,72,Testes Automatizados,0.6618289,matched
+112,seleção de candidatos,94,Recrutamento e Seleção,0.58533704,no_match
+113,sourcing de talentos,11,Aprendizado Contínuo,0.5424051,no_match
+114,hdfs,59,Redis,0.4710118,no_match
+115,busca semântica,43,Embeddings e Busca Vetorial,0.4205182,no_match
+116,google cloud services,66,Google Cloud Platform,0.7643035,matched
+117,container,62,Docker,0.5103897,no_match
+118,retrieval augmented generation,59,Redis,0.4734978,no_match
+119,fórmulas excel,77,Excel Avançado,0.55864555,no_match
+120,seleção de candidatos,94,Recrutamento e Seleção,0.58533716,no_match
+121,psql,31,SQL,0.54455423,no_match
+122,excel,77,Excel Avançado,0.6529067,matched
+123,spark streaming,80,Spark,0.581047,no_match
+124,definir estratégia,16,Pensamento Estratégico,0.7115734,matched
+125,apache airflow,80,Spark,0.49470425,no_match
+126,risk assessment,92,Gestão de Riscos,0.71390486,matched
+127,DCF,79,dbt,0.35884863,no_match
+128,kubernetes scaling,63,Kubernetes,0.47479206,no_match
+129,pull request,15,Foco no Cliente,0.27232727,no_match
+130,javascript backend,34,JavaScript,0.72664297,matched
+131,text processing,41,Processamento de Linguagem Natural,0.59339416,no_match
+132,estatística aplicada,48,Estatística Aplicada,0.5179212,no_match
+133,user research,87,UX Research,0.545556,no_match
+134,product discovery,49,Experimentação e Testes A/B,0.473157,no_match
+135,data workflow management,50,Engenharia de Dados,0.5737059,no_match
+136,named entity recognition,25,Gestão de Stakeholders,0.36710525,no_match
+137,gestão de performance,96,Gestão de Desempenho,0.7617484,matched
+138,autoconsciência emocional,3,Inteligência Emocional,0.7268451,matched
+139,product strategy,86,Gestão de Produto,0.7261097,matched
+140,quantitative thinking,14,Orientação a Dados,0.53500247,no_match
+141,construção de APIs,85,Hugging Face,0.3725332,no_match
+142,learning new skills,11,Aprendizado Contínuo,0.7006341,matched
+143,análise de texto,41,Processamento de Linguagem Natural,0.5940454,no_match
+144,distributed computing spark,80,Spark,0.6064236,matched
+145,métricas,54,Modelagem de Dados,0.36854267,no_match
+146,comunicação transparente,1,Comunicação Assertiva,0.43278593,no_match
+147,estratégia de produto,86,Gestão de Produto,0.7222539,matched
+148,google cloud,66,Google Cloud Platform,0.7244525,matched
+149,python para dados,30,Python,0.71036243,matched
+150,data engineering,50,Engenharia de Dados,0.7240385,matched
+151,pipelines de dados,52,Orquestração de Pipelines,0.7241252,matched
+152,written communication,22,Escrita Profissional,0.74069524,matched
+153,large language models,42,Large Language Models,0.73449266,matched
+154,emotional awareness,3,Inteligência Emocional,0.7049154,matched
+155,change adoption,27,Gestão de Mudanças,0.47975972,no_match
+156,own initiative,10,Autogestão,0.54458976,no_match
+157,model validation,45,Avaliação de Modelos,0.5566213,no_match
+158,ETL development,51,ETL e ELT,0.543316,no_match
+159,entender o cliente,15,Foco no Cliente,0.774477,matched
+160,customer success mindset,15,Foco no Cliente,0.6452869,matched
+161,gestão do tempo,9,Gestão do Tempo,0.72289777,matched
+162,GDPR,89,OKRs,0.32070714,no_match
+163,people coaching,0,Gestão de Pessoas,0.5138494,no_match
+164,screening candidates,94,Recrutamento e Seleção,0.5427712,no_match
+165,scrum master,18,Metodologias Ágeis,0.34901983,no_match
+166,testes automatizados,72,Testes Automatizados,0.82125664,matched
+167,CNN,68,Infrastructure as Code,0.32880437,no_match
+168,cultura e estrutura organizacional,99,Cultura Organizacional,0.8515531,matched
+169,looker analytics,78,Looker,0.62588084,matched
+170,self-starter,10,Autogestão,0.5427223,no_match
+171,RCA,85,Hugging Face,0.32346714,no_match
+172,mediação de conflitos,2,Resolução de Conflitos,0.62993836,matched
+173,typescript frontend,35,TypeScript,0.6494988,matched
+174,integridade de dados,56,Qualidade de Dados,0.70583725,matched
+175,sklearn,18,Metodologias Ágeis,0.28573114,no_match
+176,Docker,62,Docker,0.5485464,no_match
+177,OLAP,85,Hugging Face,0.29778454,no_match
+178,user-centric thinking,88,Design Thinking,0.5960454,no_match
+179,cloud data warehouse,67,Azure,0.72979987,matched
+180,resolução de problemas complexos,6,Resolução de Problemas,0.84439003,matched
+181,detecção de anomalias,46,Séries Temporais,0.5435326,no_match
+182,cobertura de testes,72,Testes Automatizados,0.61912286,matched
+183,organizar tarefas,9,Gestão do Tempo,0.65949357,matched
+184,aws lambda,85,Hugging Face,0.22091259,no_match
+185,business strategy,86,Gestão de Produto,0.6587728,matched
+186,deep learning development,40,Deep Learning,0.6742997,matched
+187,foco no usuário,15,Foco no Cliente,0.5710311,no_match
+188,gestão de escopo,17,Gestão de Projetos,0.5397949,no_match
+189,vendor negotiation,4,Negociação,0.62839955,matched
+190,modelos financeiros,91,Modelagem Financeira,0.78755385,matched
+191,advanced SQL,31,SQL,0.70760995,matched
+192,visualização de dados,38,Análise de Dados,0.6959652,matched
+193,RESTful API,80,Spark,0.19248825,no_match
+194,financial modeling,91,Modelagem Financeira,0.8243681,matched
+195,alinhar expectativas,26,Planejamento Estratégico,0.529822,no_match
+196,frontend javascript,34,JavaScript,0.7233579,matched
+197,regulatory knowledge,93,Compliance e Regulação,0.6465769,matched
+198,container deployment,63,Kubernetes,0.59512115,no_match
+199,colaboração,12,Colaboração,0.6835506,matched
+200,data infrastructure,50,Engenharia de Dados,0.677935,matched
+201,langchain development,82,LangChain,0.57744133,no_match
+202,shell scripting,37,Bash e Shell Script,0.77854633,matched
+203,resolução de problemas,6,Resolução de Problemas,0.7970336,matched
+204,problem solving,6,Resolução de Problemas,0.75450003,matched
+205,people manager,0,Gestão de Pessoas,0.6165685,matched
+206,completude de dados,56,Qualidade de Dados,0.6905504,matched
+207,API architecture,80,Spark,0.3953057,no_match
+208,image segmentation,47,Visão Computacional,0.57991016,no_match
+209,testes de hipótese,48,Estatística Aplicada,0.6632953,matched
+210,tech mentor,24,Liderança Técnica,0.5660189,no_match
+211,managing resistance to change,27,Gestão de Mudanças,0.6428641,matched
+212,data engineer,50,Engenharia de Dados,0.6351928,matched
+213,data transformation para modelos,32,R,0.5357237,no_match
+214,looker reports,78,Looker,0.41839808,no_match
+215,conformidade regulatória,93,Compliance e Regulação,0.6875112,matched
+216,resolução de conflitos,2,Resolução de Conflitos,0.74465215,matched
+217,python,30,Python,0.6242019,matched
+218,desenvolvimento de equipes,97,Treinamento e Desenvolvimento,0.6897651,matched
+219,dbt transformations,79,dbt,0.7505636,matched
+220,mentalidade empreendedora,29,Empreendedorismo,0.67849225,matched
+221,task prioritization,9,Gestão do Tempo,0.6786626,matched
+222,team collaboration,12,Colaboração,0.72901785,matched
+223,conflict resolution,2,Resolução de Conflitos,0.72221196,matched
+224,customer-centric,15,Foco no Cliente,0.65991807,matched
+225,descoberta de produto,13,Visão de Produto,0.46471238,no_match
+226,time series forecasting,46,Séries Temporais,0.6514238,matched
+227,negotiation,4,Negociação,0.7709371,matched
+228,design técnico,73,Arquitetura de Software,0.55494714,no_match
+229,trabalhar em time,12,Colaboração,0.60714054,matched
+230,human-centered design,88,Design Thinking,0.5549542,no_match
+231,audience engagement,21,Apresentação e Oratória,0.69510835,matched
+232,microsserviços,74,Microsserviços,0.72577417,matched
+233,product development,86,Gestão de Produto,0.56770074,no_match
+234,resolver problemas,6,Resolução de Problemas,0.7238544,matched
+235,TS,79,dbt,0.29213408,no_match
+236,image recognition,47,Visão Computacional,0.7002804,matched
+237,resilience,8,Adaptabilidade,0.3936024,no_match
+238,programação em python,30,Python,0.73023427,matched
+239,yarn,30,Python,0.22043547,no_match
+240,scrum,18,Metodologias Ágeis,0.3228929,no_match
+241,variáveis preditivas,46,Séries Temporais,0.57451385,no_match
+242,statistics,32,R,0.46404612,no_match
+243,normalização de dados,38,Análise de Dados,0.5435184,no_match
+244,modelos de ML,83,MLflow,0.60573155,matched
+245,facilitar reuniões,19,Facilitação,0.73969316,matched
+246,organizational growth,95,Desenvolvimento Organizacional,0.7424428,matched
+247,ideation,28,Inovação,0.48114508,no_match
+248,dados temporais,46,Séries Temporais,0.65778434,matched
+249,interpersonal communication,1,Comunicação Assertiva,0.61335135,matched
+250,intrapreneurship,29,Empreendedorismo,0.5529158,no_match
+251,contract negotiation,4,Negociação,0.73912644,matched
+252,power bi service,75,Power BI,0.6796447,matched
+253,data exploration,38,Análise de Dados,0.77359205,matched
+254,classification models,43,Embeddings e Busca Vetorial,0.49882787,no_match
+255,SOLID,63,Kubernetes,0.18883206,no_match
+256,advanced python,30,Python,0.64176095,matched
+257,trabalho independente,10,Autogestão,0.49661282,no_match
+258,R language,32,R,0.69414437,matched
+259,deliver presentations,21,Apresentação e Oratória,0.6694595,matched
+260,construção de APIs,85,Hugging Face,0.3725332,no_match
+261,completude de dados,56,Qualidade de Dados,0.6905504,matched
+262,growth mindset,23,Mentoria,0.54819196,no_match
+263,python para dados,30,Python,0.71036243,matched
+264,coaching de pessoas,23,Mentoria,0.5487284,no_match
+265,automação de testes,72,Testes Automatizados,0.82508194,matched
+266,orientação ao cliente,15,Foco no Cliente,0.79203117,matched
+267,data analysis,38,Análise de Dados,0.7930504,matched
+268,gerir colaboradores,12,Colaboração,0.7117192,matched
+269,kubernetes scaling,63,Kubernetes,0.47479194,no_match
+270,conformidade regulatória,93,Compliance e Regulação,0.6875112,matched
+271,gestão de produto,86,Gestão de Produto,0.73747784,matched
+272,retrieval augmented generation,59,Redis,0.4734978,no_match
+273,service mesh,68,Infrastructure as Code,0.46706462,no_match
+274,streaming de dados,53,Streaming de Dados,0.72886777,matched
+275,prioritization,9,Gestão do Tempo,0.5345387,no_match
+276,talent acquisition,11,Aprendizado Contínuo,0.5535433,no_match
+277,PostgreSQL,57,PostgreSQL,0.78296953,matched
+278,machine learning models,39,Machine Learning,0.79579353,matched
+279,gestão de conflitos,2,Resolução de Conflitos,0.617344,matched
+280,mentoria,21,Apresentação e Oratória,0.33057863,no_match
+281,mentalidade adaptativa,8,Adaptabilidade,0.7547715,matched
+282,análise de decisão,7,Tomada de Decisão,0.71490896,matched
+283,root cause analysis,6,Resolução de Problemas,0.44076532,no_match
+284,aprendizado supervisionado,39,Machine Learning,0.60337275,matched
+285,validação de dados,56,Qualidade de Dados,0.6294941,matched
+286,facilitation techniques,19,Facilitação,0.61041737,matched
+287,PySpark,19,Facilitação,0.32702136,no_match
+288,versatility,8,Adaptabilidade,0.43664914,no_match
+289,pensar no longo prazo,16,Pensamento Estratégico,0.6453444,matched
+290,apresentar ideias,28,Inovação,0.5221209,no_match
+291,influenciar sem autoridade,10,Autogestão,0.5339396,no_match
+292,REST API,85,Hugging Face,0.17919305,no_match
+293,build automation,68,Infrastructure as Code,0.51703143,no_match
+294,hadoop,81,Hadoop,0.4035165,no_match
+295,cache distribuído,59,Redis,0.6710348,matched
+296,sistemas distribuídos,81,Hadoop,0.51877296,no_match
+297,aws cloud,67,Azure,0.5515939,no_match
+298,experiência do usuário,15,Foco no Cliente,0.5279356,no_match
+299,lean agile,73,Arquitetura de Software,0.47854975,no_match
+300,critical judgment,5,Pensamento Crítico,0.62181973,matched
+301,promover cultura,99,Cultura Organizacional,0.66523564,matched
+302,google cloud data,66,Google Cloud Platform,0.7315759,matched
+303,gestão de stakeholders,25,Gestão de Stakeholders,0.77467024,matched
+304,performance de modelos,45,Avaliação de Modelos,0.62340957,matched
+305,metas e resultados,26,Planejamento Estratégico,0.58392435,no_match
+306,team management,0,Gestão de Pessoas,0.6157359,matched
+307,scripting python,30,Python,0.63515157,matched
+308,avaliação de LLMs em produção,45,Avaliação de Modelos,0.5803168,no_match
+309,embedding models,54,Modelagem de Dados,0.5491687,no_match
+310,neural nets,40,Deep Learning,0.583574,no_match
+311,observabilidade,89,OKRs,0.4219209,no_match
+312,criação de variáveis,90,Análise Financeira,0.42215225,no_match
+313,gerenciar projetos,17,Gestão de Projetos,0.87670124,matched
+314,comunicação profissional,1,Comunicação Assertiva,0.6724735,matched
+315,react,2,Resolução de Conflitos,0.4594935,no_match
+316,data protection,70,Segurança de Dados,0.80116045,matched
+317,streaming de dados,53,Streaming de Dados,0.72886777,matched
+318,maturidade emocional,3,Inteligência Emocional,0.6034117,matched
+319,github actions,71,Versionamento de Código,0.6694172,matched
+320,tableau analytics,76,Tableau,0.7255267,matched
+321,context switching,8,Adaptabilidade,0.49398383,no_match
+322,planejamento anual,26,Planejamento Estratégico,0.51734716,no_match
+323,airflow,52,Orquestração de Pipelines,0.4031482,no_match
+324,cache distribuído,59,Redis,0.6710348,matched
+325,k8s,63,Kubernetes,0.29004583,no_match
+326,aprendizado não supervisionado,39,Machine Learning,0.6167136,matched
+327,visualização de dados,38,Análise de Dados,0.6959652,matched
+328,governança de dados,50,Engenharia de Dados,0.5791453,no_match
+329,lang chain,52,Orquestração de Pipelines,0.30082476,no_match
+330,reconhecimento de imagens,47,Visão Computacional,0.69519484,matched
+331,cultura de inovação,28,Inovação,0.7403842,matched
+332,spark streaming,80,Spark,0.5810472,no_match
+333,inferência estatística,48,Estatística Aplicada,0.6412111,matched
+334,typescript development,35,TypeScript,0.58786285,no_match
+335,drive innovation,28,Inovação,0.50199085,no_match
+336,python para dados,30,Python,0.71036243,matched
+337,DQ,89,OKRs,0.32366356,no_match
+338,aprendizado de máquina,39,Machine Learning,0.79799414,matched
+339,gestão de mudanças,27,Gestão de Mudanças,0.74256575,matched
+340,git,89,OKRs,0.26493335,no_match
+341,desenvolvimento de colaboradores,12,Colaboração,0.7051958,matched
+342,financial modeling,91,Modelagem Financeira,0.824368,matched
+343,customer empathy,15,Foco no Cliente,0.5216717,no_match
+344,raciocínio lógico,5,Pensamento Crítico,0.44073755,no_match
+345,stakeholder communication,1,Comunicação Assertiva,0.6090288,matched
+346,javascript,34,JavaScript,0.53924614,no_match
+347,precision recall,59,Redis,0.32380593,no_match
+348,documentation,22,Escrita Profissional,0.5059049,no_match
+349,product owner,86,Gestão de Produto,0.55566156,no_match
+350,comunicar bem,1,Comunicação Assertiva,0.6022554,matched
+351,cloudformation,67,Azure,0.6220809,matched
+352,long-term thinking,16,Pensamento Estratégico,0.62671363,matched
+353,functional scala,36,Scala,0.5627993,no_match
+354,project execution,17,Gestão de Projetos,0.6866058,matched
+355,classification models,43,Embeddings e Busca Vetorial,0.49882787,no_match
+356,avaliar modelos,45,Avaliação de Modelos,0.6293387,matched
+357,python para dados,30,Python,0.71036243,matched
+358,arquitetura limpa,68,Infrastructure as Code,0.4259534,no_match
+359,financial statements analysis,90,Análise Financeira,0.7472188,matched
+360,power bi analytics,75,Power BI,0.75167763,matched
+361,desenvolvimento organizacional,95,Desenvolvimento Organizacional,0.78546906,matched
+362,prefect,24,Liderança Técnica,0.31329998,no_match
+363,innovative solutions,28,Inovação,0.5712594,no_match
+364,spreadsheets,77,Excel Avançado,0.37748995,no_match
+365,registro de modelos,54,Modelagem de Dados,0.53497624,no_match
+366,testes de hipótese,48,Estatística Aplicada,0.6632953,matched
+367,pipeline scheduling,84,Langfuse,0.4890586,no_match
+368,tomada de decisão,7,Tomada de Decisão,0.66224897,matched
+369,comunicação escrita,22,Escrita Profissional,0.73534894,matched
+370,TypeScript,35,TypeScript,0.544736,no_match
+371,vector store,73,Arquitetura de Software,0.31180808,no_match
+372,database queries,31,SQL,0.734993,matched
+373,dbt cloud,66,Google Cloud Platform,0.57747,no_match
+374,comunicação escrita,22,Escrita Profissional,0.73534894,matched
+375,deploy automatizado,64,CI/CD,0.48867995,no_match
+376,planejar estrategicamente,26,Planejamento Estratégico,0.74274385,matched
+377,balance sheet analysis,54,Modelagem de Dados,0.41401127,no_match
+378,creative problem solving,6,Resolução de Problemas,0.65699613,matched
+379,resolver divergências,2,Resolução de Conflitos,0.60338414,matched
+380,agilidade de aprendizado,11,Aprendizado Contínuo,0.7074499,matched
+381,decision-making,7,Tomada de Decisão,0.65856624,matched
+382,containers,63,Kubernetes,0.5194764,no_match
+383,fine-tuning LLMs,42,Large Language Models,0.5268612,no_match
+384,user-centric thinking,88,Design Thinking,0.5960454,no_match
+385,openness to change,8,Adaptabilidade,0.48459852,no_match
+386,adaptability,8,Adaptabilidade,0.7740493,matched
+387,big data spark,80,Spark,0.61266506,matched
+388,embeddings,43,Embeddings e Busca Vetorial,0.43343812,no_match
+389,práticas ágeis,18,Metodologias Ágeis,0.47542065,no_match
+390,system monitoring,69,Monitoramento e Observabilidade,0.6930437,matched
+391,DW,89,OKRs,0.31303543,no_match
+392,unittest,12,Colaboração,0.2911353,no_match
+393,foco no usuário,15,Foco no Cliente,0.5710311,no_match
+394,comunicação com stakeholders,1,Comunicação Assertiva,0.6256533,matched
+395,professional writing,22,Escrita Profissional,0.7505624,matched
+396,scope management,86,Gestão de Produto,0.577307,no_match
+397,escrita clara,22,Escrita Profissional,0.55620146,no_match
+398,senso de produto,13,Visão de Produto,0.65706635,matched
+399,programar em python,30,Python,0.72759616,matched
+400,employer brand,98,Employer Branding,0.6911664,matched
+401,power bi desktop,75,Power BI,0.5280056,no_match
+402,lang chain,52,Orquestração de Pipelines,0.30082476,no_match
+403,compliance e regulação,93,Compliance e Regulação,0.7803806,matched
+404,trabalhar sem supervisão,10,Autogestão,0.5543239,no_match
+405,retrieval augmented generation,59,Redis,0.4734978,no_match
+406,comunicação com stakeholders,1,Comunicação Assertiva,0.6256533,matched
+407,emotional management,3,Inteligência Emocional,0.70863616,matched
+408,salary negotiation,4,Negociação,0.51151484,no_match
+409,strategic thinking,16,Pensamento Estratégico,0.76329565,matched
+410,liderança de engenharia,24,Liderança Técnica,0.8150947,matched
+411,Python,30,Python,0.6242019,matched
+412,risk analysis,92,Gestão de Riscos,0.7076024,matched
+413,people care,0,Gestão de Pessoas,0.44068187,no_match
+414,data security,70,Segurança de Dados,0.83788353,matched
+415,data cleaning,38,Análise de Dados,0.6714107,matched
+416,fechar acordos,4,Negociação,0.52539945,no_match
+417,LookML,85,Hugging Face,0.43548197,no_match
+418,decision-making,7,Tomada de Decisão,0.65856624,matched
+419,planilhas,85,Hugging Face,0.28033513,no_match
+420,risk taking,92,Gestão de Riscos,0.6154988,matched
+421,postgresql optimization,57,PostgreSQL,0.8014901,matched
+422,context switching,8,Adaptabilidade,0.49398392,no_match
+423,ggplot2,32,R,0.42281282,no_match
+424,SQL writing,31,SQL,0.6683915,matched
+425,fastapi,85,Hugging Face,0.29686445,no_match
+426,sentiment analysis,3,Inteligência Emocional,0.48156676,no_match
+427,LLM development,42,Large Language Models,0.4663835,no_match
+428,logging,69,Monitoramento e Observabilidade,0.46987492,no_match
+429,compelling data presentations,20,Storytelling com Dados,0.6866529,matched
+430,product strategy,86,Gestão de Produto,0.7261097,matched
+431,scala functional programming,36,Scala,0.6218997,matched
+432,SQL avançado,31,SQL,0.72010183,matched
+433,airflow,52,Orquestração de Pipelines,0.4031482,no_match
+434,self-management,10,Autogestão,0.66714454,matched
+435,culture of innovation,28,Inovação,0.7422633,matched
+436,FastAPI backend,61,FastAPI,0.38990057,no_match
+437,API development,97,Treinamento e Desenvolvimento,0.4454167,no_match
+438,command line scripting,37,Bash e Shell Script,0.63932157,matched
+439,pipeline scheduling,84,Langfuse,0.4890586,no_match
+440,API REST,85,Hugging Face,0.20525399,no_match
+441,discounted cash flow,90,Análise Financeira,0.44395047,no_match
+442,empathy mapping,3,Inteligência Emocional,0.5448259,no_match
+443,data orientation,38,Análise de Dados,0.48453754,no_match
+444,agilidade,11,Aprendizado Contínuo,0.44849014,no_match
+445,LLMs,42,Large Language Models,0.49955106,no_match
+446,azure machine learning,39,Machine Learning,0.7181624,matched
+447,technical team guidance,24,Liderança Técnica,0.69243026,matched
+448,normalização de dados,38,Análise de Dados,0.5435184,no_match
+449,gerenciamento de riscos,92,Gestão de Riscos,0.79569477,matched
+450,infrastructure provisioning,68,Infrastructure as Code,0.6725987,matched
+451,tomar decisões,7,Tomada de Decisão,0.66308266,matched
+452,pytest,61,FastAPI,0.28006607,no_match
+453,cache redis,59,Redis,0.685235,matched
+454,projeções financeiras,91,Modelagem Financeira,0.6540681,matched
+455,TypeScript,35,TypeScript,0.544736,no_match
+456,salary negotiation,4,Negociação,0.51151484,no_match
+457,programação java,42,Large Language Models,0.42048216,no_match
+458,indicadores-chave,69,Monitoramento e Observabilidade,0.48853362,no_match
+459,angular,85,Hugging Face,0.2214264,no_match
+460,pitching,28,Inovação,0.19448209,no_match
+461,extração de features,38,Análise de Dados,0.51303214,no_match
+462,independent services,10,Autogestão,0.46777776,no_match
+463,kubernetes pods,74,Microsserviços,0.3832092,no_match
+464,amazon web services,65,AWS,0.7309272,matched
+465,data integrity,56,Qualidade de Dados,0.6944032,matched
+466,testes unitários,72,Testes Automatizados,0.6536423,matched
+467,HDFS,59,Redis,0.4710118,no_match
+468,gerenciamento de pessoas,0,Gestão de Pessoas,0.70291996,matched
+469,mapa de empatia,3,Inteligência Emocional,0.5363872,no_match
+470,avaliação de desempenho,96,Gestão de Desempenho,0.70468557,matched
+471,javascript,34,JavaScript,0.53924614,no_match
+472,GIT,89,OKRs,0.26493332,no_match
+473,agile frameworks,73,Arquitetura de Software,0.5547918,no_match
+474,entrevistas de emprego,22,Escrita Profissional,0.4712309,no_match
+475,self-management,10,Autogestão,0.66714454,matched
+476,risk-based decision,7,Tomada de Decisão,0.7051237,matched
+477,SLI SLO SLA,85,Hugging Face,0.23039012,no_match
+478,gke,89,OKRs,0.3222846,no_match
+479,strategic mindset,16,Pensamento Estratégico,0.74327624,matched
+480,valores organizacionais,99,Cultura Organizacional,0.5823738,no_match
+481,mineração de texto,22,Escrita Profissional,0.5439738,no_match
+482,stakeholder management,25,Gestão de Stakeholders,0.76936364,matched
+483,ser mentor,23,Mentoria,0.61830467,matched
+484,problem solving,6,Resolução de Problemas,0.75450027,matched
+485,mediation skills,1,Comunicação Assertiva,0.51851106,no_match
+486,java,89,OKRs,0.29402286,no_match
+487,análise de vídeo,47,Visão Computacional,0.66923046,matched
+488,PSQL,31,SQL,0.54455435,no_match
+489,autonomous work,10,Autogestão,0.57169145,no_match
+490,python scripting,30,Python,0.63624245,matched
+491,logs,69,Monitoramento e Observabilidade,0.41584757,no_match
+492,capability building,73,Arquitetura de Software,0.5106735,no_match
+493,data manipulation,38,Análise de Dados,0.6292939,matched
+494,comunicação direta,1,Comunicação Assertiva,0.6088976,matched
+495,design de sistemas,73,Arquitetura de Software,0.5812303,no_match
+496,inteligência emocional,3,Inteligência Emocional,0.8260685,matched
+497,data-driven mindset,50,Engenharia de Dados,0.6527761,matched
+498,dbt models,79,dbt,0.7578659,matched
+499,comunicação no trabalho,22,Escrita Profissional,0.6310036,matched
+500,workflow automation,9,Gestão do Tempo,0.4630893,no_match
+501,javascript backend,34,JavaScript,0.7266427,matched
+502,datadog,20,Storytelling com Dados,0.59658074,no_match
+503,cloudformation,67,Azure,0.622081,matched
+504,intrapreneurship,29,Empreendedorismo,0.5529158,no_match
+505,cross-validation,72,Testes Automatizados,0.39747822,no_match
+506,compliance,93,Compliance e Regulação,0.57782423,no_match
+507,monitoramento de LLM,69,Monitoramento e Observabilidade,0.620835,matched
+508,KPIs,85,Hugging Face,0.31672725,no_match
+509,risk analysis,92,Gestão de Riscos,0.7076026,matched
+510,vector search,43,Embeddings e Busca Vetorial,0.4234676,no_match
+511,organizational culture,99,Cultura Organizacional,0.80041134,matched
+512,AWS,65,AWS,0.36063612,no_match
+513,lidar com conflitos,2,Resolução de Conflitos,0.6573983,matched
+514,resolver conflitos interpessoais,2,Resolução de Conflitos,0.7370807,matched
+515,mitigação de riscos,92,Gestão de Riscos,0.6895304,matched
+516,fast api,52,Orquestração de Pipelines,0.35521764,no_match
+517,expressing ideas clearly,1,Comunicação Assertiva,0.571084,no_match
+518,trabalhar sem supervisão,10,Autogestão,0.55432385,no_match
+519,clarity in communication,22,Escrita Profissional,0.52440214,no_match
+520,dockerfile,62,Docker,0.643836,matched
+521,job interviews,94,Recrutamento e Seleção,0.46233344,no_match
+522,cloud AWS,67,Azure,0.5928366,no_match
+523,facilitar workshops,19,Facilitação,0.67079866,matched
+524,containerization,62,Docker,0.5638312,no_match
+525,business writing,22,Escrita Profissional,0.6133046,matched
+526,team building,97,Treinamento e Desenvolvimento,0.50545096,no_match
+527,engajamento de stakeholders,25,Gestão de Stakeholders,0.71017855,matched
+528,people ops,0,Gestão de Pessoas,0.44566005,no_match
+529,customer needs understanding,15,Foco no Cliente,0.7653891,matched
+530,rastreamento de prompts,69,Monitoramento e Observabilidade,0.55092466,no_match
+531,infrastructure automation,68,Infrastructure as Code,0.5940874,no_match
+532,LLM applications,82,LangChain,0.56833637,no_match
+533,learning programs,97,Treinamento e Desenvolvimento,0.5644736,no_match
+534,entidade relacionamento,12,Colaboração,0.5529646,no_match
+535,teamwork,12,Colaboração,0.65490615,matched
+536,gerenciamento do tempo,9,Gestão do Tempo,0.715912,matched
+537,flexibility,73,Arquitetura de Software,0.36024556,no_match
+538,redshift,89,OKRs,0.26508552,no_match
+539,análise de decisão,7,Tomada de Decisão,0.7149089,matched
+540,managing projects,17,Gestão de Projetos,0.87862045,matched
+541,LGPD,89,OKRs,0.3538619,no_match
+542,clean architecture,73,Arquitetura de Software,0.44501078,no_match
+543,react,2,Resolução de Conflitos,0.4594935,no_match
+544,text analysis,41,Processamento de Linguagem Natural,0.5883666,no_match
+545,comunicação interpessoal,1,Comunicação Assertiva,0.559237,no_match
+546,dagster,21,Apresentação e Oratória,0.29609933,no_match
+547,containers,63,Kubernetes,0.5194764,no_match
+548,análise de dados,38,Análise de Dados,0.8053319,matched
+549,UX insights,38,Análise de Dados,0.5074531,no_match
+550,langchain,82,LangChain,0.45353383,no_match
+551,prometheus,21,Apresentação e Oratória,0.28400752,no_match
+552,system architecture,73,Arquitetura de Software,0.5744313,no_match
+553,corporate culture,99,Cultura Organizacional,0.5787344,no_match
+554,managing deadlines,9,Gestão do Tempo,0.73347926,matched
+555,stream processing,52,Orquestração de Pipelines,0.6272213,matched
+556,estatística aplicada,48,Estatística Aplicada,0.5179212,no_match
+557,EVP,89,OKRs,0.37364322,no_match
+558,client focus,15,Foco no Cliente,0.60057104,matched
+559,engineering leadership,24,Liderança Técnica,0.8009114,matched
+560,kubernetes scaling,63,Kubernetes,0.47479194,no_match
+561,monitoramento de modelos,69,Monitoramento e Observabilidade,0.603707,matched
+562,negotiation techniques,4,Negociação,0.8006458,matched
+563,análise de sentimentos,3,Inteligência Emocional,0.66799426,matched
+564,negotiating deals,4,Negociação,0.7871082,matched
+565,contratação,94,Recrutamento e Seleção,0.5139989,no_match
+566,integração de dados,38,Análise de Dados,0.67513967,matched
+567,roadmap de produto,86,Gestão de Produto,0.69427985,matched
+568,privacidade de dados,70,Segurança de Dados,0.7666918,matched
+569,metodologias ágeis,54,Modelagem de Dados,0.4850211,no_match
+570,professional coaching,24,Liderança Técnica,0.5201515,no_match
+571,obsessão pelo cliente,15,Foco no Cliente,0.5334331,no_match
+572,inference hugging face,85,Hugging Face,0.7263423,matched
+573,limpeza de dados,38,Análise de Dados,0.6567339,matched
+574,key performance indicators,96,Gestão de Desempenho,0.5796724,no_match
+575,spirit of collaboration,12,Colaboração,0.769369,matched
+576,SQL manipulation,31,SQL,0.6212523,matched
+577,fastapi development,61,FastAPI,0.53239214,no_match
+578,prefect,24,Liderança Técnica,0.31329998,no_match
+579,good writing,22,Escrita Profissional,0.54518664,no_match
+580,product strategy,86,Gestão de Produto,0.7261097,matched
+581,PM,22,Escrita Profissional,0.2800343,no_match
+582,Terraform,68,Infrastructure as Code,0.5087911,no_match
+583,anomaly detection in time series,46,Séries Temporais,0.58559424,no_match
+584,mudança organizacional,27,Gestão de Mudanças,0.7543138,matched
+585,probabilidade,7,Tomada de Decisão,0.37029427,no_match
+586,python avançado,30,Python,0.65600616,matched
+587,event streaming,53,Streaming de Dados,0.49436042,no_match
+588,Git,89,OKRs,0.26493332,no_match
+589,empreendedorismo,29,Empreendedorismo,0.5749867,no_match
+590,langchain chains,82,LangChain,0.5465883,no_match
+591,PBI,79,dbt,0.2935842,no_match
+592,project oversight,17,Gestão de Projetos,0.74169016,matched
+593,data pipelines,52,Orquestração de Pipelines,0.7173403,matched
+594,product ownership,13,Visão de Produto,0.5537716,no_match
+595,validação de dados,56,Qualidade de Dados,0.6294941,matched
+596,kubernetes,63,Kubernetes,0.32237157,no_match
+597,people performance,21,Apresentação e Oratória,0.53909075,no_match
+598,SOLID principles,4,Negociação,0.3005135,no_match
+599,willingness to learn,11,Aprendizado Contínuo,0.6241828,matched
+600,empreendedorismo,29,Empreendedorismo,0.5749867,no_match
+601,test coverage,72,Testes Automatizados,0.590468,no_match
+602,estratégia de produto,86,Gestão de Produto,0.7222539,matched
+603,critical mindset,5,Pensamento Crítico,0.6202109,matched
+604,cloudformation,67,Azure,0.6220809,matched
+605,risco operacional,92,Gestão de Riscos,0.6654418,matched
+606,shell automation,37,Bash e Shell Script,0.74252653,matched
+607,statistical analysis,32,R,0.6076678,matched
+608,RDS,89,OKRs,0.30669594,no_match
+609,assumir riscos,29,Empreendedorismo,0.5620055,no_match
+610,reconhecimento de imagens,47,Visão Computacional,0.69519484,matched
+611,operational risk,92,Gestão de Riscos,0.70862854,matched
+612,public speaking,21,Apresentação e Oratória,0.55489784,no_match
+613,javascript backend,34,JavaScript,0.72664297,matched
+614,data transformation,38,Análise de Dados,0.5706861,no_match
+615,learning agility,11,Aprendizado Contínuo,0.5867107,no_match
+616,text generation,41,Processamento de Linguagem Natural,0.5170007,no_match
+617,PM,22,Escrita Profissional,0.2800343,no_match
+618,VBA,79,dbt,0.3439508,no_match
+619,ideação,28,Inovação,0.4852069,no_match
+620,product management,86,Gestão de Produto,0.74981225,matched
+621,corporate culture,99,Cultura Organizacional,0.5787344,no_match
+622,pensamento quantitativo,14,Orientação a Dados,0.52205074,no_match
+623,people coaching,0,Gestão de Pessoas,0.51384926,no_match
+624,GDPR compliance,93,Compliance e Regulação,0.5242684,no_match
+625,cross-functional collaboration,12,Colaboração,0.7500184,matched
+626,apache spark,80,Spark,0.71351635,matched
+627,problem-solving,6,Resolução de Problemas,0.760766,matched
+628,SQL avançado,31,SQL,0.72010195,matched
+629,customer centricity,15,Foco no Cliente,0.6052462,matched
+630,alinhamento de stakeholders,12,Colaboração,0.6594058,matched
+631,modelagem dimensional,54,Modelagem de Dados,0.56239104,no_match
+632,Hugging Face,85,Hugging Face,0.68230015,matched
+633,model evaluation,45,Avaliação de Modelos,0.65662515,matched
+634,deliver presentations,21,Apresentação e Oratória,0.6694595,matched
+635,previsão de séries temporais,46,Séries Temporais,0.7183839,matched
+636,apresentar dados,38,Análise de Dados,0.6647004,matched
+637,FAISS,85,Hugging Face,0.31698513,no_match
+638,questionar premissas,21,Apresentação e Oratória,0.46999106,no_match
+639,independent work,10,Autogestão,0.46769124,no_match
+640,cloud run,67,Azure,0.62057304,matched
+641,treinamento corporativo,97,Treinamento e Desenvolvimento,0.5068816,no_match
+642,mudança organizacional,27,Gestão de Mudanças,0.75431395,matched
+643,T&D,89,OKRs,0.3478439,no_match
+644,tracing,69,Monitoramento e Observabilidade,0.33268,no_match
+645,SQL básico,31,SQL,0.70523596,matched
+646,descriptive statistics,32,R,0.48929733,no_match
+647,spreadsheet,77,Excel Avançado,0.37781447,no_match
+648,coordenação de projetos,17,Gestão de Projetos,0.7016624,matched
+649,oral communication,1,Comunicação Assertiva,0.48587132,no_match
+650,compliance de dados,56,Qualidade de Dados,0.64838946,matched
+651,data completeness,56,Qualidade de Dados,0.64401865,matched
+652,LGPD,89,OKRs,0.3538619,no_match
+653,temporal modeling,46,Séries Temporais,0.58239734,no_match
+654,managing group dynamics,19,Facilitação,0.58774495,no_match
+655,effective communication,1,Comunicação Assertiva,0.63478255,matched
+656,hadoop,81,Hadoop,0.4035165,no_match
+657,resolver problemas,6,Resolução de Problemas,0.7238544,matched
+658,detecção de objetos,69,Monitoramento e Observabilidade,0.523159,no_match
+659,agile mindset,73,Arquitetura de Software,0.54469,no_match
+660,azure AI,89,OKRs,0.24951401,no_match
+661,web development javascript,34,JavaScript,0.64840627,matched
+662,proatividade,1,Comunicação Assertiva,0.4331052,no_match
+663,similaridade semântica,43,Embeddings e Busca Vetorial,0.444552,no_match
+664,verbal communication,1,Comunicação Assertiva,0.64364064,matched
+665,hugging face,85,Hugging Face,0.68230015,matched
+666,semantic search,41,Processamento de Linguagem Natural,0.47839814,no_match
+667,orquestração de containers,63,Kubernetes,0.6098049,matched
+668,aprendizado de máquina,39,Machine Learning,0.79799414,matched
+669,avaliação de riscos,92,Gestão de Riscos,0.7508605,matched
+670,risk taking,92,Gestão de Riscos,0.6154988,matched
+671,trabalho em equipe,12,Colaboração,0.6221595,matched
+672,data extraction,38,Análise de Dados,0.715662,matched
+673,power query,75,Power BI,0.51742125,no_match
+674,NoSQL database,31,SQL,0.7184385,matched
+675,structured query language,41,Processamento de Linguagem Natural,0.5176745,no_match
+676,habilidades de apresentação,21,Apresentação e Oratória,0.7109754,matched
+677,automação de testes,72,Testes Automatizados,0.82508194,matched
+678,serviços independentes,10,Autogestão,0.506616,no_match
+679,programação em python,30,Python,0.73023427,matched
+680,modelagem estatística,48,Estatística Aplicada,0.64629865,matched
+681,data integrity,56,Qualidade de Dados,0.6944033,matched
+682,EQ,89,OKRs,0.40442562,no_match
+683,OKR framework,68,Infrastructure as Code,0.49134442,no_match
+684,abertura a mudanças,27,Gestão de Mudanças,0.5597352,no_match
+685,microservices,74,Microsserviços,0.7667018,matched
+686,clean architecture,73,Arquitetura de Software,0.44501078,no_match
+687,kafka,85,Hugging Face,0.3112818,no_match
+688,comunicação com stakeholders,1,Comunicação Assertiva,0.6256535,matched
+689,treinamento e desenvolvimento,97,Treinamento e Desenvolvimento,0.70817727,matched
+690,negotiating deals,4,Negociação,0.7871082,matched
+691,comunicação assertiva,1,Comunicação Assertiva,0.74906933,matched
+692,excel formulas,77,Excel Avançado,0.6290262,matched
+693,data quality,56,Qualidade de Dados,0.81629837,matched
+694,Postgres,57,PostgreSQL,0.43023968,no_match
+695,engenharia de dados,50,Engenharia de Dados,0.76276076,matched
+696,decisões baseadas em dados,14,Orientação a Dados,0.7366304,matched
+697,time series forecasting,46,Séries Temporais,0.6514238,matched
+698,definir estratégia,16,Pensamento Estratégico,0.7115733,matched
+699,atração de talentos,98,Employer Branding,0.517368,no_match
+700,coordenação de projetos,17,Gestão de Projetos,0.7016624,matched
+701,testing,72,Testes Automatizados,0.6423134,matched
+702,negociar com clientes,15,Foco no Cliente,0.6036174,matched
+703,gestão de capital humano,0,Gestão de Pessoas,0.5434453,no_match
+704,azure cloud,67,Azure,0.55859625,no_match
+705,document writing,22,Escrita Profissional,0.6037216,matched
+706,critical thinking,5,Pensamento Crítico,0.64742005,matched
+707,excel básico,77,Excel Avançado,0.6635436,matched
+708,análise exploratória,38,Análise de Dados,0.5025892,no_match
+709,cultura organizacional,99,Cultura Organizacional,0.82250804,matched
+710,conflict resolution,2,Resolução de Conflitos,0.72221196,matched
+711,spreadsheets,77,Excel Avançado,0.37748995,no_match
+712,AB tests,72,Testes Automatizados,0.54027045,no_match
+713,decisão sob incerteza,7,Tomada de Decisão,0.7322546,matched
+714,design research,88,Design Thinking,0.66830766,matched
+715,gerenciar desentendimentos,2,Resolução de Conflitos,0.60352945,matched
+716,monitoramento de modelos,69,Monitoramento e Observabilidade,0.603707,matched
+717,self-learning,10,Autogestão,0.5021533,no_match
+718,decoupled services,65,AWS,0.3845516,no_match
+719,vontade de aprender,11,Aprendizado Contínuo,0.5776082,no_match
+720,time management,9,Gestão do Tempo,0.7400875,matched
+721,model performance,96,Gestão de Desempenho,0.6018566,matched
+722,testes de usabilidade,72,Testes Automatizados,0.68874943,matched
+723,change adoption,27,Gestão de Mudanças,0.4797597,no_match
+724,séries temporais,46,Séries Temporais,0.49616924,no_match
+725,gerenciar projetos,17,Gestão de Projetos,0.87670124,matched
+726,ggplot,32,R,0.4228351,no_match
+727,organizational effectiveness,95,Desenvolvimento Organizacional,0.6408234,matched
+728,python scripting,30,Python,0.63624245,matched
+729,trabalho independente,10,Autogestão,0.49661282,no_match
+730,dimensional modeling,54,Modelagem de Dados,0.5464481,no_match
+731,user stories,20,Storytelling com Dados,0.4900705,no_match
+732,análise de fluxo de caixa,52,Orquestração de Pipelines,0.60291266,matched
+733,comunicação transparente,1,Comunicação Assertiva,0.43278587,no_match
+734,visão estratégica de produto,86,Gestão de Produto,0.76936615,matched
+735,information security,70,Segurança de Dados,0.76970685,matched
+736,merge,89,OKRs,0.27724987,no_match
+737,vontade de aprender,11,Aprendizado Contínuo,0.5776082,no_match
+738,performance de modelos,45,Avaliação de Modelos,0.62340957,matched
+739,resolução de conflitos,2,Resolução de Conflitos,0.7446522,matched
+740,big data spark,80,Spark,0.6126652,matched
+741,HuggingFace,85,Hugging Face,0.73176885,matched
+742,organizational effectiveness,95,Desenvolvimento Organizacional,0.6408234,matched
+743,Git,89,OKRs,0.26493335,no_match
+744,postgres,57,PostgreSQL,0.43023968,no_match
+745,presenting to stakeholders,21,Apresentação e Oratória,0.60141927,matched
+746,negotiation,4,Negociação,0.7709371,matched
+747,kubectl,85,Hugging Face,0.3120075,no_match
+748,good writing,22,Escrita Profissional,0.54518664,no_match
+749,transformação organizacional,27,Gestão de Mudanças,0.7737577,matched
+750,kafka,85,Hugging Face,0.3112818,no_match
+751,mediation skills,1,Comunicação Assertiva,0.51851106,no_match
+752,falar em público,21,Apresentação e Oratória,0.5678482,no_match
+753,autogestão,10,Autogestão,0.54144955,no_match
+754,espírito de equipe,0,Gestão de Pessoas,0.50394166,no_match
+755,liderança de time,24,Liderança Técnica,0.6892042,matched
+756,talent sourcing,98,Employer Branding,0.5269256,no_match
+757,ggplot2,32,R,0.42281285,no_match
+758,gestão de talentos,0,Gestão de Pessoas,0.5652878,no_match
+759,financial scenarios,91,Modelagem Financeira,0.7086586,matched
+760,insights communication,1,Comunicação Assertiva,0.6025535,matched
+761,critical decision making,7,Tomada de Decisão,0.70640767,matched
+762,machine learning engineer,39,Machine Learning,0.7716933,matched
+763,HuggingFace,85,Hugging Face,0.73176885,matched
+764,comunicação verbal,1,Comunicação Assertiva,0.62744564,matched
+765,apresentar ideias,28,Inovação,0.5221209,no_match
+766,planejamento empresarial,86,Gestão de Produto,0.5936028,no_match
+767,commits,26,Planejamento Estratégico,0.3612575,no_match
+768,Terraform,68,Infrastructure as Code,0.5087911,no_match
+769,redes neurais profundas,40,Deep Learning,0.67072904,matched
+770,gerenciar prazos,9,Gestão do Tempo,0.77123356,matched
+771,desenvolvimento de pessoas,23,Mentoria,0.6392078,matched
+772,innovative solutions,28,Inovação,0.5712594,no_match
+773,data manipulation,38,Análise de Dados,0.6292939,matched
+774,JAVA,89,OKRs,0.29402286,no_match
+775,proteção de dados,70,Segurança de Dados,0.82447326,matched
+776,gestão de mudanças,27,Gestão de Mudanças,0.74256575,matched
+777,intellectual curiosity,5,Pensamento Crítico,0.42238414,no_match
+778,análise de demonstrativos,49,Experimentação e Testes A/B,0.5421063,no_match
+779,making decisions,7,Tomada de Decisão,0.6639386,matched
+780,design de sistemas,73,Arquitetura de Software,0.5812303,no_match
+781,kafka,85,Hugging Face,0.3112818,no_match
+782,fórmulas excel,77,Excel Avançado,0.55864555,no_match
+783,scripts bash,37,Bash e Shell Script,0.76648307,matched
+784,descriptive analytics,38,Análise de Dados,0.61601734,matched
+785,aprendizagem contínua,11,Aprendizado Contínuo,0.6951891,matched
+786,adaptive mindset,8,Adaptabilidade,0.6221669,matched
+787,negociação de salários,4,Negociação,0.4458161,no_match
+788,JS,89,OKRs,0.28917113,no_match
+789,disruptive thinking,5,Pensamento Crítico,0.45789477,no_match
+790,emotional resilience,3,Inteligência Emocional,0.55362463,no_match
+791,code review,72,Testes Automatizados,0.6423733,matched
+792,Excel,77,Excel Avançado,0.6529068,matched
+793,liderança humana,0,Gestão de Pessoas,0.6808516,matched
+794,mentorship skills,23,Mentoria,0.5993416,no_match
+795,roadmap de produto,86,Gestão de Produto,0.69427985,matched
+796,js,89,OKRs,0.28917113,no_match
+797,mlflow,83,MLflow,0.53357387,no_match
+798,privacidade de dados,70,Segurança de Dados,0.7666918,matched
+799,tableau public,85,Hugging Face,0.3832863,no_match
+800,SQL queries,31,SQL,0.7466985,matched
+801,learning new skills,11,Aprendizado Contínuo,0.7006341,matched
+802,soluções inovadoras,6,Resolução de Problemas,0.5898794,no_match
+803,cli scripting,37,Bash e Shell Script,0.55262005,no_match
+804,microservices architecture,74,Microsserviços,0.82695335,matched
+805,HuggingFace,85,Hugging Face,0.73176885,matched
+806,model evaluation,45,Avaliação de Modelos,0.65662515,matched
+807,planilhas,85,Hugging Face,0.28033513,no_match
+808,testes A/B,72,Testes Automatizados,0.6336262,matched
+809,ML flow,83,MLflow,0.46724153,no_match
+810,mentalidade data-driven,20,Storytelling com Dados,0.64546597,matched
+811,critical evaluation,5,Pensamento Crítico,0.61731505,matched
+812,compliance program,93,Compliance e Regulação,0.5945846,no_match
+813,microsserviços,74,Microsserviços,0.72577417,matched
+814,BI reports,75,Power BI,0.5317776,no_match
+815,problem-solving,6,Resolução de Problemas,0.76076615,matched
+816,strategic negotiation,4,Negociação,0.82495975,matched
+817,emotional maturity,3,Inteligência Emocional,0.5853925,no_match
+818,autonomia,10,Autogestão,0.6973382,matched
+819,deep learning development,40,Deep Learning,0.6742997,matched
+820,negotiating disagreements,4,Negociação,0.71766037,matched
+821,pg,32,R,0.23502187,no_match
+822,pg,32,R,0.23502187,no_match
+823,cloud GCP,66,Google Cloud Platform,0.6821575,matched
+824,commits,26,Planejamento Estratégico,0.3612575,no_match
+825,tableau,85,Hugging Face,0.4756257,no_match
+826,modelagem estatística,48,Estatística Aplicada,0.64629865,matched
+827,macros excel,77,Excel Avançado,0.5258301,no_match
+828,arquitetura de dados,50,Engenharia de Dados,0.71560705,matched
+829,excel avançado,77,Excel Avançado,0.555405,no_match
+830,mlflow models,83,MLflow,0.7340908,matched
+831,spark dataframes,80,Spark,0.5947509,no_match
+832,datadog,20,Storytelling com Dados,0.59658074,no_match
+833,jenkins,89,OKRs,0.23210898,no_match
+834,sql,31,SQL,0.7017696,matched
+835,entrepreneurship,29,Empreendedorismo,0.5555581,no_match
+836,conflict mitigation,2,Resolução de Conflitos,0.5896976,no_match
+837,identificar causas raiz,46,Séries Temporais,0.35596588,no_match
+838,pipeline de ML,52,Orquestração de Pipelines,0.60546327,matched
+839,next.js,34,JavaScript,0.3111552,no_match
+840,pensamento lógico,5,Pensamento Crítico,0.4671129,no_match
+841,expressing ideas clearly,1,Comunicação Assertiva,0.571084,no_match
+842,empatia,3,Inteligência Emocional,0.5246205,no_match
+843,conduzir workshops,19,Facilitação,0.5283767,no_match
+844,critical mindset,5,Pensamento Crítico,0.6202109,matched
+845,estatística com R,32,R,0.758451,matched
+846,org development,95,Desenvolvimento Organizacional,0.56081355,no_match
+847,understanding customers,15,Foco no Cliente,0.72154474,matched
+848,logging,69,Monitoramento e Observabilidade,0.46987492,no_match
+849,negotiation skills,4,Negociação,0.79021025,matched
+850,event-driven data,46,Séries Temporais,0.43551904,no_match
+851,MapReduce,68,Infrastructure as Code,0.42057005,no_match
+852,facilitar workshops,19,Facilitação,0.67079866,matched
+853,excel,77,Excel Avançado,0.6529068,matched
+854,handling disagreements,2,Resolução de Conflitos,0.55593044,no_match
+855,aligning expectations,26,Planejamento Estratégico,0.50397754,no_match
+856,estatística descritiva,32,R,0.4950063,no_match
+857,monitoramento e observabilidade,69,Monitoramento e Observabilidade,0.72405285,matched
+858,sourcing de talentos,11,Aprendizado Contínuo,0.5424051,no_match
+859,hiring,94,Recrutamento e Seleção,0.521913,no_match
+860,objectives and key results,26,Planejamento Estratégico,0.5959739,no_match
+861,organizational values,99,Cultura Organizacional,0.58418465,no_match
+862,liderança de colaboradores,24,Liderança Técnica,0.7281495,matched
+863,design thinking,88,Design Thinking,0.7620051,matched
+864,modelagem relacional,54,Modelagem de Dados,0.56449986,no_match
+865,clustering,19,Facilitação,0.41133586,no_match
+866,document writing,22,Escrita Profissional,0.6037216,matched
+867,gitlab CI,89,OKRs,0.27609932,no_match
+868,processamento de texto,41,Processamento de Linguagem Natural,0.5867507,no_match
+869,data architecture,50,Engenharia de Dados,0.6985876,matched
+870,autoconsciência emocional,3,Inteligência Emocional,0.72684526,matched
+871,data security,70,Segurança de Dados,0.83788353,matched
+872,controle de versão,73,Arquitetura de Software,0.332493,no_match
+873,People Management,0,Gestão de Pessoas,0.7338301,matched
+874,setting strategy,16,Pensamento Estratégico,0.6592388,matched
+875,Redis,89,OKRs,0.28259665,no_match
+876,Scala,36,Scala,0.5922724,no_match
+877,SQL postgres,57,PostgreSQL,0.75361735,matched
+878,regulatory compliance,93,Compliance e Regulação,0.7405266,matched
+879,estratégia de branches,16,Pensamento Estratégico,0.6815452,matched
+880,cliente em primeiro lugar,15,Foco no Cliente,0.66493785,matched
+881,deep learning development,40,Deep Learning,0.6742997,matched
+882,bash,37,Bash e Shell Script,0.5815016,no_match
+883,análise de balanço,96,Gestão de Desempenho,0.511151,no_match
+884,monitoramento de LLM,69,Monitoramento e Observabilidade,0.620835,matched
+885,práticas ágeis,18,Metodologias Ágeis,0.4754209,no_match
+886,candidate selection,94,Recrutamento e Seleção,0.54810786,no_match
+887,normalização de dados,38,Análise de Dados,0.5435184,no_match
+888,tensorflow,40,Deep Learning,0.30455533,no_match
+889,real-time processing,53,Streaming de Dados,0.6243255,matched
+890,SQS,43,Embeddings e Busca Vetorial,0.30528617,no_match
+891,emotional self-regulation,3,Inteligência Emocional,0.6497779,matched
+892,aprendizado autodidata,11,Aprendizado Contínuo,0.6484084,matched
+893,project oversight,17,Gestão de Projetos,0.74169016,matched
+894,data wrangling,38,Análise de Dados,0.5980878,no_match
+895,modelagem de dados,54,Modelagem de Dados,0.7203301,matched
+896,product sense,13,Visão de Produto,0.678504,matched
+897,decision making,7,Tomada de Decisão,0.66689897,matched
+898,aquisição de talentos,11,Aprendizado Contínuo,0.6718424,matched
+899,UX research,87,UX Research,0.6445924,matched
+900,postgresql,57,PostgreSQL,0.78296953,matched
+901,alerting,1,Comunicação Assertiva,0.43669176,no_match
+902,postgresql,57,PostgreSQL,0.78296953,matched
+903,corporate training,97,Treinamento e Desenvolvimento,0.4366148,no_match
+904,gestão de pessoas,0,Gestão de Pessoas,0.70050377,matched
+905,Employer Branding,98,Employer Branding,0.74978983,matched
+906,real-time data,53,Streaming de Dados,0.6761006,matched
+907,design sprint,88,Design Thinking,0.43401903,no_match
+908,orientar pessoas,23,Mentoria,0.55391675,no_match
+909,team building,97,Treinamento e Desenvolvimento,0.50545096,no_match
+910,risk management,92,Gestão de Riscos,0.7754712,matched
+911,aws infrastructure,65,AWS,0.57847,no_match
+912,time series analysis,46,Séries Temporais,0.5444403,no_match
+913,programação em R,32,R,0.70579016,matched
+914,negociação estratégica,4,Negociação,0.8131443,matched
+915,saber se comunicar,1,Comunicação Assertiva,0.64358324,matched
+916,comunicação de feedbacks,1,Comunicação Assertiva,0.72243404,matched
+917,gestão das próprias emoções,3,Inteligência Emocional,0.7808292,matched
+918,meeting facilitation,19,Facilitação,0.81745064,matched
+919,planejamento de projetos,17,Gestão de Projetos,0.7718035,matched
+920,ARIMA,89,OKRs,0.2750251,no_match
+921,transformações dbt,79,dbt,0.77290076,matched
+922,ETL,89,OKRs,0.4516797,no_match
+923,cultura e clima,99,Cultura Organizacional,0.43341434,no_match
+924,raciocínio lógico,5,Pensamento Crítico,0.44073746,no_match
+925,excel avançado,77,Excel Avançado,0.555405,no_match
+926,gerenciar prazos,9,Gestão do Tempo,0.77123356,matched
+927,python fastapi,61,FastAPI,0.64094156,matched
+928,pull request,15,Foco no Cliente,0.27232727,no_match
+929,employer marketing,98,Employer Branding,0.6392621,matched
+930,meeting facilitation,19,Facilitação,0.81745064,matched
+931,inovação,28,Inovação,0.71345407,matched
+932,decision analysis,7,Tomada de Decisão,0.69711375,matched
+933,terraform,68,Infrastructure as Code,0.5087911,no_match
+934,entrevistas de emprego,22,Escrita Profissional,0.4712309,no_match
+935,monitoramento e observabilidade,69,Monitoramento e Observabilidade,0.72405285,matched
+936,prompt tracking,69,Monitoramento e Observabilidade,0.4118322,no_match
+937,visualização de dados,38,Análise de Dados,0.6959652,matched
+938,python developer,30,Python,0.7627181,matched
+939,computer vision,47,Visão Computacional,0.6420971,matched
+940,indicadores financeiros,90,Análise Financeira,0.7990339,matched
+941,gerenciamento de riscos,92,Gestão de Riscos,0.79569477,matched
+942,agile methodologies,73,Arquitetura de Software,0.5917933,no_match
+943,gestão de stakeholders,25,Gestão de Stakeholders,0.77467024,matched
+944,microsoft excel,77,Excel Avançado,0.7402828,matched
+945,grafana,85,Hugging Face,0.27154,no_match
+946,career mentoring,23,Mentoria,0.5515349,no_match
+947,generative AI,18,Metodologias Ágeis,0.3588605,no_match
+948,bigquery,55,Data Warehouse,0.3168404,no_match
+949,openai api,80,Spark,0.24085696,no_match
+950,PBI,79,dbt,0.2935842,no_match
+951,validação cruzada,72,Testes Automatizados,0.47839502,no_match
+952,technical team guidance,24,Liderança Técnica,0.69243026,matched
+953,liderança de equipes,24,Liderança Técnica,0.6712899,matched
+954,linguagem R,32,R,0.6919904,matched
+955,strategic mindset,16,Pensamento Estratégico,0.743276,matched
+956,fine-tuning,93,Compliance e Regulação,0.33287913,no_match
+957,IA generativa,99,Cultura Organizacional,0.3798923,no_match
+958,ML pipeline,52,Orquestração de Pipelines,0.59725535,no_match
+959,shell automation,37,Bash e Shell Script,0.74252653,matched
+960,CNN,68,Infrastructure as Code,0.32880437,no_match
+961,design técnico,73,Arquitetura de Software,0.5549472,no_match
+962,statistical analysis,32,R,0.6076678,matched
+963,team culture,99,Cultura Organizacional,0.52743804,no_match
+964,comunicar insights,20,Storytelling com Dados,0.62099284,matched
+965,java backend,33,Java,0.67572117,matched
+966,model metrics,54,Modelagem de Dados,0.53889734,no_match
+967,excel avançado,77,Excel Avançado,0.555405,no_match
+968,scala programming,36,Scala,0.74514765,matched
+969,MLflow,83,MLflow,0.53357387,no_match
+970,object detection,69,Monitoramento e Observabilidade,0.44399112,no_match
+971,orquestração de workflows,52,Orquestração de Pipelines,0.5176701,no_match
+972,retrospectiva,18,Metodologias Ágeis,0.4074448,no_match
+973,looker reports,78,Looker,0.41839808,no_match
+974,Scala,36,Scala,0.5922724,no_match
+975,PSQL,31,SQL,0.54455435,no_match
+976,access control,70,Segurança de Dados,0.42055723,no_match
+977,k8s cluster,63,Kubernetes,0.29555455,no_match
+978,complex problem solving,6,Resolução de Problemas,0.79796445,matched
+979,collaboration,12,Colaboração,0.75932956,matched
+980,data storytelling,20,Storytelling com Dados,0.8419757,matched
+981,ML pipeline,52,Orquestração de Pipelines,0.59725535,no_match
+982,planejamento anual,26,Planejamento Estratégico,0.51734716,no_match
+983,data build tool,50,Engenharia de Dados,0.6879211,matched
+984,emotional management,3,Inteligência Emocional,0.70863616,matched
+985,design centrado no humano,88,Design Thinking,0.57684004,no_match
+986,empatia com o cliente,15,Foco no Cliente,0.52869904,no_match
+987,financial analysis,90,Análise Financeira,0.79817486,matched
+988,tableau,85,Hugging Face,0.4756257,no_match
+989,relatórios power bi,75,Power BI,0.63333464,matched
+990,logical thinking,5,Pensamento Crítico,0.4757193,no_match
+991,facilitation techniques,19,Facilitação,0.61041737,matched
+992,NLP,89,OKRs,0.3324187,no_match
+993,looker studio,78,Looker,0.4150942,no_match
+994,model evaluation,45,Avaliação de Modelos,0.65662515,matched
+995,data ingestion,38,Análise de Dados,0.67806697,matched
+996,visão estratégica de produto,86,Gestão de Produto,0.76936615,matched
+997,automação de build,68,Infrastructure as Code,0.5290724,no_match
+998,income statement,90,Análise Financeira,0.3948787,no_match
+999,data security,70,Segurança de Dados,0.83788353,matched
+1000,dashboards power bi,75,Power BI,0.6756652,matched
+1001,valores organizacionais,99,Cultura Organizacional,0.5823738,no_match
+1002,critical evaluation,5,Pensamento Crítico,0.61731505,matched
+1003,regulação emocional,3,Inteligência Emocional,0.66817534,matched
+1004,inferência estatística,48,Estatística Aplicada,0.6412111,matched
+1005,regression models,48,Estatística Aplicada,0.523962,no_match
+1006,objectives and key results,26,Planejamento Estratégico,0.5959739,no_match
+1007,RCA,85,Hugging Face,0.32346708,no_match
+1008,cultura de time,99,Cultura Organizacional,0.56740415,no_match
+1009,criptografia,70,Segurança de Dados,0.68220073,matched
+1010,vector databases,38,Análise de Dados,0.507025,no_match
+1011,feature selection,44,Engenharia de Features,0.53426397,no_match
+1012,pensar como PM,16,Pensamento Estratégico,0.34938926,no_match
+1013,facilitação,19,Facilitação,0.5239465,no_match
+1014,azure services,65,AWS,0.5745455,no_match
+1015,pensamento estratégico,16,Pensamento Estratégico,0.73086894,matched
+1016,decisão estratégica,16,Pensamento Estratégico,0.68688375,matched
+1017,entrepreneurial thinking,29,Empreendedorismo,0.6438353,matched
+1018,consistência de dados,56,Qualidade de Dados,0.73809814,matched
+1019,Langfuse,82,LangChain,0.31894895,no_match
+1020,entrepreneurial mindset,29,Empreendedorismo,0.6668769,matched
+1021,web services,65,AWS,0.61249447,matched
+1022,database queries,31,SQL,0.734993,matched
+1023,transformers library,75,Power BI,0.34143823,no_match
+1024,reconhecimento óptico de caracteres,47,Visão Computacional,0.46190825,no_match
+1025,aws RDS,89,OKRs,0.4065594,no_match
+1026,objectives and key results,26,Planejamento Estratégico,0.5959739,no_match
+1027,aws lambda,85,Hugging Face,0.22091259,no_match
+1028,valuation,91,Modelagem Financeira,0.3313663,no_match
+1029,azure ML,83,MLflow,0.259569,no_match
+1030,vue.js,85,Hugging Face,0.34790313,no_match
+1031,GCP,64,CI/CD,0.38146138,no_match
+1032,company culture,98,Employer Branding,0.6278188,matched
+1033,Bash,37,Bash e Shell Script,0.5815018,no_match
+1034,nodejs,89,OKRs,0.32099754,no_match
+1035,workshop facilitation,19,Facilitação,0.7148346,matched
+1036,test automation,72,Testes Automatizados,0.79707646,matched
+1037,customer-centric,15,Foco no Cliente,0.65991807,matched
+1038,SQL analytics,31,SQL,0.7578548,matched
+1039,tidyverse,9,Gestão do Tempo,0.2612356,no_match
+1040,vector search,43,Embeddings e Busca Vetorial,0.4234676,no_match
+1041,change communication,1,Comunicação Assertiva,0.5021222,no_match
+1042,DRE,89,OKRs,0.36226857,no_match
+1043,autonomia,10,Autogestão,0.6973382,matched
+1044,cash flow analysis,90,Análise Financeira,0.64257073,matched
+1045,pull request,15,Foco no Cliente,0.27232727,no_match
+1046,postgresql,57,PostgreSQL,0.78296953,matched
+1047,migração de dados,50,Engenharia de Dados,0.53286827,no_match
+1048,written communication,22,Escrita Profissional,0.74069524,matched
+1049,maturidade emocional,3,Inteligência Emocional,0.6034117,matched
+1050,RAG,85,Hugging Face,0.24562821,no_match
+1051,learning programs,97,Treinamento e Desenvolvimento,0.5644736,no_match
+1052,project delivery,17,Gestão de Projetos,0.6361114,matched
+1053,metrics,32,R,0.37733865,no_match
+1054,gerenciar equipes,0,Gestão de Pessoas,0.650308,matched
+1055,eks,89,OKRs,0.2992928,no_match
+1056,azure,89,OKRs,0.2876395,no_match
+1057,banco de dados vetorial,43,Embeddings e Busca Vetorial,0.61927605,matched
+1058,LangChain,82,LangChain,0.45353383,no_match
+1059,arquitetura de dados,50,Engenharia de Dados,0.71560705,matched
+1060,recruitment,94,Recrutamento e Seleção,0.4699904,no_match
+1061,application performance monitoring,96,Gestão de Desempenho,0.58912987,no_match
+1062,monitoramento de LLM,69,Monitoramento e Observabilidade,0.620835,matched
+1063,LLM deployment,63,Kubernetes,0.39222863,no_match
+1064,dar feedback,1,Comunicação Assertiva,0.51335204,no_match
+1065,azure machine learning,39,Machine Learning,0.7181624,matched
+1066,ELT,89,OKRs,0.4073014,no_match
+1067,design research,88,Design Thinking,0.6683076,matched
+1068,snowflake,67,Azure,0.095078975,no_match
+1069,facilitation skills,19,Facilitação,0.64360416,matched
+1070,pitch de ideias,28,Inovação,0.53788066,no_match
+1071,consultas SQL,31,SQL,0.77311313,matched
+1072,FastAPI backend,61,FastAPI,0.38990057,no_match
+1073,agile mindset,73,Arquitetura de Software,0.54469,no_match
+1074,azure devops,89,OKRs,0.2873932,no_match
+1075,document writing,22,Escrita Profissional,0.6037216,matched
+1076,administrar conflitos,2,Resolução de Conflitos,0.6035503,matched
+1077,definição de OKRs,89,OKRs,0.34272325,no_match
+1078,feedback communication,1,Comunicação Assertiva,0.6942915,matched
+1079,critical analysis,5,Pensamento Crítico,0.6028518,matched
+1080,agile,73,Arquitetura de Software,0.52664405,no_match
+1081,technical leadership,24,Liderança Técnica,0.83565044,matched
+1082,web API,65,AWS,0.39704767,no_match
+1083,micro services,74,Microsserviços,0.72569025,matched
+1084,APIs com FastAPI,85,Hugging Face,0.31571728,no_match
+1085,recrutamento e seleção,94,Recrutamento e Seleção,0.6174921,matched
+1086,business analytics,78,Looker,0.61922234,matched
+1087,técnicas de facilitação,19,Facilitação,0.5517241,no_match
+1088,dbt transformations,79,dbt,0.7505637,matched
+1089,design sprint,88,Design Thinking,0.43401903,no_match
+1090,building APIs,17,Gestão de Projetos,0.34868187,no_match
+1091,integração de APIs,85,Hugging Face,0.3359275,no_match
+1092,negociar com clientes,15,Foco no Cliente,0.6036174,matched
+1093,fluxo de caixa descontado,52,Orquestração de Pipelines,0.48550892,no_match
+1094,facilitar workshops,19,Facilitação,0.6707988,matched
+1095,hadoop ecosystem,81,Hadoop,0.6207964,matched
+1096,falar em público,21,Apresentação e Oratória,0.5678482,no_match
+1097,probabilidade,7,Tomada de Decisão,0.37029415,no_match
+1098,azure AI,89,OKRs,0.24951401,no_match
+1099,visão de longo prazo,16,Pensamento Estratégico,0.54694784,no_match
+1100,project coordination,17,Gestão de Projetos,0.68611455,matched
+1101,system monitoring,69,Monitoramento e Observabilidade,0.6930437,matched
+1102,cultura de time,99,Cultura Organizacional,0.56740415,no_match
+1103,LLM monitoring,69,Monitoramento e Observabilidade,0.59314716,no_match
+1104,building pipelines,52,Orquestração de Pipelines,0.57534254,no_match
+1105,product thinking,13,Visão de Produto,0.7000927,matched
+1106,system design,73,Arquitetura de Software,0.59111536,no_match
+1107,growth mindset,23,Mentoria,0.54819196,no_match
+1108,acompanhar OKRs,89,OKRs,0.35568893,no_match
+1109,pensamento centrado no usuário,88,Design Thinking,0.59508836,no_match
+1110,model fairness,45,Avaliação de Modelos,0.53861475,no_match
+1111,sprints,61,FastAPI,0.26405504,no_match
+1112,aprendizado contínuo,11,Aprendizado Contínuo,0.72233796,matched
+1113,cliente em primeiro lugar,15,Foco no Cliente,0.6649376,matched
+1114,alinhar expectativas,26,Planejamento Estratégico,0.529822,no_match
+1115,lifelong learning,11,Aprendizado Contínuo,0.7158692,matched
+1116,schema design,54,Modelagem de Dados,0.49789527,no_match
+1117,gestão de riscos,92,Gestão de Riscos,0.79120535,matched
+1118,analytics engineering,38,Análise de Dados,0.6365504,matched
+1119,REST API,85,Hugging Face,0.17919305,no_match
+1120,tableau server,76,Tableau,0.51992244,no_match
+1121,extração de features,38,Análise de Dados,0.51303214,no_match
+1122,text processing,41,Processamento de Linguagem Natural,0.59339416,no_match
+1123,indicadores-chave,69,Monitoramento e Observabilidade,0.48853362,no_match
+1124,goals and key results,26,Planejamento Estratégico,0.5402784,no_match
+1125,análise de séries temporais,46,Séries Temporais,0.6857037,matched
+1126,documentação,22,Escrita Profissional,0.5074244,no_match
+1127,scala,36,Scala,0.5922724,no_match
+1128,bigquery gcp,66,Google Cloud Platform,0.4197796,no_match
+1129,API architecture,80,Spark,0.3953057,no_match
+1130,fomentar inovação,28,Inovação,0.7741572,matched
+1131,huggingface transformers,85,Hugging Face,0.66162395,matched
+1132,tabelas dinâmicas,77,Excel Avançado,0.53330487,no_match
+1133,storytelling de dados,20,Storytelling com Dados,0.8282056,matched
+1134,image classification,47,Visão Computacional,0.6558622,matched
+1135,IA generativa,99,Cultura Organizacional,0.3798923,no_match
+1136,SQL básico,31,SQL,0.7052361,matched
+1137,SOLID,63,Kubernetes,0.18883206,no_match
+1138,priorizar tarefas,9,Gestão do Tempo,0.6859652,matched
+1139,analytical thinking,5,Pensamento Crítico,0.6670437,matched
+1140,python data,30,Python,0.67471635,matched
+1141,retrospectiva,18,Metodologias Ágeis,0.4074448,no_match
+1142,technical writing,22,Escrita Profissional,0.60482705,matched
+1143,team leadership,24,Liderança Técnica,0.6562146,matched
+1144,pg,32,R,0.23502187,no_match
+1145,data loading,50,Engenharia de Dados,0.5184628,no_match
+1146,design de schema,54,Modelagem de Dados,0.5389458,no_match
+1147,narrative with data,20,Storytelling com Dados,0.7996308,matched
+1148,conflict management,2,Resolução de Conflitos,0.5902025,no_match
+1149,execução autônoma,10,Autogestão,0.65830874,matched
+1150,data migration,50,Engenharia de Dados,0.52071047,no_match
+1151,IaC tools,64,CI/CD,0.46762463,no_match
+1152,entrega ágil,10,Autogestão,0.43180007,no_match
+1153,applied statistics,48,Estatística Aplicada,0.58650005,no_match
+1154,liderar tecnicamente,24,Liderança Técnica,0.72216934,matched
+1155,resolução de problemas,6,Resolução de Problemas,0.7970336,matched
+1156,ELT,89,OKRs,0.4073014,no_match
+1157,deploy com docker,62,Docker,0.60174334,matched
+1158,gerenciar mudanças,27,Gestão de Mudanças,0.7195834,matched
+1159,entrega de projetos,17,Gestão de Projetos,0.6727574,matched
+1160,CD pipeline,64,CI/CD,0.61459464,matched
+1161,GCP,64,CI/CD,0.38146138,no_match
+1162,task organization,9,Gestão do Tempo,0.59527445,no_match
+1163,comunicação profissional,1,Comunicação Assertiva,0.67247367,matched
+1164,Git,89,OKRs,0.26493335,no_match
+1165,métricas de modelos,54,Modelagem de Dados,0.57641697,no_match
+1166,self-starter,10,Autogestão,0.5427223,no_match
+1167,resiliência emocional,3,Inteligência Emocional,0.56146216,no_match
+1168,pensamento quantitativo,14,Orientação a Dados,0.52205074,no_match
+1169,product discovery,49,Experimentação e Testes A/B,0.4731569,no_match
+1170,DAX,89,OKRs,0.31789327,no_match
+1171,organização pessoal,0,Gestão de Pessoas,0.5865493,no_match
+1172,service-oriented architecture,68,Infrastructure as Code,0.5148084,no_match
+1173,hive,6,Resolução de Problemas,0.18026593,no_match
+1174,document database,58,MongoDB,0.5262868,no_match
+1175,cli scripting,37,Bash e Shell Script,0.55262005,no_match
+1176,feedback communication,1,Comunicação Assertiva,0.6942915,matched
+1177,dbt cloud,66,Google Cloud Platform,0.57747,no_match
+1178,tomar decisões,7,Tomada de Decisão,0.6630825,matched
+1179,entrepreneurial thinking,29,Empreendedorismo,0.6438353,matched
+1180,redes neurais,40,Deep Learning,0.5431749,no_match
+1181,typescript development,35,TypeScript,0.58786285,no_match
+1182,LLMs,42,Large Language Models,0.49955106,no_match
+1183,product roadmap,86,Gestão de Produto,0.69500434,matched
+1184,independent execution,10,Autogestão,0.5186465,no_match
+1185,SQL writing,31,SQL,0.6683915,matched
+1186,controle de versão,73,Arquitetura de Software,0.332493,no_match
+1187,métricas de modelos,54,Modelagem de Dados,0.57641697,no_match
+1188,roadmap de produto,86,Gestão de Produto,0.69427985,matched
+1189,redis queue,59,Redis,0.32495326,no_match
+1190,feedback communication,1,Comunicação Assertiva,0.6942915,matched
+1191,trabalho em equipe,12,Colaboração,0.6221595,matched
+1192,jenkins,89,OKRs,0.23210898,no_match
+1193,testes E2E,72,Testes Automatizados,0.5422342,no_match
+1194,tableau public,85,Hugging Face,0.3832863,no_match
+1195,time series,46,Séries Temporais,0.4395588,no_match
+1196,avaliação de empresas,13,Visão de Produto,0.6058495,matched
+1197,spring boot,33,Java,0.35153192,no_match
+1198,risk framework,92,Gestão de Riscos,0.66159576,matched
+1199,avaliação de modelos,45,Avaliação de Modelos,0.674344,matched
+1200,Amazon Web Services,65,AWS,0.7309273,matched
+1201,pinecone,19,Facilitação,0.21249929,no_match
+1202,modelos financeiros,91,Modelagem Financeira,0.78755385,matched
+1203,tensorflow,40,Deep Learning,0.30455533,no_match
+1204,reputação como empregador,98,Employer Branding,0.6963241,matched
+1205,mudança organizacional,27,Gestão de Mudanças,0.7543138,matched
+1206,priority management,9,Gestão do Tempo,0.5989361,no_match
+1207,entrega ágil,10,Autogestão,0.43180007,no_match
+1208,PO,89,OKRs,0.27457464,no_match
+1209,image classification,47,Visão Computacional,0.65586233,matched
+1210,gitlab,89,OKRs,0.29816216,no_match
+1211,SLI SLO SLA,85,Hugging Face,0.23039012,no_match
+1212,estratégia de negócios,86,Gestão de Produto,0.6618981,matched
+1213,NER,2,Resolução de Conflitos,0.24783029,no_match
+1214,variáveis preditivas,46,Séries Temporais,0.57451385,no_match
+1215,hadoop ecosystem,81,Hadoop,0.6207964,matched
+1216,sound judgment,5,Pensamento Crítico,0.4527343,no_match
+1217,OKRs,89,OKRs,0.31623787,no_match
+1218,adoção de mudanças,27,Gestão de Mudanças,0.65089273,matched
+1219,inteligência emocional,3,Inteligência Emocional,0.8260685,matched
+1220,observability,89,OKRs,0.41121006,no_match
+1221,split testing,72,Testes Automatizados,0.4989339,no_match
+1222,cloud data warehouse,67,Azure,0.72979987,matched
+1223,azure data factory,55,Data Warehouse,0.5624424,no_match
+1224,prompting,21,Apresentação e Oratória,0.35005486,no_match
+1225,problem decomposition,6,Resolução de Problemas,0.54106075,no_match
+1226,data security,70,Segurança de Dados,0.83788353,matched
+1227,Apache Hive,80,Spark,0.43566334,no_match
+1228,integridade de dados,56,Qualidade de Dados,0.70583725,matched
+1229,open source LLMs,42,Large Language Models,0.46391258,no_match
+1230,building pipelines,52,Orquestração de Pipelines,0.57534254,no_match
+1231,metodologias ágeis,54,Modelagem de Dados,0.4850211,no_match
+1232,design research,88,Design Thinking,0.66830766,matched
+1233,influence without authority,10,Autogestão,0.4912627,no_match
+1234,Postgres,57,PostgreSQL,0.43023968,no_match
+1235,tomar decisões,7,Tomada de Decisão,0.66308266,matched
+1236,gestão de performance,96,Gestão de Desempenho,0.7617484,matched
+1237,alinhar expectativas,26,Planejamento Estratégico,0.529822,no_match
+1238,foco no cliente,15,Foco no Cliente,0.8067139,matched
+1239,financial analysis,90,Análise Financeira,0.79817486,matched
+1240,pipeline scheduling,84,Langfuse,0.48905876,no_match
+1241,presenting ideas,21,Apresentação e Oratória,0.6470851,matched
+1242,DQ,89,OKRs,0.32366356,no_match
+1243,resolução de conflitos,2,Resolução de Conflitos,0.7446522,matched
+1244,basic SQL,31,SQL,0.708195,matched
+1245,java backend,33,Java,0.67572117,matched
+1246,python3,30,Python,0.59335935,no_match
+1247,sistemas distribuídos,81,Hadoop,0.51877296,no_match
+1248,presenting data,20,Storytelling com Dados,0.65592086,matched
+1249,UX research,87,UX Research,0.6445924,matched
+1250,Git,89,OKRs,0.26493335,no_match
+1251,LLM pipelines,84,Langfuse,0.6599364,matched
+1252,managing people,0,Gestão de Pessoas,0.73824275,matched
+1253,avaliação de empresas,13,Visão de Produto,0.6058495,matched
+1254,ggplot,32,R,0.4228351,no_match
+1255,advanced data analysis,38,Análise de Dados,0.7643935,matched
+1256,python development,30,Python,0.7633358,matched
+1257,access control,70,Segurança de Dados,0.42055723,no_match
+1258,integração de APIs,85,Hugging Face,0.3359275,no_match
+1259,R language,32,R,0.69414437,matched
+1260,data validation,56,Qualidade de Dados,0.5895984,no_match
+1261,user experience,15,Foco no Cliente,0.48636234,no_match
+1262,project manager skills,17,Gestão de Projetos,0.81175995,matched
+1263,scala programming,36,Scala,0.7451477,matched
+1264,tomada de decisão,7,Tomada de Decisão,0.66224897,matched
+1265,insights communication,1,Comunicação Assertiva,0.6025535,matched
+1266,project planning,17,Gestão de Projetos,0.738994,matched
+1267,evidence-based decisions,14,Orientação a Dados,0.68939924,matched
+1268,working together,12,Colaboração,0.6493887,matched
+1269,Power BI,75,Power BI,0.63925445,matched
+1270,group facilitation,19,Facilitação,0.7229285,matched
+1271,supervised learning,39,Machine Learning,0.6115293,matched
+1272,data workflow management,50,Engenharia de Dados,0.5737059,no_match
+1273,escrita técnica,22,Escrita Profissional,0.6293032,matched
+1274,sistemas distribuídos,81,Hadoop,0.51877296,no_match
+1275,business analytics,78,Looker,0.6192224,matched
+1276,comunicação com stakeholders,1,Comunicação Assertiva,0.6256535,matched
+1277,software testing,72,Testes Automatizados,0.6798379,matched
+1278,node.js,89,OKRs,0.3209977,no_match
+1279,organizar tarefas,9,Gestão do Tempo,0.65949357,matched
+1280,spring framework,33,Java,0.48349524,no_match
+1281,data mart,55,Data Warehouse,0.39922935,no_match
+1282,conduzir retrospectivas,18,Metodologias Ágeis,0.4542592,no_match
+1283,dados em tempo real,53,Streaming de Dados,0.6992316,matched
+1284,direção técnica,24,Liderança Técnica,0.5421488,no_match
+1285,annual planning,26,Planejamento Estratégico,0.5410309,no_match
+1286,vector store,73,Arquitetura de Software,0.31180808,no_match
+1287,alinhamento de stakeholders,12,Colaboração,0.6594058,matched
+1288,excel avançado,77,Excel Avançado,0.555405,no_match
+1289,warehouse architecture,55,Data Warehouse,0.61784434,matched
+1290,spring framework,33,Java,0.48349524,no_match
+1291,engenheiro de dados,50,Engenharia de Dados,0.6761402,matched
+1292,R&S,89,OKRs,0.31925482,no_match
+1293,pipeline orchestration,52,Orquestração de Pipelines,0.68498755,matched
+1294,big picture thinking,88,Design Thinking,0.44179428,no_match
+1295,continuous integration,64,CI/CD,0.519969,no_match
+1296,reskilling programs,73,Arquitetura de Software,0.4660926,no_match
+1297,FastAPI,85,Hugging Face,0.29686445,no_match
+1298,risco operacional,92,Gestão de Riscos,0.6654419,matched
+1299,java programming,33,Java,0.50069237,no_match
+1300,empreender,21,Apresentação e Oratória,0.38718444,no_match
+1301,product strategy,86,Gestão de Produto,0.7261097,matched
+1302,dbt core,79,dbt,0.6201986,matched
+1303,construção de cultura,99,Cultura Organizacional,0.70287585,matched
+1304,liderar tecnicamente,24,Liderança Técnica,0.72216934,matched
+1305,acompanhar OKRs,89,OKRs,0.35568893,no_match
+1306,data ingestion,38,Análise de Dados,0.67806697,matched
+1307,customer orientation,15,Foco no Cliente,0.56592524,no_match
+1308,datadog,20,Storytelling com Dados,0.59658074,no_match
+1309,typed javascript,34,JavaScript,0.456425,no_match
+1310,troubleshooting,6,Resolução de Problemas,0.45333654,no_match
+1311,web API,65,AWS,0.39704767,no_match
+1312,programação em R,32,R,0.70579016,matched
+1313,PySpark,19,Facilitação,0.32702136,no_match
+1314,métricas de modelos,54,Modelagem de Dados,0.57641697,no_match
+1315,coaching profissional,24,Liderança Técnica,0.52772427,no_match
+1316,long-term planning,26,Planejamento Estratégico,0.6629236,matched
+1317,relatórios power bi,75,Power BI,0.63333464,matched
+1318,abertura a mudanças,27,Gestão de Mudanças,0.5597352,no_match
+1319,Prophet,21,Apresentação e Oratória,0.1808,no_match
+1320,text classification,41,Processamento de Linguagem Natural,0.58892584,no_match
+1321,scikit-learn,85,Hugging Face,0.2649818,no_match
+1322,comunicar ideias,1,Comunicação Assertiva,0.5966635,no_match
+1323,deadline management,9,Gestão do Tempo,0.7042403,matched
+1324,EQ,89,OKRs,0.40442568,no_match
+1325,continuous delivery,9,Gestão do Tempo,0.45261925,no_match
+1326,data privacy,70,Segurança de Dados,0.7613683,matched
+1327,vector databases,38,Análise de Dados,0.507025,no_match
+1328,microservices architecture,74,Microsserviços,0.82695335,matched
+1329,shell scripting,37,Bash e Shell Script,0.77854633,matched
+1330,agile project management,17,Gestão de Projetos,0.70674086,matched
+1331,innovative thinking,28,Inovação,0.75179565,matched
+1332,colaboração interfuncional,12,Colaboração,0.72840106,matched
+1333,growth mindset,23,Mentoria,0.54819196,no_match
+1334,independent services,10,Autogestão,0.46777776,no_match
+1335,modelos de linguagem grandes,42,Large Language Models,0.7440227,matched
+1336,flink,85,Hugging Face,0.27900475,no_match
+1337,programação scala,36,Scala,0.730014,matched
+1338,managing deadlines,9,Gestão do Tempo,0.73347926,matched
+1339,lidar com mudanças,27,Gestão de Mudanças,0.61357033,matched
+1340,js,89,OKRs,0.28917113,no_match
+1341,client focus,15,Foco no Cliente,0.60057104,matched
+1342,bash,37,Bash e Shell Script,0.5815018,no_match
+1343,foco no cliente,15,Foco no Cliente,0.80671394,matched
+1344,change management,27,Gestão de Mudanças,0.7646524,matched
+1345,redação profissional,22,Escrita Profissional,0.7168066,matched
+1346,SOLID principles,4,Negociação,0.3005135,no_match
+1347,customer centricity,15,Foco no Cliente,0.60524607,matched
+1348,ci/cd,64,CI/CD,0.5409237,no_match
+1349,PySpark,19,Facilitação,0.32702136,no_match
+1350,solução de problemas,6,Resolução de Problemas,0.76913095,matched
+1351,SQL postgres,57,PostgreSQL,0.75361735,matched
+1352,corporate training,97,Treinamento e Desenvolvimento,0.4366148,no_match
+1353,Employer Branding,98,Employer Branding,0.74978995,matched
+1354,julgamento sólido,5,Pensamento Crítico,0.50028896,no_match
+1355,feature selection,44,Engenharia de Features,0.53426397,no_match
+1356,microservices architecture,74,Microsserviços,0.82695335,matched
+1357,lean agile,73,Arquitetura de Software,0.47854975,no_match
+1358,busca vetorial,43,Embeddings e Busca Vetorial,0.51054895,no_match
+1359,modelos de embedding,54,Modelagem de Dados,0.5349907,no_match
+1360,segurança de dados,70,Segurança de Dados,0.8484608,matched
+1361,text mining,41,Processamento de Linguagem Natural,0.5885488,no_match
+1362,intrapreneurship,29,Empreendedorismo,0.55291575,no_match
+1363,Python,30,Python,0.6242019,matched
+1364,modelagem relacional,54,Modelagem de Dados,0.56449986,no_match
+1365,PYTHON,30,Python,0.6242019,matched
+1366,seleção de features,44,Engenharia de Features,0.55474186,no_match
+1367,problem decomposition,6,Resolução de Problemas,0.54106075,no_match
+1368,exploração de dados,38,Análise de Dados,0.78414977,matched
+1369,contract negotiation,4,Negociação,0.73912656,matched
+1370,power bi desktop,75,Power BI,0.5280056,no_match
+1371,power query excel,77,Excel Avançado,0.54683435,no_match
+1372,tableau reports,76,Tableau,0.58068335,no_match
+1373,scikit-learn,85,Hugging Face,0.2649818,no_match
+1374,decomposição de problemas,6,Resolução de Problemas,0.6660428,matched
+1375,solução de problemas,6,Resolução de Problemas,0.76913095,matched
+1376,workflow orchestration,52,Orquestração de Pipelines,0.54106843,no_match
+1377,gestão do tempo,9,Gestão do Tempo,0.72289777,matched
+1378,python developer,30,Python,0.7627181,matched
+1379,gke,89,OKRs,0.3222846,no_match
+1380,docker-compose,62,Docker,0.6265812,matched
+1381,python,30,Python,0.6242019,matched
+1382,organizational effectiveness,95,Desenvolvimento Organizacional,0.6408234,matched
+1383,time management,9,Gestão do Tempo,0.7400875,matched
+1384,extração de insights,38,Análise de Dados,0.63464296,matched
+1385,infraestrutura como código,68,Infrastructure as Code,0.74869835,matched
+1386,validação de modelos,45,Avaliação de Modelos,0.5975137,no_match
+1387,ideação,28,Inovação,0.48520684,no_match
+1388,estratégia de produto,86,Gestão de Produto,0.72225404,matched
+1389,big data hadoop,81,Hadoop,0.68010706,matched
+1390,apache airflow,80,Spark,0.49470425,no_match
+1391,text processing,41,Processamento de Linguagem Natural,0.59339416,no_match
+1392,structured problem solving,6,Resolução de Problemas,0.7101513,matched
+1393,business modeling,91,Modelagem Financeira,0.71975636,matched
+1394,data manipulation,38,Análise de Dados,0.6292939,matched
+1395,design técnico,73,Arquitetura de Software,0.5549472,no_match
+1396,atração de talentos,98,Employer Branding,0.5173681,no_match
+1397,programação scala,36,Scala,0.73001397,matched
+1398,extração de insights,38,Análise de Dados,0.63464296,matched
+1399,emotional resilience,3,Inteligência Emocional,0.55362463,no_match
+1400,eks,89,OKRs,0.2992928,no_match
+1401,product roadmap,86,Gestão de Produto,0.6950044,matched
+1402,teamwork,12,Colaboração,0.65490615,matched
+1403,scala functional programming,36,Scala,0.6218997,matched
+1404,código python,30,Python,0.6483915,matched
+1405,triagem de candidatos,94,Recrutamento e Seleção,0.48672146,no_match
+1406,social awareness,99,Cultura Organizacional,0.42065352,no_match
+1407,ggplot,32,R,0.4228351,no_match
+1408,cloud GCP,66,Google Cloud Platform,0.6821575,matched
+1409,aligning expectations,26,Planejamento Estratégico,0.50397754,no_match
+1410,pitching,28,Inovação,0.19448209,no_match
+1411,managing expectations,25,Gestão de Stakeholders,0.6731249,matched
+1412,postgresql avançado,57,PostgreSQL,0.83014494,matched
+1413,complex problem solving,6,Resolução de Problemas,0.79796445,matched
+1414,business intelligence,28,Inovação,0.5204059,no_match
+1415,PowerBI,75,Power BI,0.49551636,no_match
+1416,power bi service,75,Power BI,0.6796447,matched
+1417,ciclo de vida de modelos,83,MLflow,0.6214752,matched
+1418,ingestão de dados,38,Análise de Dados,0.6528748,matched
+1419,Dockerfile,62,Docker,0.643836,matched
+1420,data-driven decisions,14,Orientação a Dados,0.6395124,matched
+1421,efetividade organizacional,95,Desenvolvimento Organizacional,0.6764686,matched
+1422,gerenciamento de pessoas,0,Gestão de Pessoas,0.70291996,matched
+1423,capacidade de aprendizagem,11,Aprendizado Contínuo,0.7125422,matched
+1424,negociação comercial,4,Negociação,0.6080396,matched
+1425,javascript,34,JavaScript,0.53924614,no_match
+1426,SLI SLO SLA,85,Hugging Face,0.23039012,no_match
+1427,TDD,79,dbt,0.38933247,no_match
+1428,self-organization,10,Autogestão,0.5935588,no_match
+1429,reconhecimento óptico de caracteres,47,Visão Computacional,0.46190825,no_match
+1430,versatilidade,8,Adaptabilidade,0.44600976,no_match
+1431,scikit-learn,85,Hugging Face,0.2649818,no_match
+1432,continuous learning,11,Aprendizado Contínuo,0.65231466,matched
+1433,DW,89,OKRs,0.3130355,no_match
+1434,decision analysis,7,Tomada de Decisão,0.6971137,matched
+1435,análise financeira,90,Análise Financeira,0.7711288,matched
+1436,spark ML,80,Spark,0.4824835,no_match
+1437,azure AI,89,OKRs,0.24951398,no_match
+1438,planejamento estratégico,26,Planejamento Estratégico,0.75184494,matched
+1439,git flow,71,Versionamento de Código,0.55942774,no_match
+1440,bancos analíticos,90,Análise Financeira,0.6449646,matched
+1441,statistics,32,R,0.46404612,no_match
+1442,L&D,89,OKRs,0.38270825,no_match
+1443,foco no usuário,15,Foco no Cliente,0.5710311,no_match
+1444,ser mentor,23,Mentoria,0.61830467,matched
+1445,intraempreendedorismo,29,Empreendedorismo,0.45292914,no_match
+1446,problem solving,6,Resolução de Problemas,0.75450003,matched
+1447,technical leadership,24,Liderança Técnica,0.83565044,matched
+1448,gcp,64,CI/CD,0.38146138,no_match
+1449,looker analytics,78,Looker,0.62588084,matched
+1450,data visualization,38,Análise de Dados,0.68545324,matched
+1451,model training,39,Machine Learning,0.5530525,no_match
+1452,analytical orientation,5,Pensamento Crítico,0.37461865,no_match
+1453,sourcing de talentos,11,Aprendizado Contínuo,0.5424051,no_match
+1454,mudança de contexto,8,Adaptabilidade,0.55742,no_match
+1455,gerenciamento de pessoas,0,Gestão de Pessoas,0.70291996,matched
+1456,agile,73,Arquitetura de Software,0.52664405,no_match
+1457,influenciar sem autoridade,10,Autogestão,0.5339396,no_match
+1458,prototipagem,28,Inovação,0.42436618,no_match
+1459,container deployment,63,Kubernetes,0.59512115,no_match
+1460,communication skills,1,Comunicação Assertiva,0.6435886,matched
+1461,k8s cluster,63,Kubernetes,0.29555455,no_match
+1462,azure devops,89,OKRs,0.28739324,no_match
+1463,product ownership,13,Visão de Produto,0.5537716,no_match
+1464,langchain agents,82,LangChain,0.53453636,no_match
+1465,habilidades de comunicação,1,Comunicação Assertiva,0.64314795,matched
+1466,liderança de pessoas,0,Gestão de Pessoas,0.66432446,matched
+1467,probability,48,Estatística Aplicada,0.3379836,no_match
+1468,APM,9,Gestão do Tempo,0.3063571,no_match
+1469,business strategy,86,Gestão de Produto,0.6587728,matched
+1470,R&S,89,OKRs,0.31925482,no_match
+1471,Excel,77,Excel Avançado,0.6529068,matched
+1472,building APIs,17,Gestão de Projetos,0.34868187,no_match
+1473,orientar pessoas,23,Mentoria,0.55391675,no_match
+1474,fila redis,89,OKRs,0.2743265,no_match
+1475,looker,78,Looker,0.36447078,no_match
+1476,soluções inovadoras,6,Resolução de Problemas,0.5898794,no_match
+1477,OD,89,OKRs,0.3025638,no_match
+1478,gerenciar partes interessadas,25,Gestão de Stakeholders,0.7136034,matched
+1479,weaviate,87,UX Research,0.23302129,no_match
+1480,pinecone,19,Facilitação,0.21249929,no_match
+1481,armazém de dados,55,Data Warehouse,0.6743603,matched
+1482,critical judgment,5,Pensamento Crítico,0.62181985,matched
+1483,engajamento de stakeholders,25,Gestão de Stakeholders,0.71017855,matched
+1484,change leadership,27,Gestão de Mudanças,0.6177683,matched
+1485,data-informed decisions,14,Orientação a Dados,0.6881504,matched
+1486,spreadsheet,77,Excel Avançado,0.37781447,no_match
+1487,pensamento racional,5,Pensamento Crítico,0.46148533,no_match
+1488,technical lead,24,Liderança Técnica,0.57780254,no_match
+1489,Apache Hadoop,80,Spark,0.5047893,no_match
+1490,cooperação,12,Colaboração,0.6855919,matched
+1491,distribuições estatísticas,32,R,0.45051992,no_match
+1492,gestão de stakeholders,25,Gestão de Stakeholders,0.7746701,matched
+1493,mentor,23,Mentoria,0.5806614,no_match
+1494,usability testing,72,Testes Automatizados,0.5741664,no_match
+1495,problem resolution,6,Resolução de Problemas,0.6231226,matched
+1496,resolução de divergências,2,Resolução de Conflitos,0.559017,no_match
+1497,tech mentor,24,Liderança Técnica,0.5660189,no_match
+1498,negociar com clientes,15,Foco no Cliente,0.6036174,matched
+1499,otimização do tempo,9,Gestão do Tempo,0.5163536,no_match
+1500,IaC tools,64,CI/CD,0.46762463,no_match
+1501,data analysis,38,Análise de Dados,0.7930504,matched
+1502,gestão de mudanças,27,Gestão de Mudanças,0.7425658,matched
+1503,gerir times,9,Gestão do Tempo,0.6393536,matched
+1504,strategic negotiation,4,Negociação,0.8249599,matched
+1505,gestão de projetos,17,Gestão de Projetos,0.8798877,matched
+1506,processamento de texto,41,Processamento de Linguagem Natural,0.5867507,no_match
+1507,strategy execution,26,Planejamento Estratégico,0.64234275,matched
+1508,fast api,52,Orquestração de Pipelines,0.35521764,no_match
+1509,API integration,64,CI/CD,0.48013735,no_match
+1510,rastreamento de experimentos,69,Monitoramento e Observabilidade,0.5080798,no_match
+1511,API design,52,Orquestração de Pipelines,0.3545447,no_match
+1512,java programming,33,Java,0.50069237,no_match
+1513,model training,39,Machine Learning,0.55305254,no_match
+1514,estatística aplicada,48,Estatística Aplicada,0.5179211,no_match
+1515,open source LLMs,42,Large Language Models,0.46391255,no_match
+1516,storytelling de dados,20,Storytelling com Dados,0.8282056,matched
+1517,SQL postgres,57,PostgreSQL,0.75361735,matched
+1518,business planning,86,Gestão de Produto,0.56022465,no_match
+1519,merge,89,OKRs,0.27724993,no_match
+1520,emotional management,3,Inteligência Emocional,0.70863616,matched
+1521,containers,63,Kubernetes,0.5194764,no_match
+1522,application monitoring,69,Monitoramento e Observabilidade,0.5611195,no_match
+1523,storytelling com dados,20,Storytelling com Dados,0.849888,matched
+1524,escrever SQL,31,SQL,0.71615624,matched
+1525,setting strategy,16,Pensamento Estratégico,0.6592388,matched
+1526,statistical analysis,32,R,0.6076678,matched
+1527,efetividade organizacional,95,Desenvolvimento Organizacional,0.6764688,matched
+1528,culture building,99,Cultura Organizacional,0.6387426,matched
+1529,SOLID,63,Kubernetes,0.18883206,no_match
+1530,data security,70,Segurança de Dados,0.83788353,matched
+1531,orientação analítica,5,Pensamento Crítico,0.43885475,no_match
+1532,project management,17,Gestão de Projetos,0.8705769,matched
+1533,VBA,79,dbt,0.3439508,no_match
+1534,mentoria,21,Apresentação e Oratória,0.33057863,no_match
+1535,CI pipeline,52,Orquestração de Pipelines,0.60522616,matched
+1536,gestão das próprias emoções,3,Inteligência Emocional,0.7808293,matched
+1537,A/B testing,72,Testes Automatizados,0.58905065,no_match
+1538,typescript backend,35,TypeScript,0.7339566,matched
+1539,liderança em mudanças,27,Gestão de Mudanças,0.671247,matched
+1540,clustering,19,Facilitação,0.41133586,no_match
+1541,mitigação de riscos,92,Gestão de Riscos,0.6895304,matched
+1542,postgres,57,PostgreSQL,0.43023968,no_match
+1543,avaliação de desempenho,96,Gestão de Desempenho,0.70468557,matched
+1544,time management,9,Gestão do Tempo,0.7400875,matched
+1545,gestão emocional,3,Inteligência Emocional,0.7173753,matched
+1546,containerização,62,Docker,0.56473625,no_match
+1547,entrega contínua,9,Gestão do Tempo,0.46335658,no_match
+1548,product understanding,13,Visão de Produto,0.7021299,matched
+1549,objectives and key results,26,Planejamento Estratégico,0.5959739,no_match
+1550,team management,0,Gestão de Pessoas,0.61573577,matched
+1551,LLM,42,Large Language Models,0.4019872,no_match
+1552,Assertive Communication,1,Comunicação Assertiva,0.74082327,matched
+1553,DAX,89,OKRs,0.31789327,no_match
+1554,DW,89,OKRs,0.31303543,no_match
+1555,seleção de features,44,Engenharia de Features,0.55474186,no_match
+1556,complex problem solving,6,Resolução de Problemas,0.79796433,matched
+1557,automação shell,37,Bash e Shell Script,0.75364125,matched
+1558,data cleaning,38,Análise de Dados,0.6714107,matched
+1559,API design,52,Orquestração de Pipelines,0.3545447,no_match
+1560,temporal modeling,46,Séries Temporais,0.58239734,no_match
+1561,apresentação e oratória,21,Apresentação e Oratória,0.75689274,matched
+1562,liderança de time,24,Liderança Técnica,0.6892043,matched
+1563,obsessão pelo cliente,15,Foco no Cliente,0.5334331,no_match
+1564,financial scenarios,91,Modelagem Financeira,0.7086586,matched
+1565,container orchestration,63,Kubernetes,0.56790304,no_match
+1566,mongodb atlas,58,MongoDB,0.45823646,no_match
+1567,escrita profissional,22,Escrita Profissional,0.77307904,matched
+1568,L&D,89,OKRs,0.38270825,no_match
+1569,company culture,98,Employer Branding,0.6278188,matched
+1570,infraestrutura de dados,50,Engenharia de Dados,0.7098599,matched
+1571,prototyping,97,Treinamento e Desenvolvimento,0.46561658,no_match
+1572,SQL avançado,31,SQL,0.72010183,matched
+1573,dashboards power bi,75,Power BI,0.67566514,matched
+1574,machine learning,39,Machine Learning,0.80590385,matched
+1575,comunicação oral,1,Comunicação Assertiva,0.51264954,no_match
+1576,real-time data,53,Streaming de Dados,0.6761006,matched
+1577,career mentoring,23,Mentoria,0.5515349,no_match
+1578,java avançado,89,OKRs,0.38580492,no_match
+1579,human-centered design,88,Design Thinking,0.5549543,no_match
+1580,document writing,22,Escrita Profissional,0.6037216,matched
+1581,modelagem financeira,91,Modelagem Financeira,0.8002862,matched
+1582,retrospective,18,Metodologias Ágeis,0.40635118,no_match
+1583,imagens docker,47,Visão Computacional,0.46275496,no_match
+1584,emotional awareness,3,Inteligência Emocional,0.7049154,matched
+1585,emotional management,3,Inteligência Emocional,0.7086363,matched
+1586,tableau dashboards,76,Tableau,0.6551684,matched
+1587,data pipelines,52,Orquestração de Pipelines,0.7173403,matched
+1588,engenharia de features,44,Engenharia de Features,0.58664596,no_match
+1589,mentalidade de dono,29,Empreendedorismo,0.6402211,matched
+1590,coaching profissional,24,Liderança Técnica,0.52772427,no_match
+1591,workshop facilitation,19,Facilitação,0.7148346,matched
+1592,data orientation,38,Análise de Dados,0.48453754,no_match
+1593,azure functions,65,AWS,0.3153302,no_match
+1594,openness to change,8,Adaptabilidade,0.48459852,no_match
+1595,banco de dados vetorial,43,Embeddings e Busca Vetorial,0.61927605,matched
+1596,relational modeling,54,Modelagem de Dados,0.59491014,no_match
+1597,problem decomposition,6,Resolução de Problemas,0.54106104,no_match
+1598,observabilidade de LLMs,84,Langfuse,0.44718552,no_match
+1599,customer orientation,15,Foco no Cliente,0.56592524,no_match
+1600,translating data to story,20,Storytelling com Dados,0.6533295,matched
+1601,change communication,1,Comunicação Assertiva,0.5021223,no_match
+1602,testes de usabilidade,72,Testes Automatizados,0.68874943,matched
+1603,model validation,45,Avaliação de Modelos,0.5566213,no_match
+1604,detecção de anomalias,46,Séries Temporais,0.5435326,no_match
+1605,google cloud ML,66,Google Cloud Platform,0.74345607,matched
+1606,containerization,62,Docker,0.5638312,no_match
+1607,design de experimentos,49,Experimentação e Testes A/B,0.57580936,no_match
+1608,bayesian statistics,14,Orientação a Dados,0.2923797,no_match
+1609,liderar pessoas,0,Gestão de Pessoas,0.6144599,matched
+1610,reskilling,43,Embeddings e Busca Vetorial,0.30872244,no_match
+1611,dashboards power bi,75,Power BI,0.6756652,matched
+1612,microsoft BI,75,Power BI,0.4673652,no_match
+1613,conformidade,93,Compliance e Regulação,0.4247499,no_match
+1614,design thinking,88,Design Thinking,0.7620051,matched
+1615,guiding others,23,Mentoria,0.5768994,no_match
+1616,comunicação com stakeholders,1,Comunicação Assertiva,0.6256533,matched
+1617,conflict management,2,Resolução de Conflitos,0.5902023,no_match
+1618,terraform,68,Infrastructure as Code,0.5087911,no_match
+1619,proactiveness,96,Gestão de Desempenho,0.49186507,no_match
+1620,agile delivery,9,Gestão do Tempo,0.5452946,no_match
+1621,embeddings de texto,22,Escrita Profissional,0.50156057,no_match
+1622,java developer,33,Java,0.5036571,no_match
+1623,orientação analítica,5,Pensamento Crítico,0.438855,no_match
+1624,testes de hipótese,48,Estatística Aplicada,0.6632953,matched
+1625,experiment design,49,Experimentação e Testes A/B,0.52842754,no_match
+1626,gestão de riscos,92,Gestão de Riscos,0.79120535,matched
+1627,análise de causa raiz,46,Séries Temporais,0.4287023,no_match
+1628,amazon cloud,65,AWS,0.58220375,no_match
+1629,variáveis preditivas,46,Séries Temporais,0.57451385,no_match
+1630,DT,79,dbt,0.3157116,no_match
+1631,mongodb,58,MongoDB,0.3734461,no_match
+1632,People Management,0,Gestão de Pessoas,0.7338301,matched
+1633,consciência social,23,Mentoria,0.44493216,no_match
+1634,decisões baseadas em dados,14,Orientação a Dados,0.7366304,matched
+1635,data protection,70,Segurança de Dados,0.80116034,matched
+1636,extract transform load,51,ETL e ELT,0.41737467,no_match
+1637,mentalidade de crescimento,95,Desenvolvimento Organizacional,0.5460547,no_match
+1638,postgresql queries,57,PostgreSQL,0.7835742,matched
+1639,usabilidade,96,Gestão de Desempenho,0.5037876,no_match
+1640,spring framework,33,Java,0.48349515,no_match
+1641,spreadsheet,77,Excel Avançado,0.37781456,no_match
+1642,information security,70,Segurança de Dados,0.76970696,matched
+1643,relational modeling,54,Modelagem de Dados,0.5949102,no_match
+1644,LLM evaluation,42,Large Language Models,0.5158759,no_match
+1645,Apache Spark,80,Spark,0.71351635,matched
+1646,python,30,Python,0.6242019,matched
+1647,adaptability,8,Adaptabilidade,0.7740493,matched
+1648,lambda,85,Hugging Face,0.21715832,no_match
+1649,culture of innovation,28,Inovação,0.7422633,matched
+1650,descoberta de produto,13,Visão de Produto,0.46471238,no_match
+1651,self-management,10,Autogestão,0.66714454,matched
+1652,stakeholder management,25,Gestão de Stakeholders,0.76936364,matched
+1653,gestão das próprias emoções,3,Inteligência Emocional,0.7808292,matched
+1654,upskilling,89,OKRs,0.33768874,no_match
+1655,SQL intermediário,31,SQL,0.7340946,matched
+1656,inference hugging face,85,Hugging Face,0.7263423,matched
+1657,carga de dados,50,Engenharia de Dados,0.5918188,no_match
+1658,linux scripting,37,Bash e Shell Script,0.71074176,matched
+1659,unittest,12,Colaboração,0.2911353,no_match
+1660,real-time data,53,Streaming de Dados,0.6761006,matched
+1661,functional scala,36,Scala,0.5627993,no_match
+1662,git flow,71,Versionamento de Código,0.55942774,no_match
+1663,Kubernetes,63,Kubernetes,0.32237157,no_match
+1664,entender o produto,13,Visão de Produto,0.6794033,matched
+1665,PM,22,Escrita Profissional,0.2800343,no_match
+1666,application performance monitoring,96,Gestão de Desempenho,0.58912987,no_match
+1667,service-oriented architecture,68,Infrastructure as Code,0.5148084,no_match
+1668,escrever bem,22,Escrita Profissional,0.62785524,matched
+1669,pulumi,85,Hugging Face,0.2989818,no_match
+1670,guiar time técnico,9,Gestão do Tempo,0.62988544,matched
+1671,agendamento de pipelines,52,Orquestração de Pipelines,0.63554233,matched
+1672,machine learning models,39,Machine Learning,0.79579353,matched
+1673,emotional resilience,3,Inteligência Emocional,0.5536248,no_match
+1674,organizational culture,99,Cultura Organizacional,0.80041134,matched
+1675,pipeline de ML,52,Orquestração de Pipelines,0.60546327,matched
+1676,negociação,4,Negociação,0.741281,matched
+1677,LLM observability,42,Large Language Models,0.42102468,no_match
+1678,design centrado no humano,88,Design Thinking,0.57684,no_match
+1679,business intelligence,28,Inovação,0.5204059,no_match
+1680,model monitoring,69,Monitoramento e Observabilidade,0.62467486,matched
+1681,MongoDB,58,MongoDB,0.37344614,no_match
+1682,power bi,75,Power BI,0.63925445,matched
+1683,personal organization,0,Gestão de Pessoas,0.55698377,no_match
+1684,avaliação crítica,5,Pensamento Crítico,0.63168377,matched
+1685,presentation skills,21,Apresentação e Oratória,0.7197058,matched
+1686,stakeholder communication,1,Comunicação Assertiva,0.6090288,matched
+1687,comunicação eficaz,1,Comunicação Assertiva,0.61624724,matched
+1688,k8s cluster,63,Kubernetes,0.29555455,no_match
+1689,excel analytics,77,Excel Avançado,0.70764375,matched
+1690,testes multivariados,72,Testes Automatizados,0.66456187,matched
+1691,product owner,86,Gestão de Produto,0.55566156,no_match
+1692,cultura e clima,99,Cultura Organizacional,0.43341434,no_match
+1693,gerenciar desentendimentos,2,Resolução de Conflitos,0.60352945,matched
+1694,iniciativa própria,10,Autogestão,0.56054807,no_match
+1695,risk assessment,92,Gestão de Riscos,0.71390486,matched
+1696,cobertura de testes,72,Testes Automatizados,0.61912286,matched
+1697,facilitação,19,Facilitação,0.5239465,no_match
+1698,desenvolvedor python,30,Python,0.75012136,matched
+1699,orientação ao cliente,15,Foco no Cliente,0.79203117,matched
+1700,pytorch,63,Kubernetes,0.23534442,no_match
+1701,qualidade de dados,56,Qualidade de Dados,0.82183635,matched
+1702,complex problem solving,6,Resolução de Problemas,0.79796445,matched
+1703,fluxo de caixa descontado,52,Orquestração de Pipelines,0.48550892,no_match
+1704,criação de variáveis,90,Análise Financeira,0.42215225,no_match
+1705,Microsoft Azure,67,Azure,0.38351882,no_match
+1706,manipulação de dados,38,Análise de Dados,0.6707845,matched
+1707,observabilidade,89,OKRs,0.4219209,no_match
+1708,design organizacional,95,Desenvolvimento Organizacional,0.60136265,matched
+1709,microservices,74,Microsserviços,0.7667018,matched
+1710,data cleansing,38,Análise de Dados,0.61273825,matched
+1711,looker reports,78,Looker,0.41839808,no_match
+1712,comunicação clara e objetiva,1,Comunicação Assertiva,0.6709691,matched
+1713,cliente em primeiro lugar,15,Foco no Cliente,0.6649376,matched
+1714,liderar pessoas,0,Gestão de Pessoas,0.6144599,matched
+1715,mentor,23,Mentoria,0.5806614,no_match
+1716,análise com SQL,31,SQL,0.75194156,matched
+1717,cloudformation,67,Azure,0.6220809,matched
+1718,business writing,22,Escrita Profissional,0.6133046,matched
+1719,azure machine learning,39,Machine Learning,0.7181624,matched
+1720,kubectl,85,Hugging Face,0.3120075,no_match
+1721,metodologias ágeis,54,Modelagem de Dados,0.4850211,no_match
+1722,Design Thinking,88,Design Thinking,0.76200515,matched
+1723,convolutional neural networks,40,Deep Learning,0.6036528,matched
+1724,data pipelines,52,Orquestração de Pipelines,0.7173403,matched
+1725,coworking,89,OKRs,0.2460641,no_match
+1726,cloudformation,67,Azure,0.6220809,matched
+1727,backlog management,59,Redis,0.41813236,no_match
+1728,gestão por OKRs,25,Gestão de Stakeholders,0.6006318,matched
+1729,R data science,32,R,0.8202493,matched
+1730,text embeddings,22,Escrita Profissional,0.39369497,no_match
+1731,feature engineering,44,Engenharia de Features,0.6092593,matched
+1732,setting OKRs,63,Kubernetes,0.36186594,no_match
+1733,avaliação de modelos,45,Avaliação de Modelos,0.674344,matched
+1734,chroma,63,Kubernetes,0.23658963,no_match
+1735,data engineering,50,Engenharia de Dados,0.7240385,matched
+1736,critical mindset,5,Pensamento Crítico,0.62021077,matched
+1737,L&D,89,OKRs,0.38270825,no_match
+1738,curiosidade intelectual,5,Pensamento Crítico,0.43976986,no_match
+1739,data build tool,50,Engenharia de Dados,0.6879211,matched
+1740,conduzir workshops,19,Facilitação,0.5283767,no_match
+1741,entrepreneurship,29,Empreendedorismo,0.5555581,no_match
+1742,orientar pessoas,23,Mentoria,0.55391675,no_match
+1743,processamento em tempo real,53,Streaming de Dados,0.63022923,matched
+1744,SQL intermediário,31,SQL,0.7340946,matched
+1745,estatística com R,32,R,0.7584509,matched
+1746,upskilling,89,OKRs,0.33768874,no_match
+1747,resolução de problemas,6,Resolução de Problemas,0.7970339,matched
+1748,análise crítica,5,Pensamento Crítico,0.59338546,no_match
+1749,declarative infrastructure,68,Infrastructure as Code,0.64380425,matched
+1750,thinking critically,5,Pensamento Crítico,0.63024867,matched
+1751,self-awareness,10,Autogestão,0.472192,no_match
+1752,deep neural networks,40,Deep Learning,0.798723,matched
+1753,data infrastructure,50,Engenharia de Dados,0.677935,matched
+1754,lidar com emoções,3,Inteligência Emocional,0.7182739,matched
+1755,langchain,82,LangChain,0.45353383,no_match
+1756,QA testing,72,Testes Automatizados,0.6017428,matched
+1757,estatística com R,32,R,0.7584509,matched
+1758,commits,26,Planejamento Estratégico,0.36125743,no_match
+1759,document database,58,MongoDB,0.52628684,no_match
+1760,consciência social,23,Mentoria,0.44493216,no_match
+1761,adoção de mudanças,27,Gestão de Mudanças,0.65089273,matched
+1762,detecção de anomalias,46,Séries Temporais,0.5435326,no_match
+1763,comunicação verbal,1,Comunicação Assertiva,0.6274456,matched
+1764,performance appraisal,96,Gestão de Desempenho,0.680392,matched
+1765,segurança da informação,70,Segurança de Dados,0.78937775,matched
+1766,analytical databases,38,Análise de Dados,0.7213277,matched
+1767,análise descritiva,42,Large Language Models,0.45058435,no_match
+1768,data validation,56,Qualidade de Dados,0.5895984,no_match
+1769,compliance de dados,56,Qualidade de Dados,0.64838946,matched
+1770,critical mindset,5,Pensamento Crítico,0.62021077,matched
+1771,NoSQL database,31,SQL,0.7184385,matched
+1772,model metrics,54,Modelagem de Dados,0.53889734,no_match
+1773,experimentos controlados,49,Experimentação e Testes A/B,0.556317,no_match
+1774,continuous deployment,63,Kubernetes,0.42834008,no_match
+1775,cross-functional collaboration,12,Colaboração,0.7500184,matched
+1776,entidade relacionamento,12,Colaboração,0.5529646,no_match
+1777,deal making,4,Negociação,0.59110475,no_match
+1778,customer first,15,Foco no Cliente,0.5577581,no_match
+1779,processamento de streams,52,Orquestração de Pipelines,0.63006246,matched
+1780,CI/CD,64,CI/CD,0.5409237,no_match
+1781,scripting python,30,Python,0.63515157,matched
+1782,distribuições estatísticas,32,R,0.45051992,no_match
+1783,padrões de design,88,Design Thinking,0.5556291,no_match
+1784,organizational development,95,Desenvolvimento Organizacional,0.79960096,matched
+1785,decomposição de problemas,6,Resolução de Problemas,0.6660428,matched
+1786,análise descritiva,42,Large Language Models,0.45058423,no_match
+1787,execução autônoma,10,Autogestão,0.65830874,matched
+1788,real-time data,53,Streaming de Dados,0.6761006,matched
+1789,EC2,64,CI/CD,0.33013904,no_match
+1790,pitch de ideias,28,Inovação,0.53788066,no_match
+1791,fila redis,89,OKRs,0.2743265,no_match
+1792,mentalidade estratégica,16,Pensamento Estratégico,0.7299243,matched
+1793,data literacy,20,Storytelling com Dados,0.6441653,matched
+1794,infrastructure as code,68,Infrastructure as Code,0.7638067,matched
+1795,integration tests,72,Testes Automatizados,0.64729214,matched
+1796,análise crítica,5,Pensamento Crítico,0.59338534,no_match
+1797,container orchestration,63,Kubernetes,0.56790304,no_match
+1798,distributed tracing,53,Streaming de Dados,0.4707436,no_match
+1799,independent work,10,Autogestão,0.46769124,no_match
+1800,critical reasoning,5,Pensamento Crítico,0.642614,matched
+1801,trabalho independente,10,Autogestão,0.49661282,no_match
+1802,controle de versão,73,Arquitetura de Software,0.332493,no_match
+1803,reconhecimento óptico de caracteres,47,Visão Computacional,0.46190825,no_match
+1804,LookML,85,Hugging Face,0.43548197,no_match
+1805,LLM observability,42,Large Language Models,0.4210248,no_match
+1806,vertex ai,85,Hugging Face,0.34074664,no_match
+1807,Hugging Face,85,Hugging Face,0.68230015,matched
+1808,google cloud platform,66,Google Cloud Platform,0.7706729,matched
+1809,decisão sob incerteza,7,Tomada de Decisão,0.7322546,matched
+1810,NER,2,Resolução de Conflitos,0.24783029,no_match
+1811,power bi service,75,Power BI,0.6796447,matched
+1812,data pipelines,52,Orquestração de Pipelines,0.7173403,matched
+1813,technical team guidance,24,Liderança Técnica,0.69243026,matched
+1814,planejamento anual,26,Planejamento Estratégico,0.51734716,no_match
+1815,indicadores financeiros,90,Análise Financeira,0.79903364,matched
+1816,escrita clara,22,Escrita Profissional,0.55620146,no_match
+1817,cultura e estrutura organizacional,99,Cultura Organizacional,0.8515531,matched
+1818,pesquisa com usuários,87,UX Research,0.5156524,no_match
+1819,logical thinking,5,Pensamento Crítico,0.4757194,no_match
+1820,IaC,64,CI/CD,0.34824347,no_match
+1821,orquestração de containers,63,Kubernetes,0.6098049,matched
+1822,banco postgresql,57,PostgreSQL,0.6600611,matched
+1823,unix scripting,37,Bash e Shell Script,0.760257,matched
+1824,organizational design,24,Liderança Técnica,0.6087954,matched
+1825,controlled experiments,49,Experimentação e Testes A/B,0.5430365,no_match
+1826,azure services,65,AWS,0.5745455,no_match
+1827,opportunity spotting,29,Empreendedorismo,0.54773366,no_match
+1828,amazon cloud,65,AWS,0.58220375,no_match
+1829,DW,89,OKRs,0.31303543,no_match
+1830,foco no cliente,15,Foco no Cliente,0.8067139,matched
+1831,financial KPIs,90,Análise Financeira,0.593469,no_match
+1832,trabalho conjunto,12,Colaboração,0.699615,matched
+1833,understanding customers,15,Foco no Cliente,0.72154474,matched
+1834,content writing,22,Escrita Profissional,0.5889226,no_match
+1835,planilhamento,2,Resolução de Conflitos,0.3060149,no_match
+1836,chatgpt api,85,Hugging Face,0.36157668,no_match
+1837,Java,89,OKRs,0.29402286,no_match
+1838,gestão de riscos,92,Gestão de Riscos,0.79120535,matched
+1839,continuous learning,11,Aprendizado Contínuo,0.6523148,matched
+1840,agile,73,Arquitetura de Software,0.52664405,no_match
+1841,TS,79,dbt,0.29213408,no_match
+1842,feature selection,44,Engenharia de Features,0.53426397,no_match
+1843,probabilidade,7,Tomada de Decisão,0.37029415,no_match
+1844,deploy com docker,62,Docker,0.60174334,matched
+1845,financial KPIs,90,Análise Financeira,0.593469,no_match
+1846,spark streaming,80,Spark,0.5810472,no_match
+1847,data communication,20,Storytelling com Dados,0.6400011,matched
+1848,data visualization,38,Análise de Dados,0.68545324,matched
+1849,data consistency,50,Engenharia de Dados,0.6635723,matched
+1850,aprendizagem contínua,11,Aprendizado Contínuo,0.6951891,matched
+1851,entrevistas com usuários,20,Storytelling com Dados,0.4497372,no_match
+1852,integridade de dados,56,Qualidade de Dados,0.70583725,matched
+1853,liderança em tecnologia,24,Liderança Técnica,0.77172375,matched
+1854,projeções financeiras,91,Modelagem Financeira,0.65406823,matched
+1855,GPT,79,dbt,0.39419895,no_match
+1856,hugging face models,85,Hugging Face,0.7245016,matched
+1857,data integrity,56,Qualidade de Dados,0.6944032,matched
+1858,managing people,0,Gestão de Pessoas,0.73824275,matched
+1859,testes de integração,72,Testes Automatizados,0.7050722,matched
+1860,data build tool,50,Engenharia de Dados,0.6879211,matched
+1861,arquitetura de sistemas,73,Arquitetura de Software,0.5700284,no_match
+1862,probabilidade,7,Tomada de Decisão,0.37029427,no_match
+1863,EDA,89,OKRs,0.43653622,no_match
+1864,rebase,43,Embeddings e Busca Vetorial,0.32710665,no_match
+1865,OKR planning,26,Planejamento Estratégico,0.53027356,no_match
+1866,processamento em tempo real,53,Streaming de Dados,0.63022923,matched
+1867,data exploration,38,Análise de Dados,0.77359205,matched
+1868,model assessment,45,Avaliação de Modelos,0.6429173,matched
+1869,creative innovation,28,Inovação,0.7266742,matched
+1870,gerenciar equipes,0,Gestão de Pessoas,0.6503081,matched
+1871,descriptive analytics,38,Análise de Dados,0.61601734,matched
+1872,bash automation,37,Bash e Shell Script,0.75030005,matched
+1873,regulação,93,Compliance e Regulação,0.60402167,matched
+1874,product understanding,13,Visão de Produto,0.70212984,matched
+1875,agile practices,73,Arquitetura de Software,0.57180685,no_match
+1876,planejar estrategicamente,26,Planejamento Estratégico,0.7427436,matched
+1877,orientação analítica,5,Pensamento Crítico,0.438855,no_match
+1878,object detection,69,Monitoramento e Observabilidade,0.44399112,no_match
+1879,test coverage,72,Testes Automatizados,0.590468,no_match
+1880,manipulação de dados,38,Análise de Dados,0.6707845,matched
+1881,CI pipeline,52,Orquestração de Pipelines,0.60522616,matched
+1882,extração de dados,38,Análise de Dados,0.7276415,matched
+1883,infrastructure as code,68,Infrastructure as Code,0.7638067,matched
+1884,estatística,32,R,0.45240313,no_match
+1885,tech lead,24,Liderança Técnica,0.603106,matched
+1886,llm development langchain,82,LangChain,0.68260545,matched
+1887,insights communication,1,Comunicação Assertiva,0.6025535,matched
+1888,pivot tables,76,Tableau,0.40337026,no_match
+1889,conflict management,2,Resolução de Conflitos,0.5902025,no_match
+1890,cloud data warehouse,67,Azure,0.72979987,matched
+1891,direção técnica,24,Liderança Técnica,0.542149,no_match
+1892,prototyping,97,Treinamento e Desenvolvimento,0.46561658,no_match
+1893,revisão de código,72,Testes Automatizados,0.5348427,no_match
+1894,RAG,85,Hugging Face,0.24562821,no_match
+1895,identificar causas raiz,46,Séries Temporais,0.35596588,no_match
+1896,creative problem solving,6,Resolução de Problemas,0.65699613,matched
+1897,EVP,89,OKRs,0.37364322,no_match
+1898,gestão de capital humano,0,Gestão de Pessoas,0.54344535,no_match
+1899,planejamento de longo prazo,26,Planejamento Estratégico,0.72030735,matched
+1900,organizational design,24,Liderança Técnica,0.6087954,matched
+1901,inovação,28,Inovação,0.71345407,matched
+1902,LLM tracing,84,Langfuse,0.49930346,no_match
+1903,analytical databases,38,Análise de Dados,0.72132766,matched
+1904,scope management,86,Gestão de Produto,0.577307,no_match
+1905,lambda,85,Hugging Face,0.21715832,no_match
+1906,descriptive analytics,38,Análise de Dados,0.61601734,matched
+1907,Postgres,57,PostgreSQL,0.43023968,no_match
+1908,regulatory knowledge,93,Compliance e Regulação,0.6465769,matched
+1909,facilitação de grupos,19,Facilitação,0.6716176,matched
+1910,Python,30,Python,0.6242019,matched
+1911,quantitative thinking,14,Orientação a Dados,0.53500247,no_match
+1912,user stories,20,Storytelling com Dados,0.4900705,no_match
+1913,MongoDB,58,MongoDB,0.37344614,no_match
+1914,escrever SQL,31,SQL,0.71615624,matched
+1915,independent execution,10,Autogestão,0.5186465,no_match
+1916,python fastapi,61,FastAPI,0.64094156,matched
+1917,serviços AWS,65,AWS,0.6456892,matched
+1918,text generation,41,Processamento de Linguagem Natural,0.5170006,no_match
+1919,experiment tracking,69,Monitoramento e Observabilidade,0.48943305,no_match
+1920,data warehouse,55,Data Warehouse,0.79407114,matched
+1921,SQL queries,31,SQL,0.7466985,matched
+1922,unsupervised learning,11,Aprendizado Contínuo,0.56624603,no_match
+1923,productivity,96,Gestão de Desempenho,0.43024617,no_match
+1924,analytical orientation,5,Pensamento Crítico,0.37461877,no_match
+1925,usar dados para decidir,14,Orientação a Dados,0.728369,matched
+1926,self-management,10,Autogestão,0.66714454,matched
+1927,talent management,98,Employer Branding,0.570969,no_match
+1928,gerenciamento de pessoas,0,Gestão de Pessoas,0.70291996,matched
+1929,pg,32,R,0.23502187,no_match
+1930,resilience,8,Adaptabilidade,0.3936024,no_match
+1931,testes multivariados,72,Testes Automatizados,0.66456187,matched
+1932,spreadsheet skills,22,Escrita Profissional,0.4524197,no_match
+1933,troubleshooting,6,Resolução de Problemas,0.45333672,no_match
+1934,usabilidade,96,Gestão de Desempenho,0.5037876,no_match
+1935,reconhecimento óptico de caracteres,47,Visão Computacional,0.46190825,no_match
+1936,advanced excel,77,Excel Avançado,0.7351625,matched
+1937,visão computacional,47,Visão Computacional,0.7208701,matched
+1938,organizational design,24,Liderança Técnica,0.6087954,matched
+1939,application performance monitoring,96,Gestão de Desempenho,0.58912987,no_match
+1940,redshift,89,OKRs,0.26508552,no_match
+1941,HDFS,59,Redis,0.4710118,no_match
+1942,team spirit,0,Gestão de Pessoas,0.42391735,no_match
+1943,criação de variáveis,90,Análise Financeira,0.42215225,no_match
+1944,online experiments,72,Testes Automatizados,0.47456777,no_match
+1945,project oversight,17,Gestão de Projetos,0.74169016,matched
+1946,análise de vídeo,47,Visão Computacional,0.66923046,matched
+1947,Scala,36,Scala,0.5922724,no_match
+1948,system monitoring,69,Monitoramento e Observabilidade,0.6930437,matched
+1949,product ownership,13,Visão de Produto,0.5537716,no_match
+1950,performance cycle,96,Gestão de Desempenho,0.6107593,matched
+1951,employer reputation,98,Employer Branding,0.65460247,matched
+1952,DRE,89,OKRs,0.3622685,no_match
+1953,technical direction,24,Liderança Técnica,0.5295826,no_match
+1954,functional scala,36,Scala,0.5627993,no_match
+1955,Hugging Face,85,Hugging Face,0.68230015,matched
+1956,resiliência,8,Adaptabilidade,0.3860597,no_match
+1957,design centrado no humano,88,Design Thinking,0.57684004,no_match
+1958,organizational design,24,Liderança Técnica,0.6087954,matched
+1959,pensamento crítico,5,Pensamento Crítico,0.6057662,matched
+1960,Langfuse,82,LangChain,0.31894895,no_match
+1961,clear writing,22,Escrita Profissional,0.53003,no_match
+1962,command line scripting,37,Bash e Shell Script,0.63932157,matched
+1963,bigquery,55,Data Warehouse,0.3168404,no_match
+1964,versatilidade,8,Adaptabilidade,0.44600976,no_match
+1965,data visualization,38,Análise de Dados,0.68545324,matched
+1966,avaliação de LLMs em produção,45,Avaliação de Modelos,0.5803168,no_match
+1967,banco NoSQL,31,SQL,0.68123525,matched
+1968,self-starter,10,Autogestão,0.5427223,no_match
+1969,análise estatística,32,R,0.59088695,no_match
+1970,integração de dados,38,Análise de Dados,0.67513955,matched
+1971,building APIs,17,Gestão de Projetos,0.34868187,no_match
+1972,huggingface hub,85,Hugging Face,0.7414881,matched
+1973,análise estatística,32,R,0.59088695,no_match
+1974,visão estratégica de produto,86,Gestão de Produto,0.76936615,matched
+1975,negociar contratos,4,Negociação,0.70753217,matched
+1976,application monitoring,69,Monitoramento e Observabilidade,0.56111944,no_match
+1977,gestão de times,9,Gestão do Tempo,0.71812224,matched
+1978,data infrastructure,50,Engenharia de Dados,0.677935,matched
+1979,LLM,42,Large Language Models,0.4019872,no_match
+1980,KPI,63,Kubernetes,0.3221719,no_match
+1981,carga de dados,50,Engenharia de Dados,0.5918188,no_match
+1982,amazon web services,65,AWS,0.7309272,matched
+1983,prompt tracking,69,Monitoramento e Observabilidade,0.4118322,no_match
+1984,análise descritiva,42,Large Language Models,0.45058423,no_match
+1985,experimentação e testes A/B,49,Experimentação e Testes A/B,0.68326277,matched
+1986,organização pessoal,0,Gestão de Pessoas,0.58654916,no_match
+1987,apache airflow,80,Spark,0.49470425,no_match
+1988,direção técnica,24,Liderança Técnica,0.5421488,no_match
+1989,langchain chains,82,LangChain,0.5465883,no_match
+1990,coaching profissional,24,Liderança Técnica,0.52772427,no_match
+1991,espírito de equipe,0,Gestão de Pessoas,0.50394154,no_match
+1992,queries de banco de dados,31,SQL,0.6036457,matched
+1993,design research,88,Design Thinking,0.66830766,matched
+1994,habilidades de negociação,4,Negociação,0.75186455,matched
+1995,stakeholder alignment,25,Gestão de Stakeholders,0.59762007,no_match
+1996,managing expectations,25,Gestão de Stakeholders,0.6731249,matched
+1997,usability testing,72,Testes Automatizados,0.5741664,no_match
+1998,AWS,65,AWS,0.36063612,no_match
+1999,Terraform,68,Infrastructure as Code,0.5087911,no_match
+2000,autonomy,10,Autogestão,0.69774795,matched
+2001,clean architecture,73,Arquitetura de Software,0.44501084,no_match
+2002,opportunity spotting,29,Empreendedorismo,0.54773366,no_match
+2003,business modeling,91,Modelagem Financeira,0.7197562,matched
+2004,github,71,Versionamento de Código,0.730145,matched
+2005,translating data to story,20,Storytelling com Dados,0.6533295,matched
+2006,parceria no trabalho,12,Colaboração,0.75742245,matched
+2007,CloudFormation,67,Azure,0.6220809,matched
+2008,ML flow,83,MLflow,0.46724153,no_match
+2009,data narrative,20,Storytelling com Dados,0.79851145,matched
+2010,escrita técnica,22,Escrita Profissional,0.6293031,matched
+2011,document store,22,Escrita Profissional,0.38777697,no_match
+2012,python langchain,30,Python,0.53328085,no_match
+2013,data engineering,50,Engenharia de Dados,0.7240385,matched
+2014,efetividade organizacional,95,Desenvolvimento Organizacional,0.6764688,matched
+2015,dados em tempo real,53,Streaming de Dados,0.6992316,matched
+2016,Power BI,75,Power BI,0.63925445,matched
+2017,visão de produto,13,Visão de Produto,0.7289455,matched
+2018,tomada de decisão,7,Tomada de Decisão,0.6622488,matched
+2019,priority management,9,Gestão do Tempo,0.5989362,no_match
+2020,tableau dashboards,76,Tableau,0.65516853,matched
+2021,bargaining,4,Negociação,0.6465117,matched
+2022,empathy,3,Inteligência Emocional,0.49450195,no_match
+2023,R,32,R,0.53356886,no_match
+2024,data oriented,38,Análise de Dados,0.6983938,matched
+2025,professional writing,22,Escrita Profissional,0.7505624,matched
+2026,user stories,20,Storytelling com Dados,0.4900705,no_match
+2027,sql avançado,31,SQL,0.72010183,matched
+2028,docker compose,62,Docker,0.543532,no_match
+2029,user focus,13,Visão de Produto,0.45353624,no_match
+2030,data validation,56,Qualidade de Dados,0.58959836,no_match
+2031,habilidades de negociação,4,Negociação,0.7518648,matched
+2032,shell automation,37,Bash e Shell Script,0.74252653,matched
+2033,monitoring,69,Monitoramento e Observabilidade,0.65084565,matched
+2034,critical thinking,5,Pensamento Crítico,0.64742017,matched
+2035,end-to-end tests,72,Testes Automatizados,0.6504495,matched
+2036,context switching,8,Adaptabilidade,0.49398392,no_match
+2037,escrever SQL,31,SQL,0.71615624,matched
+2038,python 3,30,Python,0.58144355,no_match
+2039,julgamento sólido,5,Pensamento Crítico,0.50028896,no_match
+2040,feature creation,44,Engenharia de Features,0.5459038,no_match
+2041,java developer,33,Java,0.5036571,no_match
+2042,automação de build,68,Infrastructure as Code,0.5290724,no_match
+2043,versionamento de código,71,Versionamento de Código,0.49423474,no_match
+2044,prototyping,97,Treinamento e Desenvolvimento,0.46561658,no_match
+2045,redis,89,OKRs,0.28259665,no_match
+2046,Bash,37,Bash e Shell Script,0.5815018,no_match
+2047,design de API,88,Design Thinking,0.3568658,no_match
+2048,business analytics,78,Looker,0.61922234,matched
+2049,liderança de engenharia,24,Liderança Técnica,0.8150947,matched
+2050,criação de variáveis,90,Análise Financeira,0.4221523,no_match
+2051,strategic planning,26,Planejamento Estratégico,0.74661255,matched
+2052,análise com SQL,31,SQL,0.75194156,matched
+2053,neural nets,40,Deep Learning,0.583574,no_match
+2054,java development,33,Java,0.48352107,no_match
+2055,strategic negotiation,4,Negociação,0.82495975,matched
+2056,semantic search,41,Processamento de Linguagem Natural,0.47839814,no_match
+2057,LSTM,79,dbt,0.41861627,no_match
+2058,orientar pessoas,23,Mentoria,0.55391675,no_match
+2059,java backend,33,Java,0.67572117,matched
+2060,encryption,70,Segurança de Dados,0.65275794,matched
+2061,python avançado,30,Python,0.65600616,matched
+2062,planejamento empresarial,86,Gestão de Produto,0.5936028,no_match
+2063,testes multivariados,72,Testes Automatizados,0.66456187,matched
+2064,group facilitation,19,Facilitação,0.7229285,matched
+2065,cache distribuído,59,Redis,0.67103475,matched
+2066,spreadsheet skills,22,Escrita Profissional,0.45241964,no_match
+2067,soluções inovadoras,6,Resolução de Problemas,0.5898794,no_match
+2068,financial projections,91,Modelagem Financeira,0.63795394,matched
+2069,product sense,13,Visão de Produto,0.678504,matched
+2070,mlflow tracking,83,MLflow,0.49105245,no_match
+2071,KPIs,85,Hugging Face,0.31672725,no_match
+2072,cultura e estrutura organizacional,99,Cultura Organizacional,0.8515531,matched
+2073,conformidade,93,Compliance e Regulação,0.42474997,no_match
+2074,performance cycle,96,Gestão de Desempenho,0.6107593,matched
+2075,creative problem solving design,88,Design Thinking,0.79038477,matched
+2076,image processing,47,Visão Computacional,0.6983366,matched
+2077,cultura e clima,99,Cultura Organizacional,0.43341434,no_match
+2078,análise de demonstrativos,49,Experimentação e Testes A/B,0.5421063,no_match
+2079,critical mindset,5,Pensamento Crítico,0.62021077,matched
+2080,keras,85,Hugging Face,0.30052978,no_match
+2081,spark dataframes,80,Spark,0.5947509,no_match
+2082,JAVA,89,OKRs,0.29402286,no_match
+2083,redes neurais,40,Deep Learning,0.5431749,no_match
+2084,cultura e clima,99,Cultura Organizacional,0.43341434,no_match
+2085,AB tests,72,Testes Automatizados,0.54027045,no_match
+2086,python developer,30,Python,0.7627181,matched
+2087,capacidade de aprendizagem,11,Aprendizado Contínuo,0.7125422,matched
+2088,semantic search,41,Processamento de Linguagem Natural,0.47839814,no_match
+2089,trabalhar sem supervisão,10,Autogestão,0.55432385,no_match
+2090,thinking critically,5,Pensamento Crítico,0.6302488,matched
+2091,data integrity,56,Qualidade de Dados,0.6944032,matched
+2092,proactiveness,96,Gestão de Desempenho,0.49186507,no_match
+2093,JavaScript,34,JavaScript,0.53924614,no_match
+2094,visualização de dados,38,Análise de Dados,0.6959652,matched
+2095,spark SQL,31,SQL,0.577907,no_match
+2096,modelagem estatística,48,Estatística Aplicada,0.64629865,matched
+2097,assumir riscos,29,Empreendedorismo,0.5620055,no_match
+2098,data transformation para modelos,32,R,0.5357237,no_match
+2099,performance cycle,96,Gestão de Desempenho,0.6107593,matched
+2100,pensamento analítico,5,Pensamento Crítico,0.5937571,no_match
+2101,desenvolvimento de APIs,85,Hugging Face,0.43162107,no_match
+2102,R data science,32,R,0.8202493,matched
+2103,AB tests,72,Testes Automatizados,0.54027045,no_match
+2104,sklearn,18,Metodologias Ágeis,0.2857312,no_match
+2105,negotiation skills,4,Negociação,0.79021025,matched
+2106,gerenciamento de projetos,17,Gestão de Projetos,0.88370097,matched
+2107,data warehousing,55,Data Warehouse,0.63408875,matched
+2108,cloud GCP,66,Google Cloud Platform,0.6821575,matched
+2109,GDPR,89,OKRs,0.32070702,no_match
+2110,tableau public,85,Hugging Face,0.3832863,no_match
+2111,advanced excel,77,Excel Avançado,0.7351625,matched
+2112,disruptive thinking,5,Pensamento Crítico,0.4578948,no_match
+2113,comunicação escrita,22,Escrita Profissional,0.73534894,matched
+2114,gestão de backlog,96,Gestão de Desempenho,0.4204142,no_match
+2115,atração de talentos,98,Employer Branding,0.5173681,no_match
+2116,negotiating disagreements,4,Negociação,0.7176603,matched
+2117,UX research,87,UX Research,0.6445924,matched
+2118,microsoft BI,75,Power BI,0.4673652,no_match
+2119,usabilidade,96,Gestão de Desempenho,0.5037876,no_match
+2120,aplicações com LLM,82,LangChain,0.5445345,no_match
+2121,prefect,24,Liderança Técnica,0.31329998,no_match
+2122,design sprint,88,Design Thinking,0.43401903,no_match
+2123,BI dashboards,75,Power BI,0.49826244,no_match
+2124,LLM pipelines,84,Langfuse,0.6599364,matched
+2125,data analytics,38,Análise de Dados,0.80024165,matched
+2126,langchain development,82,LangChain,0.57744133,no_match
+2127,lidar com mudanças,27,Gestão de Mudanças,0.61357033,matched
+2128,advanced python,30,Python,0.64176095,matched
+2129,desenvolvimento java,95,Desenvolvimento Organizacional,0.42391938,no_match
+2130,negotiation tactics,4,Negociação,0.8049629,matched
+2131,google cloud services,66,Google Cloud Platform,0.7643035,matched
+2132,R data science,32,R,0.8202493,matched
+2133,python3,30,Python,0.59335935,no_match
+2134,diagnóstico de problemas,6,Resolução de Problemas,0.56742996,no_match
+2135,integridade de dados,56,Qualidade de Dados,0.70583725,matched
+2136,tomar decisões,7,Tomada de Decisão,0.6630824,matched
+2137,experiment tracking,69,Monitoramento e Observabilidade,0.48943305,no_match
+2138,code review,72,Testes Automatizados,0.6423733,matched
+2139,Design Thinking,88,Design Thinking,0.7620051,matched
+2140,CV,22,Escrita Profissional,0.3864944,no_match
+2141,SQL writing,31,SQL,0.6683915,matched
+2142,programas de aprendizado,97,Treinamento e Desenvolvimento,0.5868731,no_match
+2143,redis queue,59,Redis,0.32495332,no_match
+2144,cultura de time,99,Cultura Organizacional,0.56740415,no_match
+2145,presenting ideas,21,Apresentação e Oratória,0.64708495,matched
+2146,image classification,47,Visão Computacional,0.6558622,matched
+2147,innovation,28,Inovação,0.7260946,matched
+2148,stakeholder engagement,25,Gestão de Stakeholders,0.67734647,matched
+2149,normalização de dados,38,Análise de Dados,0.5435184,no_match
+2150,business writing,22,Escrita Profissional,0.6133046,matched
+2151,learning and development,97,Treinamento e Desenvolvimento,0.6320833,matched
+2152,emotional maturity,3,Inteligência Emocional,0.5853926,no_match
+2153,DBT,79,dbt,0.6632153,matched
+2154,BDD,79,dbt,0.31727535,no_match
+2155,feedback de desempenho,96,Gestão de Desempenho,0.6792361,matched
+2156,model fairness,45,Avaliação de Modelos,0.53861487,no_match
+2157,task prioritization,9,Gestão do Tempo,0.67866266,matched
+2158,talent acquisition,11,Aprendizado Contínuo,0.5535433,no_match
+2159,adaptação a mudanças,8,Adaptabilidade,0.75247097,matched
+2160,mapa de empatia,3,Inteligência Emocional,0.5363869,no_match
+2161,registro de modelos,54,Modelagem de Dados,0.5349762,no_match
+2162,employee development,95,Desenvolvimento Organizacional,0.60361475,matched
+2163,google cloud services,66,Google Cloud Platform,0.7643035,matched
+2164,ownership mindset,29,Empreendedorismo,0.5658921,no_match
+2165,orientar pessoas,23,Mentoria,0.55391675,no_match
+2166,documentação,22,Escrita Profissional,0.5074244,no_match
+2167,comunicação clara,1,Comunicação Assertiva,0.5606216,no_match
+2168,unit tests,72,Testes Automatizados,0.4701384,no_match
+2169,colaboração interfuncional,12,Colaboração,0.72840106,matched
+2170,risco operacional,92,Gestão de Riscos,0.6654419,matched
+2171,GitHub,71,Versionamento de Código,0.730145,matched
+2172,fastapi development,61,FastAPI,0.53239214,no_match
+2173,ajustar abordagens,8,Adaptabilidade,0.6203146,matched
+2174,modelagem financeira,91,Modelagem Financeira,0.8002862,matched
+2175,empreendedorismo,29,Empreendedorismo,0.5749867,no_match
+2176,in-memory database,58,MongoDB,0.5294745,no_match
+2177,frontend javascript,34,JavaScript,0.7233578,matched
+2178,roadmap de produto,86,Gestão de Produto,0.69427985,matched
+2179,visão estratégica,16,Pensamento Estratégico,0.64465815,matched
+2180,scrum,18,Metodologias Ágeis,0.3228929,no_match
+2181,self-awareness,10,Autogestão,0.472192,no_match
+2182,data exploration,38,Análise de Dados,0.77359205,matched
+2183,engenharia de features,44,Engenharia de Features,0.58664596,no_match
+2184,image recognition,47,Visão Computacional,0.7002804,matched
+2185,langfuse,82,LangChain,0.31894895,no_match
+2186,facilitar workshops,19,Facilitação,0.67079866,matched
+2187,product ownership,13,Visão de Produto,0.5537715,no_match
+2188,bash scripting,37,Bash e Shell Script,0.75779366,matched
+2189,langchain,82,LangChain,0.45353383,no_match
+2190,mentalidade de crescimento,95,Desenvolvimento Organizacional,0.5460547,no_match
+2191,fine-tuning huggingface,85,Hugging Face,0.74119174,matched
+2192,unix scripting,37,Bash e Shell Script,0.760257,matched
+2193,docker,62,Docker,0.5485464,no_match
+2194,llm development langchain,82,LangChain,0.68260545,matched
+2195,modelos de ML,83,MLflow,0.60573155,matched
+2196,arquitetura de software,73,Arquitetura de Software,0.6779064,matched
+2197,liderança de engenharia,24,Liderança Técnica,0.8150947,matched
+2198,conduzir dinâmicas,10,Autogestão,0.43453598,no_match
+2199,sql avançado,31,SQL,0.72010183,matched
+2200,API com python fastapi,61,FastAPI,0.43629265,no_match
+2201,statistical analysis,32,R,0.6076678,matched
+2202,technical team guidance,24,Liderança Técnica,0.69243026,matched
+2203,long-term planning,26,Planejamento Estratégico,0.66292346,matched
+2204,espírito de equipe,0,Gestão de Pessoas,0.5039417,no_match
+2205,modelagem de dados,54,Modelagem de Dados,0.7203301,matched
+2206,roadmap estratégico,26,Planejamento Estratégico,0.660463,matched
+2207,escrita profissional,22,Escrita Profissional,0.77307904,matched
+2208,data engineer,50,Engenharia de Dados,0.6351928,matched
+2209,IaC,64,CI/CD,0.34824347,no_match
+2210,inovar,21,Apresentação e Oratória,0.30473745,no_match
+2211,change management,27,Gestão de Mudanças,0.76465243,matched
+2212,modelagem financeira,91,Modelagem Financeira,0.8002862,matched
+2213,langchain memory,59,Redis,0.5754058,no_match
+2214,architectural decisions,24,Liderança Técnica,0.46498197,no_match
+2215,gerenciamento de riscos,92,Gestão de Riscos,0.79569477,matched
+2216,goals and key results,26,Planejamento Estratégico,0.5402784,no_match
+2217,statistical inference,48,Estatística Aplicada,0.6102165,matched
+2218,creative innovation,28,Inovação,0.72667414,matched
+2219,extração de dados,38,Análise de Dados,0.7276415,matched
+2220,gestão de colaboradores,25,Gestão de Stakeholders,0.68611133,matched
+2221,adaptive mindset,8,Adaptabilidade,0.6221669,matched
+2222,scala functional programming,36,Scala,0.6218997,matched
+2223,technical direction,24,Liderança Técnica,0.5295826,no_match
+2224,data-driven,50,Engenharia de Dados,0.61027443,matched
+2225,redshift,89,OKRs,0.26508552,no_match
+2226,PowerBI,75,Power BI,0.49551636,no_match
+2227,conectar estratégia e execução,16,Pensamento Estratégico,0.7105135,matched
+2228,backend API,33,Java,0.30130017,no_match
+2229,customer success mindset,15,Foco no Cliente,0.6452869,matched
+2230,tableau development,76,Tableau,0.6162443,matched
+2231,test coverage,72,Testes Automatizados,0.590468,no_match
+2232,clarity in communication,22,Escrita Profissional,0.52440214,no_match
+2233,critical analysis,5,Pensamento Crítico,0.60285175,matched
+2234,convolutional neural networks,40,Deep Learning,0.6036528,matched
+2235,pipelines de dados,52,Orquestração de Pipelines,0.7241252,matched
+2236,GCP services,66,Google Cloud Platform,0.4672717,no_match
+2237,monitoring,69,Monitoramento e Observabilidade,0.65084565,matched
+2238,strategic thinking,16,Pensamento Estratégico,0.76329565,matched
+2239,vendor negotiation,4,Negociação,0.6283995,matched
+2240,prototipagem,28,Inovação,0.42436618,no_match
+2241,empathy mapping,3,Inteligência Emocional,0.54482603,no_match
+2242,DL,89,OKRs,0.30824336,no_match
+2243,service mesh,68,Infrastructure as Code,0.46706462,no_match
+2244,treinar modelos,44,Engenharia de Features,0.47638232,no_match
+2245,software architecture,73,Arquitetura de Software,0.6829761,matched
+2246,Docker,62,Docker,0.5485464,no_match
+2247,trabalho conjunto,12,Colaboração,0.699615,matched
+2248,ML,42,Large Language Models,0.27462214,no_match
+2249,change management,27,Gestão de Mudanças,0.76465243,matched
+2250,organizational design,24,Liderança Técnica,0.6087954,matched
+2251,forecasting,46,Séries Temporais,0.5834929,no_match
+2252,visão computacional,47,Visão Computacional,0.72087014,matched
+2253,risk management,92,Gestão de Riscos,0.7754712,matched
+2254,comunicar dados,20,Storytelling com Dados,0.7401471,matched
+2255,Excel,77,Excel Avançado,0.6529068,matched
+2256,financial models,91,Modelagem Financeira,0.7803583,matched
+2257,dimensional modeling,54,Modelagem de Dados,0.54644823,no_match
+2258,langfuse,82,LangChain,0.31894895,no_match
+2259,streaming de dados,53,Streaming de Dados,0.72886777,matched
+2260,exploratory analysis,38,Análise de Dados,0.5319531,no_match
+2261,Microsoft Excel,77,Excel Avançado,0.7402828,matched
+2262,liderança de equipes,24,Liderança Técnica,0.6712899,matched
+2263,apresentar ideias,28,Inovação,0.5221209,no_match
+2264,setting strategy,16,Pensamento Estratégico,0.6592388,matched
+2265,trabalho autônomo,10,Autogestão,0.5913116,no_match
+2266,bargaining,4,Negociação,0.6465117,matched
+2267,microservices,74,Microsserviços,0.7667018,matched
+2268,GDPR compliance,93,Compliance e Regulação,0.5242684,no_match
+2269,aplicações com LLM,82,LangChain,0.5445343,no_match
+2270,resistência a mudanças,27,Gestão de Mudanças,0.5705006,no_match
+2271,análise de fluxo de caixa,52,Orquestração de Pipelines,0.6029128,matched
+2272,gestão de pessoas,0,Gestão de Pessoas,0.7005039,matched
+2273,entrepreneurship,29,Empreendedorismo,0.5555581,no_match
+2274,redis cache,59,Redis,0.70411247,matched
+2275,transformação de dados,38,Análise de Dados,0.6750909,matched
+2276,big data hadoop,81,Hadoop,0.680107,matched
+2277,gerenciar mudanças,27,Gestão de Mudanças,0.7195834,matched
+2278,decisões baseadas em dados,14,Orientação a Dados,0.7366304,matched
+2279,goals and key results,26,Planejamento Estratégico,0.5402784,no_match
+2280,encryption,70,Segurança de Dados,0.65275794,matched
+2281,self-awareness,10,Autogestão,0.472192,no_match
+2282,cli scripting,37,Bash e Shell Script,0.55262005,no_match
+2283,conduzir negociações,4,Negociação,0.82807183,matched
+2284,LookML,85,Hugging Face,0.43548197,no_match
+2285,monitoramento de LLM,69,Monitoramento e Observabilidade,0.620835,matched
+2286,execução de projetos,17,Gestão de Projetos,0.76480824,matched
+2287,pensamento disruptivo,5,Pensamento Crítico,0.48149455,no_match
+2288,snowflake,67,Azure,0.095078975,no_match
+2289,proposta de valor ao colaborador,15,Foco no Cliente,0.58640856,no_match
+2290,performance management,96,Gestão de Desempenho,0.7372315,matched
+2291,intermediate SQL,31,SQL,0.68557024,matched
+2292,bash automation,37,Bash e Shell Script,0.75030005,matched
+2293,PSQL,31,SQL,0.54455435,no_match
+2294,gestão de desempenho,96,Gestão de Desempenho,0.754154,matched
+2295,OCR,89,OKRs,0.43695408,no_match
+2296,alinhamento de stakeholders,12,Colaboração,0.6594058,matched
+2297,negociação comercial,4,Negociação,0.6080396,matched
+2298,cultura corporativa,99,Cultura Organizacional,0.6074033,matched
+2299,performance review,96,Gestão de Desempenho,0.65905756,matched
+2300,in-memory database,58,MongoDB,0.52947444,no_match
+2301,scala spark,36,Scala,0.4615709,no_match
+2302,power bi development,75,Power BI,0.64742696,matched
+2303,software architecture,73,Arquitetura de Software,0.6829761,matched
+2304,infrastructure automation,68,Infrastructure as Code,0.5940874,no_match
+2305,Terraform,68,Infrastructure as Code,0.5087911,no_match
+2306,collaborative work,12,Colaboração,0.78327274,matched
+2307,cenários financeiros,91,Modelagem Financeira,0.70751584,matched
+2308,python langchain,30,Python,0.53328085,no_match
+2309,acompanhamento de projetos,17,Gestão de Projetos,0.66631293,matched
+2310,data modeling,54,Modelagem de Dados,0.69397545,matched
+2311,tensorflow,40,Deep Learning,0.30455533,no_match
+2312,scrum master,18,Metodologias Ágeis,0.34901983,no_match
+2313,alertas,46,Séries Temporais,0.36265528,no_match
+2314,identificar oportunidades,29,Empreendedorismo,0.71729493,matched
+2315,planejamento de longo prazo,26,Planejamento Estratégico,0.72030735,matched
+2316,classificação de imagens,47,Visão Computacional,0.64780486,matched
+2317,DBT,79,dbt,0.6632153,matched
+2318,automated testing,72,Testes Automatizados,0.78974223,matched
+2319,data transformation,38,Análise de Dados,0.5706861,no_match
+2320,python data,30,Python,0.67471635,matched
+2321,S3,65,AWS,0.26385033,no_match
+2322,aws services,65,AWS,0.71049035,matched
+2323,code review leadership,24,Liderança Técnica,0.57530844,no_match
+2324,azure AI,89,OKRs,0.24951401,no_match
+2325,js,89,OKRs,0.28917113,no_match
+2326,python data,30,Python,0.67471635,matched
+2327,semantic similarity,43,Embeddings e Busca Vetorial,0.49738562,no_match
+2328,conduzir negociações,4,Negociação,0.8280718,matched
+2329,mentorship,23,Mentoria,0.5908859,no_match
+2330,dockerfile,62,Docker,0.643836,matched
+2331,estratégia de negócios,86,Gestão de Produto,0.6618981,matched
+2332,spark ML,80,Spark,0.4824835,no_match
+2333,operational risk,92,Gestão de Riscos,0.70862854,matched
+2334,employer branding,98,Employer Branding,0.74978995,matched
+2335,strategic planning,26,Planejamento Estratégico,0.7466126,matched
+2336,valores organizacionais,99,Cultura Organizacional,0.5823738,no_match
+2337,SQL postgres,57,PostgreSQL,0.75361735,matched
+2338,expressing ideas clearly,1,Comunicação Assertiva,0.5710841,no_match
+2339,culture building,99,Cultura Organizacional,0.6387426,matched
+2340,cultura corporativa,99,Cultura Organizacional,0.6074033,matched
+2341,supporting growth,95,Desenvolvimento Organizacional,0.5623629,no_match
+2342,javascript frontend,34,JavaScript,0.732539,matched
+2343,julgamento crítico,5,Pensamento Crítico,0.4444651,no_match
+2344,construção de pipelines,52,Orquestração de Pipelines,0.59049845,no_match
+2345,performance cycle,96,Gestão de Desempenho,0.6107593,matched
+2346,capacitação,96,Gestão de Desempenho,0.4434134,no_match
+2347,advanced postgresql,57,PostgreSQL,0.8148655,matched
+2348,cooperação,12,Colaboração,0.6855919,matched
+2349,liderança em mudanças,27,Gestão de Mudanças,0.67124695,matched
+2350,problem solving,6,Resolução de Problemas,0.75450003,matched
+2351,TDD,79,dbt,0.38933247,no_match
+2352,queries de banco de dados,31,SQL,0.6036457,matched
+2353,spark dataframes,80,Spark,0.5947509,no_match
+2354,bash e shell,37,Bash e Shell Script,0.64742935,matched
+2355,testes de hipótese,48,Estatística Aplicada,0.6632953,matched
+2356,calibração de performance,96,Gestão de Desempenho,0.49016798,no_match
+2357,transformação de dados,38,Análise de Dados,0.6750909,matched
+2358,literacia de dados,38,Análise de Dados,0.6826625,matched
+2359,proactiveness,96,Gestão de Desempenho,0.49186507,no_match
+2360,grafana,85,Hugging Face,0.27154,no_match
+2361,conflict handling,2,Resolução de Conflitos,0.6122409,matched
+2362,regulatory knowledge,93,Compliance e Regulação,0.6465766,matched
+2363,model assessment,45,Avaliação de Modelos,0.6429173,matched
+2364,apache kafka,80,Spark,0.4504199,no_match
+2365,compliance,93,Compliance e Regulação,0.57782423,no_match
+2366,autonomy,10,Autogestão,0.69774795,matched
+2367,ML,42,Large Language Models,0.27462214,no_match
+2368,empreendedorismo,29,Empreendedorismo,0.5749867,no_match
+2369,sprint planning,26,Planejamento Estratégico,0.44181567,no_match
+2370,excel VBA,77,Excel Avançado,0.7265361,matched
+2371,SOA,89,OKRs,0.29463685,no_match
+2372,java backend,33,Java,0.67572117,matched
+2373,user focus,13,Visão de Produto,0.45353624,no_match
+2374,upskilling,89,OKRs,0.33768874,no_match
+2375,model registry,54,Modelagem de Dados,0.52793074,no_match
+2376,architectural decisions,24,Liderança Técnica,0.46498197,no_match
+2377,monitoramento e observabilidade,69,Monitoramento e Observabilidade,0.72405285,matched
+2378,prompting,21,Apresentação e Oratória,0.35005486,no_match
+2379,intraempreendedorismo,29,Empreendedorismo,0.45292914,no_match
+2380,cliente em primeiro lugar,15,Foco no Cliente,0.6649376,matched
+2381,azure cloud,67,Azure,0.55859625,no_match
+2382,pensar no longo prazo,16,Pensamento Estratégico,0.6453444,matched
+2383,azure ML,83,MLflow,0.259569,no_match
+2384,open source LLMs,42,Large Language Models,0.46391258,no_match
+2385,entender o produto,13,Visão de Produto,0.6794033,matched
+2386,team management,0,Gestão de Pessoas,0.6157359,matched
+2387,coaching,24,Liderança Técnica,0.4851757,no_match
+2388,weaviate,87,UX Research,0.23302129,no_match
+2389,advanced java,33,Java,0.4471613,no_match
+2390,arquitetura de dados,50,Engenharia de Dados,0.71560705,matched
+2391,EDA,89,OKRs,0.43653622,no_match
+2392,gerenciar desentendimentos,2,Resolução de Conflitos,0.60352945,matched
+2393,escrita técnica,22,Escrita Profissional,0.6293032,matched
+2394,talent attraction,98,Employer Branding,0.5059222,no_match
+2395,strategic roadmap,26,Planejamento Estratégico,0.64813274,matched
+2396,team conflict resolution,2,Resolução de Conflitos,0.7558018,matched
+2397,user research,87,UX Research,0.54555595,no_match
+2398,soluções inovadoras,6,Resolução de Problemas,0.5898794,no_match
+2399,data analytics,38,Análise de Dados,0.80024165,matched
+2400,testes unitários,72,Testes Automatizados,0.6536423,matched
+2401,transformação de dados para modelos,38,Análise de Dados,0.6181985,matched
+2402,análise de causa raiz,46,Séries Temporais,0.4287023,no_match
+2403,kubernetes deployment,63,Kubernetes,0.39658296,no_match
+2404,huggingface transformers,85,Hugging Face,0.66162395,matched
+2405,technical lead,24,Liderança Técnica,0.57780254,no_match
+2406,income statement,90,Análise Financeira,0.3948787,no_match
+2407,criação de variáveis,90,Análise Financeira,0.42215225,no_match
+2408,compliance,93,Compliance e Regulação,0.57782423,no_match
+2409,HDFS,59,Redis,0.4710118,no_match
+2410,strategic decision making,16,Pensamento Estratégico,0.72877324,matched
+2411,mongodb atlas,58,MongoDB,0.45823646,no_match
+2412,adaptabilidade,8,Adaptabilidade,0.7557096,matched
+2413,video analysis,47,Visão Computacional,0.6825404,matched
+2414,technical design,88,Design Thinking,0.562158,no_match
+2415,troubleshooting,6,Resolução de Problemas,0.45333672,no_match
+2416,banco de documentos,58,MongoDB,0.42226285,no_match
+2417,upskilling,89,OKRs,0.33768874,no_match
+2418,pensar como empreendedor,29,Empreendedorismo,0.626572,matched
+2419,LLM applications,82,LangChain,0.56833637,no_match
+2420,translating data to story,20,Storytelling com Dados,0.6533295,matched
+2421,apresentação e oratória,21,Apresentação e Oratória,0.75689274,matched
+2422,processamento de linguagem natural,41,Processamento de Linguagem Natural,0.7026384,matched
+2423,okrs,89,OKRs,0.31623778,no_match
+2424,controlled experiments,49,Experimentação e Testes A/B,0.5430366,no_match
+2425,normas e regulamentações,93,Compliance e Regulação,0.7231149,matched
+2426,flexibilidade,73,Arquitetura de Software,0.35686177,no_match
+2427,intrapreneurship,29,Empreendedorismo,0.55291575,no_match
+2428,UX,89,OKRs,0.3082717,no_match
+2429,redis pub sub,19,Facilitação,0.21620819,no_match
+2430,parceria no trabalho,12,Colaboração,0.75742245,matched
+2431,banco em memória,59,Redis,0.5500596,no_match
+2432,valuation,91,Modelagem Financeira,0.3313663,no_match
+2433,cooperation,12,Colaboração,0.67821026,matched
+2434,processo seletivo,94,Recrutamento e Seleção,0.72514534,matched
+2435,resolver divergências,2,Resolução de Conflitos,0.60338414,matched
+2436,kubernetes cluster,55,Data Warehouse,0.39265382,no_match
+2437,promover cultura,99,Cultura Organizacional,0.66523564,matched
+2438,bancos analíticos,90,Análise Financeira,0.64496464,matched
+2439,experiment design,49,Experimentação e Testes A/B,0.52842754,no_match
+2440,kubectl,85,Hugging Face,0.3120075,no_match
+2441,user stories,20,Storytelling com Dados,0.4900705,no_match
+2442,equilíbrio emocional,3,Inteligência Emocional,0.60718846,matched
+2443,pensar no longo prazo,16,Pensamento Estratégico,0.6453444,matched
+2444,DBT,79,dbt,0.6632153,matched
+2445,web API,65,AWS,0.39704767,no_match
+2446,LGPD compliance,93,Compliance e Regulação,0.49494725,no_match
+2447,cloud GCP,66,Google Cloud Platform,0.6821575,matched
+2448,parceria no trabalho,12,Colaboração,0.75742245,matched
+2449,gestão de desempenho,96,Gestão de Desempenho,0.754154,matched
+2450,unsupervised learning,11,Aprendizado Contínuo,0.56624603,no_match
+2451,project planning,17,Gestão de Projetos,0.738994,matched
+2452,embedding models,54,Modelagem de Dados,0.5491687,no_match
+2453,docker-compose,62,Docker,0.6265812,matched
+2454,unittest,12,Colaboração,0.2911353,no_match
+2455,redis cache,59,Redis,0.70411247,matched
+2456,compliance e regulação,93,Compliance e Regulação,0.7803806,matched
+2457,gestão de colaboradores,25,Gestão de Stakeholders,0.68611133,matched
+2458,experimentos controlados,49,Experimentação e Testes A/B,0.556317,no_match
+2459,design patterns,88,Design Thinking,0.58763707,no_match
+2460,intermediate SQL,31,SQL,0.68557024,matched
+2461,redis pub sub,19,Facilitação,0.21620819,no_match
+2462,emotional self-regulation,3,Inteligência Emocional,0.6497779,matched
+2463,UX,89,OKRs,0.3082717,no_match
+2464,conflict de-escalation,2,Resolução de Conflitos,0.5416424,no_match
+2465,k8s,63,Kubernetes,0.29004583,no_match
+2466,natural language processing,41,Processamento de Linguagem Natural,0.7047559,matched
+2467,testes unitários,72,Testes Automatizados,0.6536423,matched
+2468,reskilling,43,Embeddings e Busca Vetorial,0.30872244,no_match
+2469,strategic negotiation,4,Negociação,0.82495975,matched
+2470,resolver problemas,6,Resolução de Problemas,0.7238544,matched
+2471,banco de documentos,58,MongoDB,0.42226285,no_match
+2472,agility,29,Empreendedorismo,0.35654786,no_match
+2473,strategic planning,26,Planejamento Estratégico,0.7466126,matched
+2474,Tableau,85,Hugging Face,0.4756257,no_match
+2475,MongoDB,58,MongoDB,0.37344614,no_match
+2476,TDD,79,dbt,0.38933247,no_match
+2477,coaching,24,Liderança Técnica,0.4851757,no_match
+2478,tomada de decisão,7,Tomada de Decisão,0.6622488,matched
+2479,pytest,61,FastAPI,0.28006607,no_match
+2480,desenvolvimento de pessoas,23,Mentoria,0.6392078,matched
+2481,spring boot,33,Java,0.35153192,no_match
+2482,pipeline ETL,52,Orquestração de Pipelines,0.59465265,no_match
+2483,experimentação e testes A/B,49,Experimentação e Testes A/B,0.68326277,matched
+2484,IE,89,OKRs,0.36168116,no_match
+2485,customer obsession,15,Foco no Cliente,0.5087858,no_match
+2486,liderar equipes,24,Liderança Técnica,0.59852564,no_match
+2487,comunicação assertiva,1,Comunicação Assertiva,0.7490695,matched
+2488,lidar com emoções,3,Inteligência Emocional,0.7182739,matched
+2489,python backend,35,TypeScript,0.45291907,no_match
+2490,monitoring,69,Monitoramento e Observabilidade,0.65084565,matched
+2491,Amazon Web Services,65,AWS,0.7309272,matched
+2492,analytical problem solving,6,Resolução de Problemas,0.75141037,matched
+2493,presenting to stakeholders,21,Apresentação e Oratória,0.60141927,matched
+2494,R programming,32,R,0.69582444,matched
+2495,Design Thinking,88,Design Thinking,0.7620051,matched
+2496,gestão de riscos,92,Gestão de Riscos,0.79120535,matched
+2497,langchain agents,82,LangChain,0.53453636,no_match
+2498,negociação com fornecedores,4,Negociação,0.5793921,no_match
+2499,schema design,54,Modelagem de Dados,0.49789527,no_match
+2500,long-term planning,26,Planejamento Estratégico,0.6629236,matched
+2501,adaptação a mudanças,8,Adaptabilidade,0.75247097,matched
+2502,soluções inovadoras,6,Resolução de Problemas,0.5898794,no_match
+2503,postgresql avançado,57,PostgreSQL,0.830145,matched
+2504,independent work,10,Autogestão,0.46769124,no_match
+2505,creative innovation,28,Inovação,0.72667414,matched
+2506,azure machine learning,39,Machine Learning,0.7181624,matched
+2507,task organization,9,Gestão do Tempo,0.59527457,no_match
+2508,testes multivariados,72,Testes Automatizados,0.66456187,matched
+2509,negociar contratos,4,Negociação,0.7075323,matched
+2510,Apache Spark,80,Spark,0.71351635,matched
+2511,long-term thinking,16,Pensamento Estratégico,0.6267136,matched
+2512,apache flink,80,Spark,0.4802227,no_match
+2513,transformações dbt,79,dbt,0.77290076,matched
+2514,cross-functional collaboration,12,Colaboração,0.7500184,matched
+2515,dplyr,89,OKRs,0.32015216,no_match
+2516,experimentos controlados,49,Experimentação e Testes A/B,0.556317,no_match
+2517,estratégia de negócios,86,Gestão de Produto,0.6618981,matched
+2518,logs,69,Monitoramento e Observabilidade,0.41584757,no_match
+2519,terminal scripting,37,Bash e Shell Script,0.6469579,matched
+2520,conectar estratégia e execução,16,Pensamento Estratégico,0.7105135,matched
+2521,gestão emocional,3,Inteligência Emocional,0.7173753,matched
+2522,roadmap estratégico,26,Planejamento Estratégico,0.660463,matched
+2523,project delivery,17,Gestão de Projetos,0.6361114,matched
+2524,apresentação em público,21,Apresentação e Oratória,0.65310043,matched
+2525,trabalho em equipe,12,Colaboração,0.6221595,matched
+2526,corporate culture,99,Cultura Organizacional,0.5787344,no_match
+2527,openness to change,8,Adaptabilidade,0.48459852,no_match
+2528,time optimization,9,Gestão do Tempo,0.61952436,matched
+2529,docker compose,62,Docker,0.5435319,no_match
+2530,python scripting,30,Python,0.63624245,matched
+2531,organização pessoal,0,Gestão de Pessoas,0.5865492,no_match
+2532,reconhecimento de imagens,47,Visão Computacional,0.69519484,matched
+2533,análise de dados,38,Análise de Dados,0.8053319,matched
+2534,spreadsheets,77,Excel Avançado,0.37748995,no_match
+2535,big data spark,80,Spark,0.6126652,matched
+2536,entrepreneurship,29,Empreendedorismo,0.5555581,no_match
+2537,python para dados,30,Python,0.71036243,matched
+2538,GitLab,89,OKRs,0.29816216,no_match
+2539,arquitetura limpa,68,Infrastructure as Code,0.4259534,no_match
+2540,classificação de texto,41,Processamento de Linguagem Natural,0.56669676,no_match
+2541,typescript development,35,TypeScript,0.58786285,no_match
+2542,employer brand,98,Employer Branding,0.6911664,matched
+2543,dados em tempo real,53,Streaming de Dados,0.69923156,matched
+2544,prioritization,9,Gestão do Tempo,0.5345387,no_match
+2545,looker dashboards,78,Looker,0.5176674,no_match
+2546,mongodb queries,58,MongoDB,0.56471664,no_match
+2547,entrevistas com usuários,20,Storytelling com Dados,0.4497372,no_match
+2548,governança de dados,50,Engenharia de Dados,0.5791453,no_match
+2549,DW,89,OKRs,0.31303543,no_match
+2550,rebase,43,Embeddings e Busca Vetorial,0.32710665,no_match
+2551,postgres,57,PostgreSQL,0.43023968,no_match
+2552,strategic roadmap,26,Planejamento Estratégico,0.6481328,matched
+2553,mongodb,58,MongoDB,0.3734461,no_match
+2554,learning and development,97,Treinamento e Desenvolvimento,0.6320833,matched
+2555,avaliação de modelos,45,Avaliação de Modelos,0.674344,matched
+2556,decisão orientada a risco,7,Tomada de Decisão,0.7086246,matched
+2557,performance appraisal,96,Gestão de Desempenho,0.680392,matched
+2558,data insights,38,Análise de Dados,0.80395484,matched
+2559,RAG,85,Hugging Face,0.24562821,no_match
+2560,data analysis,38,Análise de Dados,0.7930504,matched
+2561,angular,85,Hugging Face,0.2214264,no_match
+2562,decisão orientada a risco,7,Tomada de Decisão,0.7086247,matched
+2563,pull request,15,Foco no Cliente,0.27232727,no_match
+2564,drive innovation,28,Inovação,0.50199085,no_match
+2565,own initiative,10,Autogestão,0.54458976,no_match
+2566,ideation,28,Inovação,0.48114508,no_match
+2567,python para dados,30,Python,0.71036243,matched
+2568,gestão de backlog,96,Gestão de Desempenho,0.4204142,no_match
+2569,aligning expectations,26,Planejamento Estratégico,0.50397754,no_match
+2570,cloud AWS,67,Azure,0.5928366,no_match
+2571,narrativa com dados,20,Storytelling com Dados,0.8179449,matched
+2572,distributed systems,81,Hadoop,0.49379498,no_match
+2573,customer-centric,15,Foco no Cliente,0.65991807,matched
+2574,typescript,35,TypeScript,0.544736,no_match
+2575,python development,30,Python,0.7633358,matched
+2576,entity relationship,12,Colaboração,0.4989737,no_match
+2577,avaliar modelos,45,Avaliação de Modelos,0.62933874,matched
+2578,team conflict resolution,2,Resolução de Conflitos,0.7558018,matched
+2579,acompanhar OKRs,89,OKRs,0.35568896,no_match
+2580,transformação de dados,38,Análise de Dados,0.6750909,matched
+2581,looker studio,78,Looker,0.4150942,no_match
+2582,declarative infrastructure,68,Infrastructure as Code,0.64380425,matched
+2583,node.js,89,OKRs,0.32099754,no_match
+2584,conflito entre times,2,Resolução de Conflitos,0.44368327,no_match
+2585,abertura a mudanças,27,Gestão de Mudanças,0.5597352,no_match
+2586,organizational effectiveness,95,Desenvolvimento Organizacional,0.6408234,matched
+2587,julgamento sólido,5,Pensamento Crítico,0.50028896,no_match
+2588,desenvolvimento ágil,95,Desenvolvimento Organizacional,0.57716703,no_match
+2589,pivot tables,76,Tableau,0.40337026,no_match
+2590,comunicação de mudanças,27,Gestão de Mudanças,0.56609297,no_match
+2591,aprender novas tecnologias,28,Inovação,0.504717,no_match
+2592,logging,69,Monitoramento e Observabilidade,0.46987492,no_match
+2593,data wrangling,38,Análise de Dados,0.5980876,no_match
+2594,looker reports,78,Looker,0.41839808,no_match
+2595,prioritization,9,Gestão do Tempo,0.5345387,no_match
+2596,planejamento estratégico,26,Planejamento Estratégico,0.75184494,matched
+2597,pensar inovador,28,Inovação,0.72189236,matched
+2598,feature selection,44,Engenharia de Features,0.53426397,no_match
+2599,conflict management,2,Resolução de Conflitos,0.59020245,no_match
+2600,mitigação de riscos,92,Gestão de Riscos,0.6895303,matched
+2601,SQL avançado,31,SQL,0.72010183,matched
+2602,programas de aprendizado,97,Treinamento e Desenvolvimento,0.5868731,no_match
+2603,visão estratégica,16,Pensamento Estratégico,0.6446581,matched
+2604,usabilidade,96,Gestão de Desempenho,0.5037876,no_match
+2605,programação java,42,Large Language Models,0.42048216,no_match
+2606,employer reputation,98,Employer Branding,0.65460247,matched
+2607,K8s,63,Kubernetes,0.29004583,no_match
+2608,branching strategy,16,Pensamento Estratégico,0.5986115,no_match
+2609,corporate training,97,Treinamento e Desenvolvimento,0.4366148,no_match
+2610,agile mindset,73,Arquitetura de Software,0.54469,no_match
+2611,facilitation,19,Facilitação,0.6221152,matched
+2612,comunicação com stakeholders,1,Comunicação Assertiva,0.6256533,matched
+2613,excel,77,Excel Avançado,0.6529068,matched
+2614,UX insights,38,Análise de Dados,0.5074531,no_match
+2615,mentalidade empreendedora,29,Empreendedorismo,0.67849225,matched
+2616,mentalidade estratégica,16,Pensamento Estratégico,0.7299243,matched
+2617,application monitoring,69,Monitoramento e Observabilidade,0.56111944,no_match
+2618,OKRs,89,OKRs,0.31623778,no_match
+2619,foco no cliente,15,Foco no Cliente,0.8067139,matched
+2620,capacidade de aprendizagem,11,Aprendizado Contínuo,0.7125422,matched
+2621,gitflow,71,Versionamento de Código,0.72042525,matched
+2622,team culture,99,Cultura Organizacional,0.52743804,no_match
+2623,training and development,97,Treinamento e Desenvolvimento,0.69567156,matched
+2624,shell script,37,Bash e Shell Script,0.75203776,matched
+2625,gerir times,9,Gestão do Tempo,0.6393536,matched
+2626,user research,87,UX Research,0.545556,no_match
+2627,managing expectations,25,Gestão de Stakeholders,0.6731249,matched
+2628,meeting facilitation,19,Facilitação,0.81745064,matched
+2629,automated testing,72,Testes Automatizados,0.78974223,matched
+2630,FastAPI backend,61,FastAPI,0.38990057,no_match
+2631,problem diagnosis,6,Resolução de Problemas,0.5578444,no_match
+2632,redes neurais profundas,40,Deep Learning,0.67072904,matched
+2633,Scala,36,Scala,0.5922724,no_match
+2634,pensar estrategicamente,16,Pensamento Estratégico,0.7361332,matched
+2635,análise de balanço,96,Gestão de Desempenho,0.511151,no_match
+2636,habilidades de apresentação,21,Apresentação e Oratória,0.7109754,matched
+2637,detecção de objetos,69,Monitoramento e Observabilidade,0.523159,no_match
+2638,aprender novas tecnologias,28,Inovação,0.504717,no_match
+2639,java avançado,89,OKRs,0.38580486,no_match
+2640,data insights,38,Análise de Dados,0.80395484,matched
+2641,soluções inovadoras,6,Resolução de Problemas,0.5898794,no_match
+2642,java,89,OKRs,0.29402286,no_match
+2643,registro de modelos,54,Modelagem de Dados,0.5349762,no_match
+2644,embedding vectors,43,Embeddings e Busca Vetorial,0.31444693,no_match
+2645,triagem de candidatos,94,Recrutamento e Seleção,0.4867217,no_match
+2646,REST API,85,Hugging Face,0.17919305,no_match
+2647,decisions under uncertainty,7,Tomada de Decisão,0.7227564,matched
+2648,drive innovation,28,Inovação,0.5019909,no_match
+2649,reskilling programs,73,Arquitetura de Software,0.46609274,no_match
+2650,decisão sob incerteza,7,Tomada de Decisão,0.7322546,matched
+2651,task prioritization,9,Gestão do Tempo,0.6786626,matched
+2652,recrutamento e seleção,94,Recrutamento e Seleção,0.61749196,matched
+2653,tidyverse,9,Gestão do Tempo,0.2612356,no_match
+2654,LLM pipelines,84,Langfuse,0.6599364,matched
+2655,kanban,18,Metodologias Ágeis,0.2664521,no_match
+2656,customer focus,15,Foco no Cliente,0.73331314,matched
+2657,testes E2E,72,Testes Automatizados,0.5422342,no_match
+2658,employee value proposition,29,Empreendedorismo,0.48774415,no_match
+2659,proatividade,1,Comunicação Assertiva,0.43310523,no_match
+2660,problem decomposition,6,Resolução de Problemas,0.54106104,no_match
+2661,resilience,8,Adaptabilidade,0.3936024,no_match
+2662,software testing,72,Testes Automatizados,0.6798379,matched
+2663,DBT,79,dbt,0.6632153,matched
+2664,evidence-based decisions,14,Orientação a Dados,0.68939924,matched
+2665,data-driven,50,Engenharia de Dados,0.61027443,matched
+2666,regulatory compliance,93,Compliance e Regulação,0.74052656,matched
+2667,self-directed work,10,Autogestão,0.5690244,no_match
+2668,API design,52,Orquestração de Pipelines,0.3545447,no_match
+2669,alerting,1,Comunicação Assertiva,0.43669176,no_match
+2670,tableau analytics,76,Tableau,0.7255267,matched
+2671,identificar causas raiz,46,Séries Temporais,0.35596588,no_match
+2672,hugging face models,85,Hugging Face,0.7245016,matched
+2673,gitlab,89,OKRs,0.29816216,no_match
+2674,visão de produto,13,Visão de Produto,0.7289455,matched
+2675,context switching,8,Adaptabilidade,0.49398392,no_match
+2676,advanced java,33,Java,0.4471613,no_match
+2677,mapreduce,68,Infrastructure as Code,0.42057005,no_match
+2678,normalização de dados,38,Análise de Dados,0.5435184,no_match
+2679,LLM observability,42,Large Language Models,0.42102468,no_match
+2680,modelagem relacional,54,Modelagem de Dados,0.56449986,no_match
+2681,pulumi,85,Hugging Face,0.2989818,no_match
+2682,yarn,30,Python,0.22043547,no_match
+2683,langchain memory,59,Redis,0.5754058,no_match
+2684,versatilidade,8,Adaptabilidade,0.44600976,no_match
+2685,regulatory affairs,93,Compliance e Regulação,0.585956,no_match
+2686,administrar conflitos,2,Resolução de Conflitos,0.60355043,matched
+2687,aws RDS,89,OKRs,0.40655947,no_match
+2688,marca empregadora,98,Employer Branding,0.649542,matched
+2689,liderança de engenharia,24,Liderança Técnica,0.8150947,matched
+2690,classificação de texto,41,Processamento de Linguagem Natural,0.56669676,no_match
+2691,usar dados para decidir,14,Orientação a Dados,0.728369,matched
+2692,react.js,84,Langfuse,0.26750654,no_match
+2693,habilidades de escrita,22,Escrita Profissional,0.6838602,matched
+2694,deep learning models,40,Deep Learning,0.7480321,matched
+2695,Prophet,21,Apresentação e Oratória,0.1808,no_match
+2696,integração contínua,64,CI/CD,0.5448508,no_match
+2697,análise estatística em R,32,R,0.8080715,matched
+2698,oratória,21,Apresentação e Oratória,0.5260227,no_match
+2699,fastapi,85,Hugging Face,0.29686445,no_match
+2700,azure AI,89,OKRs,0.24951398,no_match
+2701,empatia com o cliente,15,Foco no Cliente,0.52869904,no_match
+2702,risk register,92,Gestão de Riscos,0.5534065,no_match
+2703,risk mitigation,92,Gestão de Riscos,0.656545,matched
+2704,AUC ROC,89,OKRs,0.30487692,no_match
+2705,pipeline ETL,52,Orquestração de Pipelines,0.59465265,no_match
+2706,team building,97,Treinamento e Desenvolvimento,0.50545096,no_match
+2707,apoiar crescimento,95,Desenvolvimento Organizacional,0.57704604,no_match
+2708,computer vision,47,Visão Computacional,0.6420971,matched
+2709,pesquisa com usuários,87,UX Research,0.5156525,no_match
+2710,data orientation,38,Análise de Dados,0.48453754,no_match
+2711,machine learning models,39,Machine Learning,0.79579353,matched
+2712,usability research,87,UX Research,0.5608145,no_match
+2713,desenvolvimento de colaboradores,12,Colaboração,0.7051958,matched
+2714,setting OKRs,63,Kubernetes,0.36186594,no_match
+2715,dbt,79,dbt,0.6632153,matched
+2716,yarn,30,Python,0.22043547,no_match
+2717,customer first,15,Foco no Cliente,0.557758,no_match
+2718,tech mentor,24,Liderança Técnica,0.5660189,no_match
+2719,detecção de objetos,69,Monitoramento e Observabilidade,0.5231591,no_match
+2720,risco operacional,92,Gestão de Riscos,0.6654419,matched
+2721,github actions,71,Versionamento de Código,0.6694172,matched
+2722,API REST,85,Hugging Face,0.20525399,no_match
+2723,pitch de ideias,28,Inovação,0.53788066,no_match
+2724,REST API,85,Hugging Face,0.17919305,no_match
+2725,scope management,86,Gestão de Produto,0.577307,no_match
+2726,acompanhamento de projetos,17,Gestão de Projetos,0.66631293,matched
+2727,pensamento racional,5,Pensamento Crítico,0.4614854,no_match
+2728,seleção de features,44,Engenharia de Features,0.55474186,no_match
+2729,neural networks,40,Deep Learning,0.6901934,matched
+2730,rastreamento de prompts,69,Monitoramento e Observabilidade,0.55092466,no_match
+2731,empatia,3,Inteligência Emocional,0.5246205,no_match
+2732,CloudFormation,67,Azure,0.6220809,matched
+2733,technical leadership,24,Liderança Técnica,0.8356505,matched
+2734,design técnico,73,Arquitetura de Software,0.55494714,no_match
+2735,Apache Spark,80,Spark,0.71351635,matched
+2736,TDD,79,dbt,0.38933247,no_match
+2737,annual planning,26,Planejamento Estratégico,0.5410309,no_match
+2738,priorizar tarefas,9,Gestão do Tempo,0.68596506,matched
+2739,rastreamento de prompts,69,Monitoramento e Observabilidade,0.55092466,no_match
+2740,transformação de dados,38,Análise de Dados,0.6750909,matched
+2741,pyspark,19,Facilitação,0.32702136,no_match
+2742,customer orientation,15,Foco no Cliente,0.56592524,no_match
+2743,PowerBI,75,Power BI,0.49551636,no_match
+2744,emotional intelligence,3,Inteligência Emocional,0.8371998,matched
+2745,python data,30,Python,0.67471635,matched
+2746,making decisions,7,Tomada de Decisão,0.6639386,matched
+2747,strategic vision,16,Pensamento Estratégico,0.6327648,matched
+2748,customer needs understanding,15,Foco no Cliente,0.7653891,matched
+2749,compliance program,93,Compliance e Regulação,0.5945846,no_match
+2750,criação de variáveis,90,Análise Financeira,0.4221523,no_match
+2751,gke,89,OKRs,0.3222846,no_match
+2752,warehouse architecture,55,Data Warehouse,0.61784434,matched
+2753,segurança da informação,70,Segurança de Dados,0.78937805,matched
+2754,rastreamento de prompts,69,Monitoramento e Observabilidade,0.55092466,no_match
+2755,innovative thinking,28,Inovação,0.75179565,matched
+2756,natural language processing,41,Processamento de Linguagem Natural,0.7047559,matched
+2757,growth mindset,23,Mentoria,0.54819196,no_match
+2758,dar feedback,1,Comunicação Assertiva,0.51335204,no_match
+2759,CloudFormation,67,Azure,0.6220809,matched
+2760,gerenciar partes interessadas,25,Gestão de Stakeholders,0.7136034,matched
+2761,gestão de produto,86,Gestão de Produto,0.7374779,matched
+2762,software testing,72,Testes Automatizados,0.6798379,matched
+2763,ci/cd,64,CI/CD,0.5409237,no_match
+2764,programação em python,30,Python,0.73023427,matched
+2765,construção de pipelines,52,Orquestração de Pipelines,0.59049845,no_match
+2766,tableau desktop,76,Tableau,0.4488535,no_match
+2767,hypothesis testing,48,Estatística Aplicada,0.66949576,matched
+2768,Assertive Communication,1,Comunicação Assertiva,0.74082327,matched
+2769,self-organization,10,Autogestão,0.5935588,no_match
+2770,frontend javascript,34,JavaScript,0.7233578,matched
+2771,LLM tracing,84,Langfuse,0.49930346,no_match
+2772,data streaming,53,Streaming de Dados,0.7013279,matched
+2773,adapting to change,8,Adaptabilidade,0.7505187,matched
+2774,Looker,78,Looker,0.36447084,no_match
+2775,cobertura de testes,72,Testes Automatizados,0.6191227,matched
+2776,data warehousing,55,Data Warehouse,0.6340888,matched
+2777,arquitetura de sistemas,73,Arquitetura de Software,0.5700284,no_match
+2778,integração de APIs,85,Hugging Face,0.3359275,no_match
+2779,PR,89,OKRs,0.2923017,no_match
+2780,mentoring,23,Mentoria,0.59977126,no_match
+2781,pipeline scheduling,84,Langfuse,0.48905876,no_match
+2782,avaliação de empresas,13,Visão de Produto,0.6058495,matched
+2783,dar feedback,1,Comunicação Assertiva,0.51335204,no_match
+2784,kubernetes cluster,55,Data Warehouse,0.39265382,no_match
+2785,integração de dados,38,Análise de Dados,0.67513955,matched
+2786,metrics,32,R,0.37733865,no_match
+2787,clustering,19,Facilitação,0.41133586,no_match
+2788,ideation,28,Inovação,0.48114508,no_match
+2789,colaboração,12,Colaboração,0.6835506,matched
+2790,orientação analítica,5,Pensamento Crítico,0.438855,no_match
+2791,RESTful API,80,Spark,0.19248825,no_match
+2792,strategic planning,26,Planejamento Estratégico,0.7466126,matched
+2793,critical analysis,5,Pensamento Crítico,0.60285175,matched
+2794,monitoramento,69,Monitoramento e Observabilidade,0.6309442,matched
+2795,strategic vision,16,Pensamento Estratégico,0.6327648,matched
+2796,user research,87,UX Research,0.545556,no_match
+2797,priorização,7,Tomada de Decisão,0.49031785,no_match
+2798,aws RDS,89,OKRs,0.40655947,no_match
+2799,descriptive statistics,32,R,0.48929733,no_match
+2800,typed javascript,34,JavaScript,0.456425,no_match
+2801,gestão de prioridades,25,Gestão de Stakeholders,0.6264694,matched
+2802,project management,17,Gestão de Projetos,0.8705769,matched
+2803,PSQL,31,SQL,0.54455435,no_match
+2804,managing resistance to change,27,Gestão de Mudanças,0.6428641,matched
+2805,trace de LLMs,84,Langfuse,0.45404807,no_match
+2806,transformações dbt,79,dbt,0.77290076,matched
+2807,cultura organizacional,99,Cultura Organizacional,0.82250804,matched
+2808,programação scala,36,Scala,0.730014,matched
+2809,indicadores-chave,69,Monitoramento e Observabilidade,0.48853362,no_match
+2810,detecção de anomalias,46,Séries Temporais,0.5435326,no_match
+2811,cloudformation,67,Azure,0.6220809,matched
+2812,OKRs,89,OKRs,0.31623778,no_match
+2813,data integration,38,Análise de Dados,0.6262342,matched
+2814,people development,23,Mentoria,0.59779537,no_match
+2815,mentoria,21,Apresentação e Oratória,0.33057863,no_match
+2816,raciocínio crítico,5,Pensamento Crítico,0.6283246,matched
+2817,org culture,99,Cultura Organizacional,0.5935598,no_match
+2818,consultas SQL,31,SQL,0.77311313,matched
+2819,estratégia de produto,86,Gestão de Produto,0.7222539,matched
+2820,ownership mindset,29,Empreendedorismo,0.565892,no_match
+2821,gestão de capital humano,0,Gestão de Pessoas,0.54344535,no_match
+2822,proactiveness,96,Gestão de Desempenho,0.49186507,no_match
+2823,basic SQL,31,SQL,0.708195,matched
+2824,fine-tuning,93,Compliance e Regulação,0.33287913,no_match
+2825,gerir times,9,Gestão do Tempo,0.6393536,matched
+2826,risk framework,92,Gestão de Riscos,0.66159576,matched
+2827,OKR planning,26,Planejamento Estratégico,0.53027356,no_match
+2828,google looker,78,Looker,0.44611058,no_match
+2829,métricas,54,Modelagem de Dados,0.36854267,no_match
+2830,prompt engineering,24,Liderança Técnica,0.42251915,no_match
+2831,negociação de salários,4,Negociação,0.4458161,no_match
+2832,azure blob,42,Large Language Models,0.17444724,no_match
+2833,statistical inference,48,Estatística Aplicada,0.6102165,matched
+2834,langchain chains,82,LangChain,0.5465883,no_match
+2835,técnicas de negociação,4,Negociação,0.77659464,matched
+2836,strategic decision making,16,Pensamento Estratégico,0.72877324,matched
+2837,apache airflow,80,Spark,0.49470425,no_match
+2838,inteligência emocional,3,Inteligência Emocional,0.8260685,matched
+2839,test-driven development,72,Testes Automatizados,0.6618289,matched
+2840,pitching,28,Inovação,0.19448209,no_match
+2841,change leadership,27,Gestão de Mudanças,0.6177683,matched
+2842,human-centered design,88,Design Thinking,0.5549543,no_match
+2843,esquema de dados,54,Modelagem de Dados,0.7101165,matched
+2844,financial analysis,90,Análise Financeira,0.79817486,matched
+2845,segurança da informação,70,Segurança de Dados,0.78937805,matched
+2846,liderança técnica,24,Liderança Técnica,0.82432675,matched
+2847,marca empregadora,98,Employer Branding,0.6495422,matched
+2848,data quality,56,Qualidade de Dados,0.81629837,matched
+2849,análise de riscos,92,Gestão de Riscos,0.7273138,matched
+2850,habilidades de escrita,22,Escrita Profissional,0.6838602,matched
+2851,data modeling,54,Modelagem de Dados,0.69397545,matched
+2852,spirit of collaboration,12,Colaboração,0.769369,matched
+2853,customer obsession,15,Foco no Cliente,0.5087858,no_match
+2854,web development javascript,34,JavaScript,0.64840627,matched
+2855,scalable data systems,36,Scala,0.69708943,matched
+2856,gerenciamento de times,9,Gestão do Tempo,0.7161389,matched
+2857,backend API,33,Java,0.30130017,no_match
+2858,fazer apresentações,21,Apresentação e Oratória,0.75026953,matched
+2859,regulação,93,Compliance e Regulação,0.60402167,matched
+2860,spark,80,Spark,0.4377541,no_match
+2861,facilitação de grupos,19,Facilitação,0.6716176,matched
+2862,pytest,61,FastAPI,0.28006607,no_match
+2863,gerenciar prazos,9,Gestão do Tempo,0.77123356,matched
+2864,code review,72,Testes Automatizados,0.6423733,matched
+2865,k8s cluster,63,Kubernetes,0.29555455,no_match
+2866,regulatory affairs,93,Compliance e Regulação,0.58595616,no_match
+2867,data transformation para modelos,32,R,0.5357237,no_match
+2868,pensamento analítico,5,Pensamento Crítico,0.5937571,no_match
+2869,data warehousing,55,Data Warehouse,0.63408875,matched
+2870,estratégia de produto,86,Gestão de Produto,0.7222539,matched
+2871,padrões de design,88,Design Thinking,0.5556289,no_match
+2872,comunicação profissional,1,Comunicação Assertiva,0.6724736,matched
+2873,fastapi development,61,FastAPI,0.53239214,no_match
+2874,curiosidade intelectual,5,Pensamento Crítico,0.43976986,no_match
+2875,product development,86,Gestão de Produto,0.56770074,no_match
+2876,IA generativa,99,Cultura Organizacional,0.3798923,no_match
+2877,org culture,99,Cultura Organizacional,0.5935598,no_match
+2878,facilitation skills,19,Facilitação,0.6436043,matched
+2879,comunicação no trabalho,22,Escrita Profissional,0.6310036,matched
+2880,agile development,73,Arquitetura de Software,0.5592985,no_match
+2881,PM skills,11,Aprendizado Contínuo,0.4866889,no_match
+2882,mentalidade ágil,3,Inteligência Emocional,0.49329573,no_match
+2883,joint work,12,Colaboração,0.48291707,no_match
+2884,entrevistas com usuários,20,Storytelling com Dados,0.4497372,no_match
+2885,spark streaming,80,Spark,0.5810472,no_match
+2886,react,2,Resolução de Conflitos,0.4594934,no_match
+2887,company culture,98,Employer Branding,0.6278188,matched
+2888,aks,89,OKRs,0.46438625,no_match
+2889,clustering,19,Facilitação,0.41133586,no_match
+2890,llm development langchain,82,LangChain,0.68260545,matched
+2891,building pipelines,52,Orquestração de Pipelines,0.57534254,no_match
+2892,Apache Spark,80,Spark,0.71351635,matched
+2893,meeting facilitation,19,Facilitação,0.81745064,matched
+2894,performance management,96,Gestão de Desempenho,0.7372314,matched
+2895,written communication,22,Escrita Profissional,0.74069524,matched
+2896,data protection,70,Segurança de Dados,0.80116034,matched
+2897,OKR framework,68,Infrastructure as Code,0.49134442,no_match
+2898,intrapreneurship,29,Empreendedorismo,0.55291575,no_match
+2899,redshift,89,OKRs,0.26508552,no_match
+2900,people leadership,0,Gestão de Pessoas,0.66197896,matched
+2901,deploy automatizado,64,CI/CD,0.48867983,no_match
+2902,carga de dados,50,Engenharia de Dados,0.59181887,no_match
+2903,written communication,22,Escrita Profissional,0.74069524,matched
+2904,negotiating deals,4,Negociação,0.7871082,matched
+2905,avaliação de riscos,92,Gestão de Riscos,0.7508604,matched
+2906,supporting growth,95,Desenvolvimento Organizacional,0.5623629,no_match
+2907,LLM,42,Large Language Models,0.4019872,no_match
+2908,emotional intelligence,3,Inteligência Emocional,0.83720005,matched
+2909,modelagem dimensional,54,Modelagem de Dados,0.56239104,no_match
+2910,mentorship skills,23,Mentoria,0.5993416,no_match
+2911,trabalhar sem supervisão,10,Autogestão,0.55432385,no_match
+2912,backlog management,59,Redis,0.41813236,no_match
+2913,microservices architecture,74,Microsserviços,0.82695335,matched
+2914,task organization,9,Gestão do Tempo,0.59527457,no_match
+2915,scalable data systems,36,Scala,0.69708943,matched
+2916,engenharia de dados,50,Engenharia de Dados,0.76276076,matched
+2917,LLM evaluation,42,Large Language Models,0.5158759,no_match
+2918,banco de documentos,58,MongoDB,0.42226285,no_match
+2919,spreadsheet skills,22,Escrita Profissional,0.4524197,no_match
+2920,workflow automation,9,Gestão do Tempo,0.4630893,no_match
+2921,testes de hipótese,48,Estatística Aplicada,0.6632953,matched
+2922,alertas,46,Séries Temporais,0.36265528,no_match
+2923,change leadership,27,Gestão de Mudanças,0.6177683,matched
+2924,team spirit,0,Gestão de Pessoas,0.42391735,no_match
+2925,Java,89,OKRs,0.29402286,no_match
+2926,R programming,32,R,0.69582444,matched
+2927,model lifecycle,83,MLflow,0.5962433,no_match
+2928,customer success mindset,15,Foco no Cliente,0.6452869,matched
+2929,mentalidade data-driven,20,Storytelling com Dados,0.64546597,matched
+2930,ajustar abordagens,8,Adaptabilidade,0.6203146,matched
+2931,text classification,41,Processamento de Linguagem Natural,0.58892584,no_match
+2932,writing skills,22,Escrita Profissional,0.64076376,matched
+2933,Apache Hive,80,Spark,0.43566334,no_match
+2934,bigquery gcp,66,Google Cloud Platform,0.4197796,no_match
+2935,org development,95,Desenvolvimento Organizacional,0.5608134,no_match
+2936,balance sheet analysis,54,Modelagem de Dados,0.4140113,no_match
+2937,autodidatismo,11,Aprendizado Contínuo,0.6013216,matched
+2938,questionar premissas,21,Apresentação e Oratória,0.46999106,no_match
+2939,adapting to change,8,Adaptabilidade,0.7505188,matched
+2940,cloud GCP,66,Google Cloud Platform,0.6821575,matched
+2941,tableau server,76,Tableau,0.5199225,no_match
+2942,talent attraction,98,Employer Branding,0.5059222,no_match
+2943,DQ,89,OKRs,0.32366353,no_match
+2944,risk-based decision,7,Tomada de Decisão,0.70512354,matched
+2945,GitHub,71,Versionamento de Código,0.730145,matched
+2946,apache kafka,80,Spark,0.4504199,no_match
+2947,orquestração de pipelines,52,Orquestração de Pipelines,0.6718962,matched
+2948,entrepreneurship,29,Empreendedorismo,0.5555581,no_match
+2949,clear writing,22,Escrita Profissional,0.53003,no_match
+2950,communication skills,1,Comunicação Assertiva,0.6435886,matched
+2951,exploração de dados,38,Análise de Dados,0.78414977,matched
+2952,ciclo de performance,96,Gestão de Desempenho,0.6356572,matched
+2953,infraestrutura como código,68,Infrastructure as Code,0.74869835,matched
+2954,productivity,96,Gestão de Desempenho,0.43024617,no_match
+2955,collaboration,12,Colaboração,0.75932956,matched
+2956,mentorship skills,23,Mentoria,0.5993416,no_match
+2957,long-term planning,26,Planejamento Estratégico,0.6629236,matched
+2958,API design,52,Orquestração de Pipelines,0.3545447,no_match
+2959,organizational transformation,27,Gestão de Mudanças,0.7762606,matched
+2960,otimização do tempo,9,Gestão do Tempo,0.5163536,no_match
+2961,google cloud data,66,Google Cloud Platform,0.73157597,matched
+2962,RNN,89,OKRs,0.34691563,no_match
+2963,conflict handling,2,Resolução de Conflitos,0.6122409,matched
+2964,monitoramento de LLM,69,Monitoramento e Observabilidade,0.62083507,matched
+2965,power bi service,75,Power BI,0.6796447,matched
+2966,NoSQL MongoDB,58,MongoDB,0.7161286,matched
+2967,desenvolvimento organizacional,95,Desenvolvimento Organizacional,0.7854688,matched
+2968,conflict mediation,2,Resolução de Conflitos,0.5884316,no_match
+2969,cultura de inovação,28,Inovação,0.7403842,matched
+2970,bargaining,4,Negociação,0.6465117,matched
+2971,PYTHON,30,Python,0.6242019,matched
+2972,redigir documentos,22,Escrita Profissional,0.39109975,no_match
+2973,LSTM,79,dbt,0.41861627,no_match
+2974,docker images,47,Visão Computacional,0.49993032,no_match
+2975,automação de workflows,9,Gestão do Tempo,0.5181299,no_match
+2976,ideação,28,Inovação,0.4852069,no_match
+2977,SQL analytics,31,SQL,0.7578548,matched
+2978,GDPR,89,OKRs,0.32070702,no_match
+2979,people development,23,Mentoria,0.59779537,no_match
+2980,vector search,43,Embeddings e Busca Vetorial,0.4234676,no_match
+2981,estatística com R,32,R,0.7584509,matched
+2982,product manager,86,Gestão de Produto,0.68512976,matched
+2983,consistência de dados,56,Qualidade de Dados,0.7380982,matched
+2984,ETL development,51,ETL e ELT,0.5433161,no_match
+2985,mediação de conflitos,2,Resolução de Conflitos,0.62993836,matched
+2986,testes A/B,72,Testes Automatizados,0.6336262,matched
+2987,data governance,50,Engenharia de Dados,0.57916653,no_match
+2988,product vision,13,Visão de Produto,0.7193588,matched
+2989,statistical modeling,48,Estatística Aplicada,0.62894917,matched
+2990,comunicação interpessoal,1,Comunicação Assertiva,0.559237,no_match
+2991,organizational change,27,Gestão de Mudanças,0.7782737,matched
+2992,GraphQL,60,Desenvolvimento de APIs,0.54295623,no_match
+2993,user interviews,1,Comunicação Assertiva,0.41465575,no_match
+2994,time prioritization,9,Gestão do Tempo,0.69607395,matched
+2995,autocontrole emocional,3,Inteligência Emocional,0.6773045,matched
+2996,neural nets,40,Deep Learning,0.583574,no_match
+2997,interpersonal communication,1,Comunicação Assertiva,0.6133512,matched
+2998,dados em tempo real,53,Streaming de Dados,0.6992316,matched
+2999,infraestrutura de dados,50,Engenharia de Dados,0.7098599,matched
+3000,pensar como PM,16,Pensamento Estratégico,0.34938926,no_match
+3001,sprint planning,26,Planejamento Estratégico,0.4418156,no_match
+3002,facilitar reuniões,19,Facilitação,0.73969316,matched
+3003,planejar estrategicamente,26,Planejamento Estratégico,0.7427436,matched
+3004,feature creation,44,Engenharia de Features,0.5459038,no_match
+3005,application performance monitoring,96,Gestão de Desempenho,0.58912987,no_match
+3006,mlflow,83,MLflow,0.53357387,no_match
+3007,mentalidade de crescimento,95,Desenvolvimento Organizacional,0.5460547,no_match
+3008,OD,89,OKRs,0.30256385,no_match
+3009,design thinking,88,Design Thinking,0.7620051,matched
+3010,critical judgment,5,Pensamento Crítico,0.6218198,matched
+3011,Employer Branding,98,Employer Branding,0.74978995,matched
+3012,ingestão de dados,38,Análise de Dados,0.6528747,matched
+3013,data communication,20,Storytelling com Dados,0.64000106,matched
+3014,performance feedback,96,Gestão de Desempenho,0.6733122,matched
+3015,postgresql queries,57,PostgreSQL,0.7835742,matched
+3016,meeting facilitation,19,Facilitação,0.81745064,matched
+3017,T&D,89,OKRs,0.34784395,no_match
+3018,orquestração de pipelines,52,Orquestração de Pipelines,0.6718962,matched
+3019,cultura da empresa,99,Cultura Organizacional,0.6976627,matched
+3020,cloud GCP,66,Google Cloud Platform,0.6821575,matched
+3021,logical reasoning,48,Estatística Aplicada,0.4529735,no_match
+3022,data compliance,56,Qualidade de Dados,0.6189444,matched
+3023,adapting to change,8,Adaptabilidade,0.7505188,matched
+3024,sound judgment,5,Pensamento Crítico,0.45273438,no_match
+3025,indicadores-chave,69,Monitoramento e Observabilidade,0.48853362,no_match
+3026,comunicar dados,20,Storytelling com Dados,0.74014705,matched
+3027,desenvolvimento de APIs,85,Hugging Face,0.43162107,no_match
+3028,pipeline orchestration,52,Orquestração de Pipelines,0.68498796,matched
+3029,next.js,34,JavaScript,0.3111552,no_match
+3030,advanced java,33,Java,0.4471613,no_match
